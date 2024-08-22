@@ -1,0 +1,20 @@
+---
+import { chains } from '../../content/chains'
+import { getTrees } from '../../content/trees'
+
+const chainId = Number(Astro.params.chain) as keyof typeof chains
+const treeId = Number(Astro.params.tree)
+
+export async function getStaticPaths() {
+  return (
+    (await getTrees({ chainId }))
+    .map(
+      (tree) => (tree.valid && (
+        { params: { chain: chainId, tree: tree.id } }
+      ))
+    )
+    .filter(Boolean)
+  )
+}
+---
+<h1>Tree {treeId} on {chains[chainId]}</h1>

@@ -1,0 +1,63 @@
+---
+import Layout from "../../layouts/Layout.astro"
+import { chains } from '../../content/chains'
+import { getTrees } from "../../content/trees"
+
+const chainId = Number(Astro.params.chain) as keyof typeof chains
+const trees = await getTrees({ chainId })
+
+export function getStaticPaths() {
+  return Object.keys(chains).map((chain) => ({ params: { chain } }))
+}
+---
+<Layout title={`${chains[chainId]} Hats Explorer`}`>
+  <main>
+    <h1>Hats For Chain: {chains[chainId]} ({chainId})</h1>
+
+    <ol>
+      {trees?.map((top) => {
+        if(top.valid) {
+          return (
+            <li>
+              <a href={`/${chainId}/${top.id}/`}>
+                <h2>
+                  Tree: 0x{Number(top.id).toString(16).toUpperCase()}:
+                  {top.image ? (
+                    <img src={top.image} alt={top.name}/>
+                  ) : (
+                    <span>¿?</span>
+                  )}:
+                  {top.name}
+                </h2>
+              </a>
+              {top.description && <p>{top.description}</p>}
+            </li>
+          )
+        } else {
+          return <li><h2>Error: {top.error}</h2></li>
+        }
+      })}
+    </ol>
+  </main>
+</Layout>
+
+<style>
+  img {
+    height: 1em;
+  }
+
+  a:hover, a:focus {
+    color: hotpink;
+  }
+  :is(a:hover, a:focus) img {
+    height: 90vh;
+    max-width: 100%;
+    position: fixed;
+    top: 5vh;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  h2 {
+    display: inline;
+  }
+</style>

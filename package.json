@@ -1,5 +1,5 @@
 {
-  "name": "hats",
+  "name": "list-hats",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,8 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.14.4",
     "@astrojs/check": "^0.9.3",
-    "typescript": "^5.5.4"
+    "@hatsprotocol/details-sdk": "^0.0.1",
+    "@hatsprotocol/sdk-v1-subgraph": "^1.0.0",
+    "astro": "^4.14.4",
+    "typescript": "^5.5.4",
+    "zod": "^3.23.8"
   }
 }
