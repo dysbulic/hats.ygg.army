@@ -1,0 +1,27 @@
+---
+import type { BadHat, Hat } from '../content/trees';
+
+interface Props {
+	hat: Hat | BadHat;
+}
+
+const { hat } = Astro.props;
+---
+<h2>
+	{hat.id && `Tree 0x${Number(hat.id).toString(16).toUpperCase()}:`}
+	{hat.image && (
+		<img src={hat.image} alt={hat.name}/><span>:</span>
+	)}
+	{!hat.valid && hat.error && `Error: ${hat.error}`}
+	{hat.name}
+</h2>
+
+<style>
+  img {
+    height: 1em;
+  }
+
+  h2 {
+    display: inline;
+  }
+</style>

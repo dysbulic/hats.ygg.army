@@ -24,7 +24,11 @@ export type Hat = {
 }
 
 export type BadHat = {
-  id: string
+  id?: string
+  name?: string
+  description?: string
+  image?: string
+  createdAt?: Date | string
   error: string
   loaded: boolean
   valid: false

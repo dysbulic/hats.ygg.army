@@ -5,16 +5,21 @@ import { getTrees } from '../../content/trees'
 const chainId = Number(Astro.params.chain) as keyof typeof chains
 const treeId = Number(Astro.params.tree)
 
-export async function getStaticPaths() {
-  return (
-    (await getTrees({ chainId }))
-    .map(
-      (tree) => (tree.valid && (
-        { params: { chain: chainId, tree: tree.id } }
-      ))
-    )
-    .filter(Boolean)
-  )
-}
+export const getStaticPaths = async () => (
+  (await Promise.all(
+    Object.keys(chains).map(async (chain) => {
+      const chainId = Number(chain)
+      return (
+        (await getTrees({ chainId }))
+        .map(
+          (tree) => (tree.valid && (
+            { params: { chain: chainId, tree: tree.id } }
+          ))
+        )
+        .filter(Boolean)
+      )
+    })
+  )).flat()
+)
 ---
 <h1>Tree {treeId} on {chains[chainId]}</h1>

@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro"
 import { chains } from '../../content/chains'
 import { getTrees } from "../../content/trees"
+import Entry from "../../components/Entry.astro"
 
 const chainId = Number(Astro.params.chain) as keyof typeof chains
 const trees = await getTrees({ chainId })
@@ -12,52 +13,43 @@ export function getStaticPaths() {
 ---
 <Layout title={`${chains[chainId]} Hats Explorer`}`>
   <main>
-    <h1>Hats For Chain: {chains[chainId]} ({chainId})</h1>
+    <h1>
+      <a href="/">←</a>
+      Hats For Chain: {chains[chainId]} ({chainId})
+    </h1>
 
     <ol>
-      {trees?.map((top) => {
-        if(top.valid) {
-          return (
-            <li>
-              <a href={`/${chainId}/${top.id}/`}>
-                <h2>
-                  Tree: 0x{Number(top.id).toString(16).toUpperCase()}:
-                  {top.image ? (
-                    <img src={top.image} alt={top.name}/>
-                  ) : (
-                    <span>¿?</span>
-                  )}:
-                  {top.name}
-                </h2>
-              </a>
-              {top.description && <p>{top.description}</p>}
-            </li>
-          )
-        } else {
-          return <li><h2>Error: {top.error}</h2></li>
-        }
-      })}
+      {trees?.map((top) => (
+        <li>
+          {top.id ? (
+            <a href={`/${chainId}/${top.id}/`}>
+              <Entry hat={top}/>
+            </a>
+          ) : (
+            <Entry hat={top}/>
+          )}
+          {top.description && <p>{top.description}</p>}
+        </li>
+      ))}
     </ol>
   </main>
 </Layout>
 
 <style>
-  img {
-    height: 1em;
-  }
-
+	a {
+		text-decoration: none;
+	}
   a:hover, a:focus {
     color: hotpink;
-  }
-  :is(a:hover, a:focus) img {
+		text-decoration: underline;
+		text-decoration-style: dashed;
+	}
+  :is(a:hover, a:focus) :global(img) {
     height: 90vh;
     max-width: 100%;
     position: fixed;
     top: 5vh;
     left: 50%;
     transform: translateX(-50%);
-  }
-  h2 {
-    display: inline;
   }
 </style>
