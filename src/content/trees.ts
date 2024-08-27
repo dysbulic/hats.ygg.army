@@ -1,6 +1,6 @@
 import { HatsSubgraphClient } from '@hatsprotocol/sdk-v1-subgraph'
 import { HatsDetailsClient } from '@hatsprotocol/details-sdk'
-import { ipfs2HTTP } from '../utils'
+import { ipfs2HTTP, type Maybe } from '../utils'
 
 interface GetTreeProps {
   chainId: number
@@ -34,21 +34,28 @@ export type BadHat = {
   valid: false
 }
 
+export type Tree<T> = {
+  root: T,
+  children: Array<T>
+}
+
+const clients = {
+  graph: new HatsSubgraphClient({}),
+  details: new HatsDetailsClient({
+    provider: 'pinata',
+    pinata: { pinningKey: import.meta.env.PUBLIC_PINNING_KEY },
+  }),
+}
+
 export const getTrees = (
   async (
     { chainId, count = 100, page = 0 }: GetTreeProps
   ): Promise<Array<Hat | BadHat>> => {
-    const graphClient = new HatsSubgraphClient({})
-    const detailsClient = new HatsDetailsClient({
-      provider: 'pinata',
-      pinata: { pinningKey: import.meta.env.PUBLIC_PINNING_KEY },
-    })
-
-    const trees = await graphClient.getTreesPaginated({
+    const trees = await clients.graph.getTreesPaginated({
       chainId,
       props: {
         hats: {
-          props: {  
+          props: {
             prettyId: true,
             details: true,
             imageUri: true,
@@ -78,7 +85,7 @@ export const getTrees = (
           } as Hat
           if(details?.startsWith('ipfs://')) {
             const { parsedData } = (
-              await detailsClient.get(details.replace(/^ipfs:\/\//, ''))
+              await clients.details.get(details.replace(/^ipfs:\/\//, ''))
             )
 
             if(!parsedData) throw new Error('No data.')
@@ -102,5 +109,29 @@ export const getTrees = (
         }
       })
     )
+  }
+)
+
+export const getTree = (
+  async (
+    { chainId, id }:
+    { chainId: number, id: number }
+  ): Promise<Maybe<Tree<Hat>>> => {
+    const res = await clients.graph.getTree({
+      chainId,
+      treeId: id,
+      props: {
+        hats: {
+          props: {
+            prettyId: true,
+            details: true,
+            imageUri: true,
+            createdAt: true,
+          },
+        },
+      },
+    })
+    console.debug({ res })
+    return null
   }
 )

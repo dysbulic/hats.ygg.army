@@ -4,17 +4,21 @@ import { chains } from '../../content/chains'
 import { getTrees } from "../../content/trees"
 import Entry from "../../components/Entry.astro"
 
-const chainId = Number(Astro.params.chain) as keyof typeof chains
+const chainId = (
+  Number(Astro.params.chain) as keyof typeof chains
+)
 const trees = await getTrees({ chainId })
 
 export function getStaticPaths() {
-  return Object.keys(chains).map((chain) => ({ params: { chain } }))
+  return Object.keys(chains).map(
+    (chain) => ({ params: { chain } })
+  )
 }
 ---
 <Layout title={`${chains[chainId]} Hats Explorer`}`>
   <main>
     <h1>
-      <a href="/">←</a>
+      <a href="../">←</a>
       Hats For Chain: {chains[chainId]} ({chainId})
     </h1>
 
