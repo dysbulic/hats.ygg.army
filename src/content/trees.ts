@@ -5,7 +5,7 @@ import { ipfs2HTTP, type Maybe } from '../utils'
 interface GetTreeProps {
   chainId: number
   count?: number
-  page?: number
+  load?: boolean
 }
 
 type Start = {
@@ -13,18 +13,30 @@ type Start = {
   valid: boolean
 }
 
+type Return = {
+  id: string
+  prettyId?: string
+  imageUri?: string
+  createdAt?: Maybe<string>
+  details?: string
+}
+
 export type Hat = {
   id: string
-  name: string
+  prettyId?: string
+  treeId?: number
+  name?: string
   description?: string
   image?: string
-  createdAt: Date | string
-  loaded: true
+  createdAt: Date
+  loaded: boolean
   valid: true
 }
 
 export type BadHat = {
   id?: string
+  prettyId?: string
+  treeId?: number
   name?: string
   description?: string
   image?: string
@@ -35,103 +47,178 @@ export type BadHat = {
 }
 
 export type Tree<T> = {
-  root: T,
-  children: Array<T>
+  node: T,
+  children: Array<Tree<T>>
+}
+
+const hatProps = {
+  prettyId: true,
+  details: true,
+  imageUri: true,
+  createdAt: true,
 }
 
 const clients = {
   graph: new HatsSubgraphClient({}),
   details: new HatsDetailsClient({
     provider: 'pinata',
-    pinata: { pinningKey: import.meta.env.PUBLIC_PINNING_KEY },
+    pinata: {
+      pinningKey: (
+        process?.env?.PUBLIC_PINNING_KEY
+        ?? import.meta?.env?.PUBLIC_PINNING_KEY
+     )
+   },
   }),
 }
 
-export const getTrees = (
+export const completeHat = async (ret: Return) => {
+  let base = { loaded: false, valid: false } as Start
+  try {
+    const { id, prettyId, details, imageUri: imageURI, createdAt } = ret
+
+    if(!id) throw new Error('No ID for entry.')
+
+    console.debug(`Completing Hat: ${id}.`)
+
+    base = {
+      loaded: true,
+      valid: true,
+      id,
+      prettyId,
+      image: imageURI && ipfs2HTTP(imageURI),
+      createdAt: createdAt ? new Date(createdAt) : null,
+    } as Hat
+
+    console.debug(`Using Details: ${details}.`)
+
+    if(details?.startsWith('ipfs://')) {
+      const { parsedData } = (
+        await clients.details.get(details.replace(/^ipfs:\/\//, ''))
+      )
+
+      if(!parsedData) throw new Error('No data.')
+
+      return {
+        ...base,
+        ...parsedData.data,
+      } as Hat
+    } else {
+      return {
+        ...base,
+        name: details || null,
+      } as Hat
+    }
+  } catch(err) {
+    return {
+      ...base,
+      valid: false,
+      error: (err as Error).message
+    } as BadHat
+  }
+}
+
+export const getTopHats = (
   async (
-    { chainId, count = 100, page = 0 }: GetTreeProps
+    { chainId, count = 100, load = true }: GetTreeProps
   ): Promise<Array<Hat | BadHat>> => {
-    const trees = await clients.graph.getTreesPaginated({
-      chainId,
-      props: {
-        hats: {
-          props: {
-            prettyId: true,
-            details: true,
-            imageUri: true,
-            createdAt: true,
+    let done = false
+    let page = 0
+    let out: Array<Hat | BadHat> = []
+    let index = 1
+    do {
+      const trees = await clients.graph.getTreesPaginated({
+        chainId,
+        props: {
+          hats: {
+            props: hatProps,
+            filters: { first: 1 }, // fetch only the top-hat
           },
-          filters: { first: 1 }, // fetch only the top-hat
         },
-      },
-      page,
-      perPage: count,
-    })
-
-    return await Promise.all(
-      trees.map(async ({ hats: [top] = [] }) => {
-        let base = { loaded: false, valid: false } as Start
-        try {
-          const { prettyId: id, details, imageUri: imageURI, createdAt } = top
-
-          if(!id) throw new Error('No ID for entry.')
-
-          base = {
-            loaded: true,
-            valid: true,
-            id,
-            image: imageURI && ipfs2HTTP(imageURI),
-            createdAt: createdAt ?? '¿?',
-          } as Hat
-          if(details?.startsWith('ipfs://')) {
-            const { parsedData } = (
-              await clients.details.get(details.replace(/^ipfs:\/\//, ''))
-            )
-
-            if(!parsedData) throw new Error('No data.')
-
-            return {
-              ...base,
-              ...parsedData.data,
-            } as Hat
-          } else {
-            return {
-              ...base,
-              name: details || '¿?',
-            } as Hat
-          }
-        } catch(err) {
-          return {
-            ...base,
-            valid: false,
-            error: (err as Error).message
-          } as BadHat
-        }
+        page: page++,
+        perPage: count,
       })
-    )
+
+      console.debug(
+        `Got ${trees.length} tree${trees.length === 1 ? '' : 's'}`
+        + ` for chain ${chainId}.`
+      )
+
+      done = trees.length < count
+
+      out.push(...(await Promise.all(
+        trees.map(async ({ hats: [top] = [] }) => {
+          const hat = load ? (
+            await completeHat(top)
+          ) : (
+            {
+              ...top,
+              loaded: false,
+              valid: true,
+              createdAt: top.createdAt ? new Date(top.createdAt) : null,
+            } as Hat
+          )
+          hat.treeId = index++
+          return hat
+        })
+      )))
+    } while(!done)
+
+    return out
   }
 )
 
-export const getTree = (
+export const getHats = (
   async (
-    { chainId, id }:
-    { chainId: number, id: number }
-  ): Promise<Maybe<Tree<Hat>>> => {
+    { chainId, treeId }:
+    { chainId: number, treeId: number }
+  ): Promise<Maybe<Array<Hat | BadHat>>> => {
     const res = await clients.graph.getTree({
       chainId,
-      treeId: id,
-      props: {
-        hats: {
-          props: {
-            prettyId: true,
-            details: true,
-            imageUri: true,
-            createdAt: true,
-          },
-        },
-      },
+      treeId,
+      props: { hats: { props: hatProps } },
     })
-    console.debug({ res })
-    return null
+    return (
+      res.hats ? (
+        Promise.all(res.hats.map(completeHat))
+      ) : (
+        null
+      )
+    )
+  }
+)
+export const getTree = (
+  async (
+    { chainId, treeId }:
+    { chainId: number, treeId: number }
+  ): Promise<Maybe<Tree<Hat | BadHat>>> => {
+    const hats = await getHats({ chainId, treeId })
+
+    if(!hats) return null
+
+    const base = {} as Tree<Hat | BadHat>
+    hats.forEach((hat) => {
+      const ids = (
+        hat.prettyId
+        ?.replace(/^0x/, '')
+        .split('.')
+        .map((x) => Number(`0x${x}`))
+      )
+      console.debug({ ids })
+      if(ids) {
+        const rootId = ids.shift()
+        let currId = ids.shift()
+        let current = base
+        while(currId != null) {
+          console.debug({ currId })
+          current.children ??= []
+          current = current.children[currId - 1] ??= (
+            {} as Tree<Hat | BadHat>
+          )
+          currId = ids.shift()
+        }
+        current.node = hat
+      }
+    })
+    return base
   }
 )

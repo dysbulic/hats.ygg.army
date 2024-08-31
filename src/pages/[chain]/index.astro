@@ -1,13 +1,13 @@
 ---
 import Layout from "../../layouts/Layout.astro"
 import { chains } from '../../content/chains'
-import { getTrees } from "../../content/trees"
+import { getTopHats } from "../../content/trees"
 import Entry from "../../components/Entry.astro"
 
 const chainId = (
   Number(Astro.params.chain) as keyof typeof chains
 )
-const trees = await getTrees({ chainId })
+const trees = await getTopHats({ chainId })
 
 export function getStaticPaths() {
   return Object.keys(chains).map(

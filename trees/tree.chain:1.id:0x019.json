@@ -1,0 +1,12 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001900000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000019",
+    "image": "https://ipfs.io/ipfs/bafkreifmfaf7svsfqqcixcz2wbyl2ysymz2i4y2tgqrcmqshzhm7q7gu44",
+    "createdAt": null,
+    "name": "RealityCrafter - Farcaster Accounts",
+    "description": "This top hat grants access to all the Farcaster accounts which belong to RealityCrafter."
+  }
+}

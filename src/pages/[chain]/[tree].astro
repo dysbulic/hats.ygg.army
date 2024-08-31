@@ -1,6 +1,6 @@
 ---
 import { chains } from '../../content/chains'
-import { getTrees } from '../../content/trees'
+import { getTopHats } from '../../content/trees'
 
 const chainId = Number(Astro.params.chain) as keyof typeof chains
 const treeId = Number(Astro.params.tree)
@@ -10,7 +10,7 @@ export const getStaticPaths = async () => (
     Object.keys(chains).map(async (chain) => {
       const chainId = Number(chain)
       return (
-        (await getTrees({ chainId }))
+        (await getTopHats({ chainId }))
         .map(
           (tree) => (tree.valid && (
             { params: { chain: chainId, tree: tree.id } }

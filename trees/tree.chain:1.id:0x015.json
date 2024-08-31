@@ -1,0 +1,54 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000015",
+    "image": "https://ipfs.io/ipfs/bafkreiflhvajonjxvu65xkxlbys44n5zxcvxhdvvd6y3oylkz3on5ggafm",
+    "createdAt": null,
+    "name": "CoDAO",
+    "description": "The proto tree for the CoDAO",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": false,
+        "id": "0x0000001500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0001",
+        "image": "https://ipfs.io/ipfs/bafybeif6zjn34gi66pcio7egol6s5osbrjnp4kth56xw6k5clba76bbiyy",
+        "createdAt": null,
+        "error": "No data."
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001500010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000015.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreie7ddk6vdde7e3e7ax47qrrsebehlaz4iearsk4miyxkqiimzj47i",
+            "createdAt": null,
+            "name": "Fallback Council Safe",
+            "description": "Worn by the Safe which the Fallback Council controls.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001500010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000015.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreifqh5vokipzvmfg4xgmktoeoj3f26tadmfq22hcubav2mg5wecp3m",
+            "createdAt": null,
+            "name": "Fallback Council Member",
+            "description": "The Fallback Council are signers on a CoFallback Safe, which can control the CoDAO Safe if needed in the case the oSnap or Snapshot system fails (as recommended by the UMA team).\n\nThe Fallback Council is a group of highly trusted CO Holders and web3 community members, enabled to manage any needed emergency proceedings, but not expected to be active except for in the case of emergencies.\n\nWe are targeting 7 Fallback Council Hats and a 5 of 7 voting threshold for the Fallback Council Safe for this proposal and phase. The Fallback Council Hats are granted to individuals nominated by the Coordinape Foundation and elected by CO Token holders.",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}
