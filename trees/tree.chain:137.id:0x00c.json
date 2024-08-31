@@ -1,0 +1,27 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000c00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000000c",
+    "image": "https://ipfs.io/ipfs/bafkreiaqqarzhc6yzuhzrqtjahiyv7vvdl2q7rd5iauirokdkgdgaa6xvq",
+    "createdAt": null,
+    "name": "Giving Circle ",
+    "description": "This is our first giving circle. Season 01: 2023-2024. "
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000c00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000000c.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Chief Selector",
+        "description": "This role selects the organization that we will send our donations to at the end of each round. ",
+        "authorities": []
+      }
+    }
+  ]
+}

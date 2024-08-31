@@ -1,0 +1,27 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000e00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000000e",
+    "image": "",
+    "createdAt": null,
+    "name": "AIFS Governance Cell",
+    "description": "This tree is for the Governance Cell of AIFS"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000e00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000000e.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Governance Cell Contributor",
+        "description": "Standard Governance Cell Contributor",
+        "authorities": []
+      }
+    }
+  ]
+}

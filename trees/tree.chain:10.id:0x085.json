@@ -1,0 +1,27 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000008500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000085",
+    "image": "https://ipfs.io/ipfs/bafkreib7k33k74kvkd4nocoopbaqympb7mnz625p247ndj6z7iizjoc5tm",
+    "createdAt": null,
+    "name": "dmeter ",
+    "description": "dMeter - ecosystem of dMRV Innovators, forward-thinking landholders, web3 technical innovators, and subject matter experts for ecological restoration in building systems that enable anyone in the world to get compensated and recognized for regenerative action."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000008500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000085.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Core Steward - Community Engagement ",
+        "description": "Cultivates a thriving community of dMRV builders and beneficiaries through facilitating networking sessions, hosting twitter sessions, and amplifying dMRV builders on social platforms",
+        "authorities": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000009d00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000009d",
+    "image": "https://ipfs.io/ipfs/bafkreid22t5is5kiiavjjj3rueicse2fl2o334izvnt7zibhpjo3tg2foa",
+    "createdAt": null,
+    "name": "Bloom International",
+    "description": "Bloom International is the Local Bloom hub whose geographic domain is global. They are responsible for maintaining BloomNetwork.earth and supporting a culture of peer-to-peer collaboration and knowledge sharing. At the outset of Bloom, they also anchor the global working groups on marketing, grants, community, and tech who facilitate staff and volunteer sharing across the Local Bloom hubs. For example, the marketing team helps promote Local Blooms' activities to attract more public support, and the grants team researches financial opportunities to support the impact areas different Blooms are working in. At the outset, Bloom International also manages the multisig that distributes FLO (Flowers) and Grants for the Local Action Rewards program. Updates by Bloom International are posted at https://bloomnetwork.earth/international ."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009d00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000009d.0001",
+        "image": "https://ipfs.io/ipfs/bafkreifk3ut3ac2jzr6t6anakxeb6guhl7ex6n5prm3eoukjc4sqxwc3mi",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "This hat future-proofs the rest of the tree, as it can be granted the ability to automate hat revocation, claiming, and minting for any hats below it based on specified accountability criteria",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009d00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009d.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreihkx3oogj2g7rywtzxg47bgwxrzsao37fouguszc3pd5657j7ysiq",
+            "createdAt": null,
+            "name": "Creatives",
+            "description": "The marketing working group in Bloom. There be magic here!\nhttps://bloomnetwork.earth/bloomers-without-borders",
+            "authorities": [
+              {
+                "label": "Marketing Google Drive Folder",
+                "description": "Setting up Guild is beyond our limited capacity right now, but one authority this group has is access to Bloom's Marketing Folder in our Google Drive.",
+                "link": "",
+                "imageUrl": "",
+                "gate": ""
+              },
+              {
+                "label": "Marketing Budget Management",
+                "description": "In the future, this group will likely have their own multisig to autonomously manage the marketing team's budget.",
+                "link": "",
+                "imageUrl": "",
+                "gate": ""
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009d00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009d.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreig33w4q3efbgkovpzifxvo2tq2vy4fnganxcncgpm7d5pcvuglvjm",
+            "createdAt": null,
+            "name": "Treasure Builders",
+            "description": "This team manages the multisig for Bloom Network Local Action Rewards and Bloom International's SAFE.",
+            "authorities": [
+              {
+                "label": "Post and Sign Multisig Transactions",
+                "description": "",
+                "link": "",
+                "imageUrl": "",
+                "gate": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

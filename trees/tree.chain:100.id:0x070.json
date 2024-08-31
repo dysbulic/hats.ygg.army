@@ -1,0 +1,71 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000007000000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000070",
+    "image": "https://ipfs.io/ipfs/bafkreigxawubaa2bd2kichbfbzsbzau7s47ylcmiprerxu6fak66eqstqy",
+    "createdAt": null,
+    "name": "Proto-CCA Member Org",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007000010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000070.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "Admin for membership roles",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007000010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000070.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreihudwy6jbxgioqs7tvrbuhjiipfcj5kq6vyr4txxj72iuf5v7alum",
+            "createdAt": null,
+            "name": "NFT Association Member",
+            "description": "Association Members have paid their membership dues and receive the benefits of being in the association.",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007000020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000070.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin 2",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007000020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000070.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Whitelist Association Member",
+            "description": "At the moment, those who attended the CCG and shared their wallet are whitelisted for this hat. The technical roles and responsibilities for this hat are TBD once the Austrian / Swiss association legal entity has been cleared.",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000e00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000000e",
+    "image": "https://ipfs.io/ipfs/bafkreiattl2kdhddvlmn6wuqqd5jnagnfigwxxd75vkkkq46wr7fd7tlwy",
+    "createdAt": null,
+    "name": "Smart Invoice DAO Arbitration",
+    "description": "This is the top hat for Smart Invoice's arbitration operation"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000e00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000000e.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Arbitration Operator Admin",
+        "description": "This hat administers arbitration operators on behalf the SmartInvoice DAO.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000e00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000000e.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Arbitration Operators",
+            "description": "This hat allows arbitration operators to resolve conflicts between users of SmartInvoice on behalf of SmartInvoice DAO.",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

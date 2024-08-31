@@ -1,0 +1,287 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001a00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000001a",
+    "image": "https://ipfs.io/ipfs/bafybeieazjc75xvgm3egwepwufdo6hx2eadomwsczftpglpyga2cdlmdxi",
+    "createdAt": null,
+    "name": "Clinic [alpha]",
+    "description": "Apprenticeship DAO for open source legal engineering and cryptolaw. ",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001a00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001a.0001",
+        "image": "https://ipfs.io/ipfs/bafybeieazjc75xvgm3egwepwufdo6hx2eadomwsczftpglpyga2cdlmdxi",
+        "createdAt": null,
+        "name": "Apprentice",
+        "description": "Students learning by helping Patrons.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "1L",
+            "description": "Currently in first year law school.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "2L",
+            "description": "Currently in second year law school.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0001.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "3L",
+            "description": "Currently in third year law school.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0001.0004",
+            "image": "",
+            "createdAt": null,
+            "name": "Homeschool",
+            "description": "Mostly likely a self-taught developer working on legal engineering projects.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0001.0005",
+            "image": "https://ipfs.io/ipfs/bafybeieazjc75xvgm3egwepwufdo6hx2eadomwsczftpglpyga2cdlmdxi",
+            "createdAt": null,
+            "name": "Onboard",
+            "description": "Not an Apprentice yet.",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001a00020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001a.0002",
+        "image": "https://ipfs.io/ipfs/bafybeieazjc75xvgm3egwepwufdo6hx2eadomwsczftpglpyga2cdlmdxi",
+        "createdAt": null,
+        "name": "Journeyperson",
+        "description": "Help Apprentices help Patrons.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Head",
+            "description": "Leads a house.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0002.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Member",
+            "description": "Does not lead a house.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00020003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0002.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Onboard",
+            "description": "Not yet a member.",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001a00030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001a.0003",
+        "image": "https://ipfs.io/ipfs/bafybeieazjc75xvgm3egwepwufdo6hx2eadomwsczftpglpyga2cdlmdxi",
+        "createdAt": null,
+        "name": "Patron",
+        "description": "Public legal education from Clinic and peer support from fellow Patrons.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0003.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Member",
+            "description": "Paid $300 to join.",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001a00040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001a.0004",
+        "image": "",
+        "createdAt": null,
+        "name": "Support",
+        "description": "Support Patron, Apprentices and Journeypersons as they work and play together.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0004.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "C-Corp Director",
+            "description": "C-corp directors",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00040002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0004.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Operator",
+            "description": "Top-level DAO support.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00040003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0004.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "LLC Member",
+            "description": "Members of the LexClinic Community LLC.",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001a00050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001a.0005",
+        "image": "https://ipfs.io/ipfs/bafkreiajcz6jplrfp2wnnwiwp4gdmopzsjpsaf6jgtihemevff5qinbb7a",
+        "createdAt": null,
+        "name": "Recognized",
+        "description": "An 0x address is Recognized by the potential Patron and the Clinic as the potential Patron's signing 0x at the Clinic.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00050001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0005.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiajcz6jplrfp2wnnwiwp4gdmopzsjpsaf6jgtihemevff5qinbb7a",
+            "createdAt": null,
+            "name": "Entry consent",
+            "description": "The potential Patron makes the decision to be Recognized.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001a00050002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001a.0005.0002",
+            "image": "https://ipfs.io/ipfs/bafkreiajcz6jplrfp2wnnwiwp4gdmopzsjpsaf6jgtihemevff5qinbb7a",
+            "createdAt": null,
+            "name": "Clinic consent",
+            "description": "The Clinic makes the decision to recognize.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001a00050002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001a.0005.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafkreidsj4qwnmyrf36omsyf6wxs3vpenlkrp5xa22e4dby2okimag6hoq",
+                "createdAt": null,
+                "name": "conference planners",
+                "description": "Access to our conference planning Charmverse pages.",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

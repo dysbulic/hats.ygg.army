@@ -1,0 +1,185 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x000000a800000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x000000a8",
+    "image": "https://ipfs.io/ipfs/bafkreifreunlmsvvudfqx643hierekigevt46iprhwopjtn7fdyh6ljsqy",
+    "createdAt": null,
+    "name": "Hamza Labs",
+    "description": "Decentralized E-Commerce Marketplace",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x000000a800010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x000000a8.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a800010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a8.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Hamza Governance Council",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000a800010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x000000a8.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Product Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Lead Dev",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000100010001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0001.0001.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Full-Time Dev",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000a800010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x000000a8.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Operations Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Legally Compliant Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Finance Director Hat",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000200020001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0002.0002.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Finance Auditor",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000a800010001000300000000000000000000000000000000000000000000",
+                "prettyId": "0x000000a8.0001.0001.0003",
+                "image": "",
+                "createdAt": null,
+                "name": "Marketing Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0003.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Farcaster",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a800010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a8.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Governance Council Members",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

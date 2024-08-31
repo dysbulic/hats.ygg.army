@@ -1,0 +1,61 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000006b00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000006b",
+    "image": "https://ipfs.io/ipfs/QmTmhs9gYg4rtS1z7CqyVzzQuJA1N9122V27hCcXHf8aDD",
+    "createdAt": null,
+    "name": "Top Hat"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006b00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000006b.0001",
+        "image": "https://ipfs.io/ipfs/QmTmhs9gYg4rtS1z7CqyVzzQuJA1N9122V27hCcXHf8aDD",
+        "createdAt": null,
+        "name": "Admin Hat"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006b00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000006b.0001.0001",
+            "image": "https://ipfs.io/ipfs/",
+            "createdAt": null,
+            "name": "Game Hat"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006b00010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006b.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/",
+                "createdAt": null,
+                "name": "Player Hat"
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006b00010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006b.0001.0001.0002",
+                "image": "https://ipfs.io/ipfs/",
+                "createdAt": null,
+                "name": "Character Hat"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000002a00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000002a",
+    "image": "https://ipfs.io/ipfs/bafkreicfhkl5amvgdoh47te26u6fikcecelivtub2ijoa4uakkzxnqk5fu",
+    "createdAt": null,
+    "name": "ADA Master Hat",
+    "description": "This hat is controlled by the governance of Africa DeFi Alliance DAO. It directly distributes the first layer of hats of the organization."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000002a00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000002a.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Council Seat",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Operation Workstream Leader",
+            "description": "Keeps the DAO running and updated as it evolves  \nSupports other guilds to coordinate around governance decisions  ",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Operation Workstream",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Operation Workstream",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Tech Workstream Leader",
+            "description": "Works on development for support of the protocol and its ecosystem  \nSupports other guilds with dev and contract work  ",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Tech Workstream",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0002.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Tech Workstream",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Stablecoin, Currency & Exchange Workstream Leader",
+            "description": "Enables the currency environment and infrastructure in the continent  \nSupports business development of member business in the field  ",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0003.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Stablecoin, Currency & Exchange Workstream",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0003.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Stablecoin, Currency & Exchange Workstream",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0004",
+            "image": "",
+            "createdAt": null,
+            "name": "Investment & Lending Workstream Leader",
+            "description": "Supports the protocol  in capital markets and liquidity  \nSupports business development of member business in the field  ",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010004000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0004.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Investment & Lending Workstream",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010004000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0004.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Investment & Lending Workstream",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0005",
+            "image": "",
+            "createdAt": null,
+            "name": "Education, Environment, & Access Workstream Leader",
+            "description": "Support projects improving the general population access to solution like ADA  \nFunds events, external actions or ambassadors  ",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010005000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0005.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Education, Environment, & Access Workstream",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010005000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0005.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Education, Environment, & Access Workstream",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0006",
+            "image": "",
+            "createdAt": null,
+            "name": "Operation Workstream Leader",
+            "description": "Keeps the DAO running and updated as it evolves  \nSupports other guilds to coordinate around governance decisions  ",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0007",
+            "image": "",
+            "createdAt": null,
+            "name": "Tech Workstream Leader",
+            "description": "Works on development for support of the protocol and its ecosystem  \nSupports other guilds with dev and contract work  ",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010008000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0008",
+            "image": "",
+            "createdAt": null,
+            "name": "Stablecoin, Currency & Exchange Workstream Leader",
+            "description": "Enables the currency environment and infrastructure in the continent  \nSupports business development of member business in the field  ",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010009000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0009",
+            "image": "",
+            "createdAt": null,
+            "name": "Investment & Lending Workstream Leader",
+            "description": "Supports the protocol  in capital markets and liquidity  \nSupports business development of member business in the field  ",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a0001000a000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.000a",
+            "image": "",
+            "createdAt": null,
+            "name": "Education, Environment, & Access Workstream Leader",
+            "description": "Support projects improving the general population access to solution like ADA  \nFunds events, external actions or ambassadors  ",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000002a00020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000002a.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Multisig",
+        "description": "",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000002a00030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000002a.0003",
+        "image": "",
+        "createdAt": null,
+        "name": "Test",
+        "description": "",
+        "authorities": []
+      }
+    }
+  ]
+}

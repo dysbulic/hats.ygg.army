@@ -1,0 +1,98 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000007b00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000007b",
+    "image": "https://ipfs.io/ipfs/bafybeigxiezy7rrl6glurdo4ns2d2jsu4xsnpz5lgxfechvybe6kfdja44",
+    "createdAt": null,
+    "name": "/cryptoleft",
+    "description": "A Farcaster channel for the crypto left to discuss, debate, build and organize."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007b00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000007b.0001",
+        "image": "https://ipfs.io/ipfs/bafybeifhcvhltn42pn65zxzbzzs5dmhiiriovujqnv2t2f6hzl57d65gxy",
+        "createdAt": null,
+        "name": "Hats Tree Admin",
+        "description": "Administrator of the Hats tree for /cryptoleft on Farcaster.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007b00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000007b.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeib374q4rqittp5tfdgbxr5uzcw5l7fobqfr4bvuhgjcez2b33appq",
+            "createdAt": null,
+            "name": "Farcaster Administrator",
+            "description": "Administrator of the @cryptoleft account and owner of the /cryptoleft channel on Farcaster.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000007b00010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000007b.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeihgdfeblzx6wuoju52xze4xdoeqajbl3yzkrhi5t46vzham3tqa5u",
+                "createdAt": null,
+                "name": "Caster",
+                "description": "Casters for the @cryptoleft account on Farcaster.",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000007b00010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000007b.0001.0001.0002",
+                "image": "https://ipfs.io/ipfs/bafybeibcecce5kolpb7jhg4dqpkladjnbzakkjvavwcialvrz3npyljoia",
+                "createdAt": null,
+                "name": "Automod",
+                "description": "Autonomous moderator for the /cryptoleft channel on Farcaster.",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007b00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000007b.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeibanvrzf6boc7smhoclqbczsje2ypw7rvtwprbuu674numxjaqziu",
+            "createdAt": null,
+            "name": "Tipster Bot Admin",
+            "description": "Administrator for the Tipster bot in the /cryptoleft channel on Farcaster.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000007b00010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000007b.0001.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafybeicltwfw73niztef22plj2ycfau2fwygxpi7tubpxijtbcsahrdcme",
+                "createdAt": null,
+                "name": "Tipper",
+                "description": "Authorized tippers in the /cryptoleft channel on Farcaster",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

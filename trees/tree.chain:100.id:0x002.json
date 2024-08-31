@@ -1,0 +1,72 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000002",
+    "image": "https://m.media-amazon.com/images/I/71zlT1ZaEML._AC_SX679_.jpg",
+    "createdAt": null,
+    "name": "the gnosis safe hat"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0001",
+        "image": "https://m.media-amazon.com/images/I/718tOoQJ9WL._AC_UX679_.jpg",
+        "createdAt": null,
+        "name": "hat 1"
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0002",
+        "image": "https://www.shutterstock.com/image-vector/no-cap-hat-prohibition-sign-600w-1432454045.jpg",
+        "createdAt": null,
+        "name": "gnosis admin hat 2"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0002.0001",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20070102_per_erik_strandberg_balaclava_1.jpg/240px-20070102_per_erik_strandberg_balaclava_1.jpg",
+            "createdAt": null,
+            "name": "Tophat changed Hat2 details"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000200020001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000002.0002.0001.0001",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1800s_Boss_of_the_plains_5.jpg/240px-1800s_Boss_of_the_plains_5.jpg",
+                "createdAt": null,
+                "name": "Sub contractor 1"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0002.0002",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Austria-GreenBeret.jpg/240px-Austria-GreenBeret.jpg",
+            "createdAt": null,
+            "name": "Hat 3"
+          }
+        }
+      ]
+    }
+  ]
+}

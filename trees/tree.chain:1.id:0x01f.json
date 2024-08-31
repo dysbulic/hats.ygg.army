@@ -1,0 +1,43 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001f00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000001f",
+    "image": "",
+    "createdAt": null,
+    "name": "Unlock & Hats (test)",
+    "description": "A tree to test integration with Unlock Protocol",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001f00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001f.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "Needs to be worn by the UnlockEligibility module, where it will serve as an onKeyPurchase hook in the Lock, enabling it to mint hat 31.1.1 when a key is purchased.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001f00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001f.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Paid Hat",
+            "description": "Get this hat by purchasing the [Unlock Protocol key](https://app.unlock-protocol.com/checkout?id=033ba17a-3f68-46de-86ac-b32eca32847a)",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

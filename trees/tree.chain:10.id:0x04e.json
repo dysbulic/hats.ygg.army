@@ -1,0 +1,137 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004e00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000004e",
+    "image": "https://ipfs.io/ipfs/bafkreiaksiwbnwoj42iqtbqeejwsum4oicsd2pnw4x5enufwtrxrxfkjrq",
+    "createdAt": null,
+    "name": "All In For Sport",
+    "description": "The All In For Sport Community is a community of kinship dedicated to advancing inclusion and empowerment through sport worldwide.",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004e00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004e.0001",
+        "image": "https://ipfs.io/ipfs/bafybeieluhr4womtvuzoaoqujykryge55gig4z7j7tb6ujck3ubedlaoze",
+        "createdAt": null,
+        "name": "Community",
+        "description": "The Community hat signifies the designated smart contract for the administration of community roles.\n\nThis hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of community roles.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004e00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004e.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeidy6gxegx3kf3djcstfgitpuw5e4poswcn4r6brkydbmkupsgpktq",
+            "createdAt": null,
+            "name": "Founder",
+            "description": "Honorary role for founding members of All In For Sport DAO",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004e00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004e.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreign54edgmnpzruludht7ihi57n3iniu5itaaiyn77yq3r6yj7bvki",
+            "createdAt": null,
+            "name": "Deactivated Hat",
+            "description": "Do not use.",
+            "authorities": [
+              {
+                "label": "All In For Sport",
+                "description": "",
+                "link": "https://discord.gg/qvUQZ8pbkg",
+                "imageUrl": "https://guild-xyz.mypinata.cloud/ipfs/QmapStsTxYvnyL95AZfpCDwNsmYXrbVN3F5V9ypnXDWg2X",
+                "gate": "https://guild.xyz/allinforsport"
+              },
+              {
+                "label": "All In For Sport",
+                "description": "",
+                "link": "https://discord.gg/qvUQZ8pbkg",
+                "imageUrl": "https://guild-xyz.mypinata.cloud/ipfs/QmapStsTxYvnyL95AZfpCDwNsmYXrbVN3F5V9ypnXDWg2X",
+                "gate": "https://guild.xyz/allinforsport"
+              },
+              {
+                "label": "All In For Sport",
+                "description": "",
+                "link": "https://discord.gg/qvUQZ8pbkg",
+                "imageUrl": "https://guild-xyz.mypinata.cloud/ipfs/QmapStsTxYvnyL95AZfpCDwNsmYXrbVN3F5V9ypnXDWg2X",
+                "gate": "https://guild.xyz/allinforsport"
+              },
+              {
+                "label": "All In For Sport",
+                "description": "",
+                "link": "https://discord.gg/qvUQZ8pbkg",
+                "imageUrl": "https://guild-xyz.mypinata.cloud/ipfs/QmapStsTxYvnyL95AZfpCDwNsmYXrbVN3F5V9ypnXDWg2X",
+                "gate": "https://guild.xyz/allinforsport"
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004e00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004e.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafkreiabfx7vn7rhaqsughbiefccsh2n6tjxa4dagm243l6bveyadepngm",
+            "createdAt": null,
+            "name": "Network Member",
+            "description": "For member organizations of the All In For Sport network",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004e00010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004e.0001.0004",
+            "image": "https://ipfs.io/ipfs/bafybeiet73qs74h3p3274lcwvhroqx2xz26ymule3gp4f522zmtnhqm4rm",
+            "createdAt": null,
+            "name": "Steward",
+            "description": "Elected Stewards of All In For Sport DAO",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004e00010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004e.0001.0005",
+            "image": "https://ipfs.io/ipfs/bafkreievox52xamh6bhall6h7winelkklqywubzi25k2dkdhksfnsqx5na",
+            "createdAt": null,
+            "name": "Community Member",
+            "description": "The Community Member badge signifies participation in the All In For Sport Community, and gives the wearer access to the AIFS Discord server and Charmverse space.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004e00010006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004e.0001.0006",
+            "image": "https://ipfs.io/ipfs/bafybeict373hc63spcyp5lkn7h5sslgtfvmcdrzugzszvzy6nfhuskhlfa",
+            "createdAt": null,
+            "name": "Contributor",
+            "description": "The Contributor badge signifies contribution to All In For Sport, and gives the wearer elevated access to the AIFS Discord server and Charmverse space.",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

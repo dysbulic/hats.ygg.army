@@ -1,0 +1,28 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000c00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000000c",
+    "image": "https://ipfs.io/ipfs/bafkreig4343vccaeymzw2sauaja7nkkxpts7xmae7kruizq7nkffv7o3ca",
+    "createdAt": null,
+    "name": "Farcon '24 Top Hat (Admin)",
+    "description": "Everyone who has a Farcon '24 ticket across all the pass types: 0x27fb25e111d2540b195a4a0c6e471a5e7e8cd6ec, 0x238b522fa4d04bfe0b9b875e9ccea6d3f98d51d2, 0x456cc03543d41eb1c9a7ca9fa86e9383b404f50d",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000c00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000000c.0001",
+        "image": "https://ipfs.io/ipfs/bafkreig4343vccaeymzw2sauaja7nkkxpts7xmae7kruizq7nkffv7o3ca",
+        "createdAt": null,
+        "name": "Farcon '24 Ticketholder",
+        "description": "Everyone who has a Farcon '24 ticket across all the pass types: 0x27fb25e111d2540b195a4a0c6e471a5e7e8cd6ec, 0x238b522fa4d04bfe0b9b875e9ccea6d3f98d51d2, 0x456cc03543d41eb1c9a7ca9fa86e9383b404f50d",
+        "authorities": []
+      }
+    }
+  ]
+}

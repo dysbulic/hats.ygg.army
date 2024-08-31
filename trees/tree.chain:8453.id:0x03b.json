@@ -1,0 +1,63 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000003b00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000003b",
+    "image": "https://ipfs.io/ipfs/bafybeideggn2tpksxg3cbimaw2gv62uhgfiutaz2csa5d6c6ztrfsytkku",
+    "createdAt": null,
+    "name": "JokerHat",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003b00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000003b.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "New Hat",
+        "description": "",
+        "authorities": [
+          {
+            "label": "responsible_weight",
+            "description": "60",
+            "link": " ",
+            "imageUrl": "",
+            "gate": ""
+          }
+        ]
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003b00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000003b.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "New Hat",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003b00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000003b.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "New Hat Test",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

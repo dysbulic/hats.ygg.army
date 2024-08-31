@@ -1,0 +1,27 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000002600000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000026",
+    "image": "",
+    "createdAt": null,
+    "name": "JJK",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000002600010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000026.0001",
+        "image": "https://ipfs.io/ipfs/bafkreianicjiqc7wypyq6vyolj6rty55cw4o7y574dmncv5qn5mdev3ule",
+        "createdAt": null,
+        "name": "Left, right, goodnight 🥊",
+        "description": "The undefeated MC",
+        "authorities": []
+      }
+    }
+  ]
+}

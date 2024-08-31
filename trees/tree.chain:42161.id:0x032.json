@@ -1,0 +1,57 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000003200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000032",
+    "image": "https://ipfs.io/ipfs/bafkreicwhknexbnggqahfy76h3hsvbazhvomprlbg5gllfirdza6yrs6s4",
+    "createdAt": null,
+    "name": "Oasis Onchain ",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000032.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003200010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000032.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003200010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000032.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "New Hat 2",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

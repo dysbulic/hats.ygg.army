@@ -1,0 +1,71 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000300000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000003",
+    "image": "https://ipfs.io/ipfs/bafybeihql7bgp26jo7p2j6uvq6dph6rre7vojs4rprwixkgudp7qoe3bna",
+    "createdAt": null,
+    "name": "Haberdasher Labs (Arbitrum)",
+    "description": "The representation of Haberdasher Labs on the Arbitrum One network"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000300010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000003.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Haberdasher Labs Hatter",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000300010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000003.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Technology",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Subgraph Manager",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Subgraph Maintainer",
+                "authorities": [
+                  {
+                    "label": "Signer on the Subgraph Manager multisig",
+                    "link": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

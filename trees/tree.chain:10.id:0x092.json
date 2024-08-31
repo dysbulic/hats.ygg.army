@@ -1,0 +1,325 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000009200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000092",
+    "image": "https://ipfs.io/ipfs/bafkreih3gnjrhewttord4jocmbmjra7tpkh4al7z4yrywclt2xeohsjksa",
+    "createdAt": null,
+    "name": "Market Manager",
+    "description": "The wearers of this hat are potentially responsible for stocking and pricing a storefront."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000092.0001",
+        "image": "https://ipfs.io/ipfs/bafkreiejwaxou6u5j7h3m7kbavneetk52rwekglmqmpus6rka6gktvdcby",
+        "createdAt": null,
+        "name": "Δυς's Bargain Basement",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiagkkobxhfknatvcg75rgilhm72lxq7qkvrohdi5ipqkg6l26kbbu",
+            "createdAt": null,
+            "name": "Elephanitine Elites",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreibfdv4pmahptzswdizzeqctorvkppnjah4beju2bfjibbslebaux4",
+            "createdAt": null,
+            "name": "Wonderful Whales",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafkreiaijcpttnum7pvwycrwsb5qg7buecs3mam7ry35fa45jszrop6knm",
+            "createdAt": null,
+            "name": "Kind Kittens",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009200020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000092.0002",
+        "image": "https://ipfs.io/ipfs/bafkreihogwuu4f4jwsqypjmu47gqygngdckdbld2b3smduur2enrlv3utq",
+        "createdAt": null,
+        "name": "Dealin’ w/ Mo",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0002.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiaa33bm7hsorf4dfsrqo7vzuhguiep2fogsiawlymokquqzwtcah4",
+            "createdAt": null,
+            "name": "Kickin’ Rocks",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0002.0002",
+            "image": "https://ipfs.io/ipfs/bafkreigh7dcstdp44dbfbveewhxnqhulhfpfolpidqffrh54626nvhfk44",
+            "createdAt": null,
+            "name": "Blowin’ Smoke",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200020003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0002.0003",
+            "image": "https://ipfs.io/ipfs/bafkreihdxcrgzxmhcis6uie6r6uhhsvse4y2qkhuerlcmzlklzwklsfpo4",
+            "createdAt": null,
+            "name": "Bangin’ That Drum",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009200030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000092.0003",
+        "image": "https://ipfs.io/ipfs/bafkreigelu66fnvrkisvncabl7e7muvwbgn6irule2cammzimmvta2sygm",
+        "createdAt": null,
+        "name": "Who's That's? Nobody.",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0003.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiam6wjhxrhg7kcemddlktzjc7mybnwbjjio54c26fsolykptbufbe",
+            "createdAt": null,
+            "name": "Perfect Perpetrators",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0003.0002",
+            "image": "https://ipfs.io/ipfs/bafkreia7ropkh66merqvq7zvzearu3ccgrujxsy7u4l3vuxzrwn5fyfala",
+            "createdAt": null,
+            "name": "Prolly Gold",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200030003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0003.0003",
+            "image": "https://ipfs.io/ipfs/bafkreiegswgv2yszphasyxtqtdxxgp3k6tng3j6aombuu6zfr6erh4bdqq",
+            "createdAt": null,
+            "name": "Pinked",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009200040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000092.0004",
+        "image": "https://ipfs.io/ipfs/bafkreifjauqozy757wlpkkbka4aoljnbwkm6abpwbwuhg2yu3sj7qbi5be",
+        "createdAt": null,
+        "name": "FTP",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0004.0001",
+            "image": "https://ipfs.io/ipfs/bafkreife4cko7kuq6hic4wc2r7ypbw5dxr7fym37t6vohb6z4h4hlookd4",
+            "createdAt": null,
+            "name": "Semaphor Spotters",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200040002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0004.0002",
+            "image": "https://ipfs.io/ipfs/bafkreigdkbrvpa7aegs3tfmdhrwkwttxluq2muci5yhkcjqnatspknlqey",
+            "createdAt": null,
+            "name": "Rescue Rangers",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200040003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0004.0003",
+            "image": "https://ipfs.io/ipfs/bafkreihhz7yeey4deitb3czewot4sizw5m34x7t2zydkb6fh52qubvqujy",
+            "createdAt": null,
+            "name": "Crack Snipers",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009200050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000092.0005",
+        "image": "https://ipfs.io/ipfs/bafkreibsfk44q5iaq6yemzytxil7lp4bmw3u6futsmczjawxecyhfpxgmu",
+        "createdAt": null,
+        "name": "Lerner's Nothings",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200050001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0005.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiezwvpyiv576ra6vuci64n7nq7ipba2lrtjfamau6yo7tbelimvee",
+            "createdAt": null,
+            "name": "Pigeonneau Ætudiants",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200050002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0005.0002",
+            "image": "https://ipfs.io/ipfs/bafkreie2qdzjd2vpiu2f7vzul7jpusvcz2jx4dxf7lworqg5qxb4ufamha",
+            "createdAt": null,
+            "name": "Weed Splitters",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200050003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0005.0003",
+            "image": "https://ipfs.io/ipfs/bafkreiesneo4hijalymwvprgw7v4suavlnssvhze6u6zr6cogicm6xoqyu",
+            "createdAt": null,
+            "name": "Bodacious Builders",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009200060000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000092.0006",
+        "image": "https://ipfs.io/ipfs/bafkreigudix7vddkvlztig5od6qw47khyes6jmkqruzizsz3arwnjyvh3m",
+        "createdAt": null,
+        "name": "Kind Khalifa",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200060001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0006.0001",
+            "image": "https://ipfs.io/ipfs/bafkreidq3n2jbqapepxhllhfcvregyeuum6kveorfozcp47bdaawkslply",
+            "createdAt": null,
+            "name": "Serupticious Surveilance",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009200060002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000092.0006.0002",
+            "image": "https://ipfs.io/ipfs/bafkreicflpuqva4jqxhuhudwtklnuhhrhkmu6kth5ohnzncsvm22hwbptu",
+            "createdAt": null,
+            "name": "Nasent Neophytes",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

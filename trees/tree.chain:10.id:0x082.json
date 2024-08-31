@@ -1,0 +1,55 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000008200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000082",
+    "image": "",
+    "createdAt": null,
+    "name": "d:Compressoooors",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000008200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000082.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Human",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000008200010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000082.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Human?",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000008200010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000082.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeib535vrkajz35a2op5wig7xdnbo5rzqcomlynrhvr66t4v5wdwusy",
+            "createdAt": null,
+            "name": "Chef Hat",
+            "description": "A hat for the goooooorgeous chefs of d.compress",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

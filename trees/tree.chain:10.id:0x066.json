@@ -1,0 +1,705 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000006600000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000066",
+    "image": "https://ipfs.io/ipfs/bafybeigybrt76upzbxmkme6zkbgr2ql4gu3h5lcgljxfq3ibiovek3yawy",
+    "createdAt": null,
+    "name": "The GROWmies",
+    "description": "These core Let's GROW DAO members are all dedicated public goods Regens.\n\nDedicated to the mission of uniting the entirety of the ReFi and Regen Movement into a force for positive-sum change that cannot be denied.",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006600010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000066.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "This hat future-proofs the rest of the tree, as it can be granted the ability to automate hat revocation, claiming, and minting for any hats below it based on specified accountability criteria",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006600010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000066.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "$LGD",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006600010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000066.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "$GROW",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006600010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000066.0001.0001.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Growth Branch",
+                    "description": "Partnerships to grants to token swaps, all the ways we GROW the movement.",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100010001000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0001.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Partnerships",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010001000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0001.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010001000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0001.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100010002000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0001.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Marketing",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010002000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0002.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010002000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0002.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100010003000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0001.0003",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Comms 📢",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010003000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0003.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010003000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0003.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100010004000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0001.0004",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Grants",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010004000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0004.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010004000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0004.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006600010001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000066.0001.0001.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Experiences Branch",
+                    "description": "GROWing a movement requires you to be a part of the movement.  Creating spaces for communication, to GROW collaboration IRL and virtually.  Inviting everyone to take part.",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100020001000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0002.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Regenaissance",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100020001000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0002.0001.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100020001000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0002.0001.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100020002000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0002.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "GROW Live 🎙️",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100020002000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0002.0002.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Live Host",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100020002000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0002.0002.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Stewards",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100020002000300000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0002.0002.0003",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100020002000400000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0002.0002.0004",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006600010001000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x00000066.0001.0001.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Community Branch",
+                    "description": "Activating the Let’s GROW community to help support partners.  Supporting each other in our journeys, supplying resources for individual and collective GROWth",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100030001000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0003.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Community Contributors",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100030002000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0003.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Onboarding",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100030002000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0003.0002.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100030002000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0003.0002.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100030003000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0003.0003",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Education",
+                        "description": "",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100030003000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0003.0003.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "GROW Officer",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100030003000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0003.0003.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "WG Contributors",
+                            "description": "",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006600010001000100040000000000000000000000000000000000000000",
+                    "prettyId": "0x00000066.0001.0001.0001.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Operations Branch",
+                    "description": "The heart of the Let's GROW Ecosystem, due to its diversity of roles and scope of work to be executed, we decided to use the 8 Forms of Capital to organize the Scope of the Operations Branch & Working Groups.",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100040001000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0004.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "8 Forms of Capital",
+                        "description": "The concept of “8 Forms of Capital” is a holistic framework that categorizes different types of wealth or value that contribute to the sustainability and resilience of communities and ecosystems.",
+                        "authorities": []
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000100000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0001",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Financial",
+                            "description": "This is the traditional form of capital, encompassing money and other liquid assets that can be used to exchange goods and services. It includes cash, stocks, bonds, and other financial instruments.",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000200000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0002",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Cultural",
+                            "description": "Refers to the shared beliefs, values, traditions, and cultural expressions that define a community or society. It includes art, music, language, rituals, and norms that shape identity and social cohesion.",
+                            "authorities": []
+                          },
+                          "children": [
+                            {
+                              "node": {
+                                "loaded": true,
+                                "valid": true,
+                                "id": "0x0000006600010001000100040001000200010000000000000000000000000000",
+                                "prettyId": "0x00000066.0001.0001.0001.0004.0001.0002.0001",
+                                "image": "",
+                                "createdAt": null,
+                                "name": "Art",
+                                "description": "",
+                                "authorities": []
+                              },
+                              "children": [
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000006600010001000100040001000200010001000000000000000000000000",
+                                    "prettyId": "0x00000066.0001.0001.0001.0004.0001.0002.0001.0001",
+                                    "image": "",
+                                    "createdAt": null,
+                                    "name": "GROW Officer",
+                                    "description": "",
+                                    "authorities": []
+                                  }
+                                },
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000006600010001000100040001000200010002000000000000000000000000",
+                                    "prettyId": "0x00000066.0001.0001.0001.0004.0001.0002.0001.0002",
+                                    "image": "",
+                                    "createdAt": null,
+                                    "name": "WG Contributors",
+                                    "description": "",
+                                    "authorities": []
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000300000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0003",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Material",
+                            "description": "Refers to the tangible, physical objects and resources that are used to produce goods and services. This includes infrastructure, tools, buildings, equipment, and natural resources like land and water.",
+                            "authorities": []
+                          },
+                          "children": [
+                            {
+                              "node": {
+                                "loaded": true,
+                                "valid": true,
+                                "id": "0x0000006600010001000100040001000300010000000000000000000000000000",
+                                "prettyId": "0x00000066.0001.0001.0001.0004.0001.0003.0001",
+                                "image": "",
+                                "createdAt": null,
+                                "name": "Merchandise",
+                                "description": "",
+                                "authorities": []
+                              },
+                              "children": [
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000006600010001000100040001000300010001000000000000000000000000",
+                                    "prettyId": "0x00000066.0001.0001.0001.0004.0001.0003.0001.0001",
+                                    "image": "",
+                                    "createdAt": null,
+                                    "name": "GROW Officer",
+                                    "description": "",
+                                    "authorities": []
+                                  }
+                                },
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000006600010001000100040001000300010002000000000000000000000000",
+                                    "prettyId": "0x00000066.0001.0001.0001.0004.0001.0003.0001.0002",
+                                    "image": "",
+                                    "createdAt": null,
+                                    "name": "WG Contributors",
+                                    "description": "",
+                                    "authorities": []
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000400000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0004",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Experiental",
+                            "description": "Involves the practical knowledge and skills gained through personal experience, hands-on learning, and practice. It represents the wisdom and insight acquired from direct interaction with the world.",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000500000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0005",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Intellectual",
+                            "description": "Consists of knowledge, ideas, innovation, and intellectual property. It includes the expertise, skills, and creativity of individuals and organizations, as well as accumulated cultural and scientific knowledge.",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000600000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0006",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Spiritual",
+                            "description": "Encompasses the values, ethics, and sense of purpose that guide individuals and communities. It is often related to religious beliefs, spiritual practices, and a sense of connection to something greater than oneself.",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000700000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0007",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Social",
+                            "description": "Represents the networks, relationships, and social structures that facilitate cooperation, trust, and reciprocity within a community. Social capital is crucial for building strong, resilient communities.",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100040001000800000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0004.0001.0008",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Natural",
+                            "description": "Encompasses the natural resources and ecosystems that sustain life, including plants, animals, water, air, and minerals. It highlights the importance of preserving biodiversity and ecosystem services.",
+                            "authorities": []
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006600010001000100050000000000000000000000000000000000000000",
+                    "prettyId": "0x00000066.0001.0001.0001.0005",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Compliance Branch",
+                    "description": "Led by the GROWPolice.eth multisig, this branch is in charge of making sure the Let's GROW Manifesto is being upheld by the community.",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

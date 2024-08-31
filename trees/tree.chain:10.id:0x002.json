@@ -1,0 +1,133 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000002",
+    "image": "https://ipfs.io/ipfs/bafybeibwy623bvifnke6zzisrdw4hpqjy2juhd7lgnrjk6liqpewls2x7q",
+    "createdAt": null,
+    "name": "Cabin"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0001",
+        "image": "https://ipfs.io/ipfs/bafybeieymhlqmvtramvjflspdluiwib5x3mmwf6rp77bl4zd33gyc6hn7u",
+        "createdAt": null,
+        "name": "Caretaker Custodian"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeieymhlqmvtramvjflspdluiwib5x3mmwf6rp77bl4zd33gyc6hn7u",
+            "createdAt": null,
+            "name": "Caretaker Artisan"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0002",
+        "image": "https://ipfs.io/ipfs/bafybeifwwb3svqtjxspd3wibvtce4naaokgdap2by7ejcahlilscxjrggi",
+        "createdAt": null,
+        "name": "Gatherer Custodian"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0002.0001",
+            "image": "https://ipfs.io/ipfs/bafybeifwwb3svqtjxspd3wibvtce4naaokgdap2by7ejcahlilscxjrggi",
+            "createdAt": null,
+            "name": "Gatherer Artisan"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0003",
+        "image": "https://ipfs.io/ipfs/bafybeifrnfxixcfa7rmfa3346etk6t6gm432askavyyenp7whb44vkl4wy",
+        "createdAt": null,
+        "name": "Builder Custodian"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0003.0001",
+            "image": "https://ipfs.io/ipfs/bafybeifrnfxixcfa7rmfa3346etk6t6gm432askavyyenp7whb44vkl4wy",
+            "createdAt": null,
+            "name": "Builder Artisan"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0004",
+        "image": "https://ipfs.io/ipfs/bafybeih4cqy3c3pipixbl26b5ni73q2neyu6opnmhl5i3ikhoi5msysjoq",
+        "createdAt": null,
+        "name": "Naturalist Custodian"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0004.0001",
+            "image": "https://ipfs.io/ipfs/bafybeih4cqy3c3pipixbl26b5ni73q2neyu6opnmhl5i3ikhoi5msysjoq",
+            "createdAt": null,
+            "name": "Naturalist Artisan"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000200050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000002.0005",
+        "image": "https://ipfs.io/ipfs/bafybeihg7gdf4v6vutjnuhyxizbapotuxfhjaob42bfujx2faknqa4hc5y",
+        "createdAt": null,
+        "name": "Creator Custodian"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000200050001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000002.0005.0001",
+            "image": "https://ipfs.io/ipfs/bafybeihg7gdf4v6vutjnuhyxizbapotuxfhjaob42bfujx2faknqa4hc5y",
+            "createdAt": null,
+            "name": "Creator Artisan"
+          }
+        }
+      ]
+    }
+  ]
+}

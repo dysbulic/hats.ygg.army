@@ -1,0 +1,88 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000008300000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000083",
+    "image": "https://ipfs.io/ipfs/bafkreicy6iz67k4nutvxs7gtviuxt255k6w2ofxouxi54wrfm5thecg6x4",
+    "createdAt": null,
+    "name": "Decentral Intelligence Agency",
+    "description": "Our mission, if we choose to accept it, is one of meta-coordination; rise above our personal incentives to collectively gather, synthesize, and distribute intelligence and best practices around DAOs for the public good.",
+    "authorities": [
+      {
+        "label": "Create, mint, edit, and revoke DIA contributor Hats",
+        "description": "",
+        "link": "https://app.hatsprotocol.xyz/trees/10/131",
+        "imageUrl": "",
+        "gate": ""
+      }
+    ]
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000008300010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000083.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomus Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000008300010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000083.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Director",
+            "description": "",
+            "authorities": [
+              {
+                "label": "Owner of the @daointel shared Farcaster Account",
+                "description": "",
+                "link": "https://app.herocast.xyz",
+                "imageUrl": "ipfs://bafkreif2xyvzqoj44b6c7bzenrjpsyt3rfj5jmicbtreywoz4hbimmgnni",
+                "gate": "https://optimistic.etherscan.io/address/0x84b6b483885f9580d20757025988fadd5db29588"
+              },
+              {
+                "label": "Invite and approve new requests to become Director",
+                "description": "",
+                "link": "https://app.hatsprotocol.xyz/trees/10/131",
+                "imageUrl": "",
+                "gate": ""
+              },
+              {
+                "label": "Recruit new Agents",
+                "description": "",
+                "link": "https://app.hatsprotocol.xyz/trees/10/131",
+                "imageUrl": "",
+                "gate": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000008300010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000083.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Agent",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

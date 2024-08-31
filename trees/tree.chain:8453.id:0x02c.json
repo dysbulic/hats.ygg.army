@@ -1,0 +1,27 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000002c00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000002c",
+    "image": "https://ipfs.io/ipfs/bafkreic5pyj76bla2okpqwssnlzrdpi33vt4xkso5uwx444dkxpdvlrzb4",
+    "createdAt": null,
+    "name": "$HAMMER Man",
+    "description": "$HAMMER is a memecoin on the HAM L3 Chain.\n\nIt is launched on mint.club, meaning it is attached to a bonding curve, which is basically a smart contract backed Liquidity Pool. You can always buy or sell $HAMMER. The more $HAMMER has been bought, the higher the price.\n\nThis tree is for regulating tipping allowances. An experiment for our Warpcast Channel and for the Mint.Club Bonding-Curve bound $HAMMER Token.\n\nChannel: https://warpcast.com/~/channel/hammer/default\n$HAMMER on Mint.Club: https://mint.club/token/ham/HAMMER\nWhat is $HAMMER? : https://ham-hammer.notion.site/What-is-HAMMER-7dfde71d4d624ed1a5d4810de264dfca\n$HAMMER Contract: https://explorer.ham.fun/token/0x61fe1Ed9B3eE1fab8bE991F8062415965344CeCF"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000002c00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000002c.0001",
+        "image": "https://ipfs.io/ipfs/bafkreiba77ijf2yjbimlcnl2xqatp26wum42afs52mfsdpog2q4njpnrwm",
+        "createdAt": null,
+        "name": "$HAMMER Waitlist",
+        "description": "$HAMMER Waitlisted users. Allows for tipping of $HAMMER in the /hammer channel.",
+        "authorities": []
+      }
+    }
+  ]
+}

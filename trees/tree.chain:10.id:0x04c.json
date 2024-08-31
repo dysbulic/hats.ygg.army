@@ -1,0 +1,12 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004c00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000004c",
+    "image": "https://ipfs.io/ipfs/bafkreihwszua4nvxmbs6hzn5nqoygckrg57fztbrnj6pzaxaqmtpzgoeqi",
+    "createdAt": null,
+    "name": "Education DAO Test Treet",
+    "description": "Testing"
+  }
+}

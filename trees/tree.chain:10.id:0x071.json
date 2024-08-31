@@ -1,0 +1,286 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000007100000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000071",
+    "image": "https://ipfs.io/ipfs/bafkreichavetypbrc6rblnl2fcmmt4s5hsbgxus26rq5aqitr2qnk763ne",
+    "createdAt": null,
+    "name": "Hai DAO",
+    "description": "Worn by Hai Governor contract"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007100010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000071.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007100010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000071.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Operations Council Member",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007100010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000071.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Operations Council",
+            "description": "2 options for wearers:\n\n1. Worn by 1 person delegated by the core team (enables them to edit & deploy changes to the tree directly from the Hats ui) , OR\n\n2. Worn by 2/N multisig of core team members (can edit tree in Hats UI and enter transaction data into multisig transaction to deploy changes)",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000007100010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000071.0001.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Product & Engineering",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Smart Contract Dev",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Front End Dev",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Back End Dev",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000100040000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0001.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Documentation Manager\n",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000007100010002000100040001000000000000000000000000000000000000",
+                        "prettyId": "0x00000071.0001.0002.0001.0004.0001",
+                        "image": "https://ipfs.io/ipfs/bafkreichavetypbrc6rblnl2fcmmt4s5hsbgxus26rq5aqitr2qnk763ne",
+                        "createdAt": null,
+                        "name": "Documentation Editor",
+                        "description": "Wearer can edit protocol documentation on HAI Charmverse space.",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000100050000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0001.0005",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Devops\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000100060000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0001.0006",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Product Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000007100010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000071.0001.0002.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Protocol Steward",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Collateral Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Global Param Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000007100010002000300000000000000000000000000000000000000000000",
+                "prettyId": "0x00000071.0001.0002.0003",
+                "image": "",
+                "createdAt": null,
+                "name": "Ecosystem Steward",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0003.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Incentives Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000300020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0003.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Partnership Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000300030000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0003.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Community Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000300040000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0003.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Bounty Manager\n",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000007100010002000300050000000000000000000000000000000000000000",
+                    "prettyId": "0x00000071.0001.0002.0003.0005",
+                    "image": "https://ipfs.io/ipfs/bafkreichavetypbrc6rblnl2fcmmt4s5hsbgxus26rq5aqitr2qnk763ne",
+                    "createdAt": null,
+                    "name": "Growth Manager",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

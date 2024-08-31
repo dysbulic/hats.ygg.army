@@ -1,0 +1,304 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004d00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000004d",
+    "image": "https://ipfs.io/ipfs/bafkreigl4xjscuizqhebnwgwmumqrxjba7nbpvesod5oqducg3oomtldfy",
+    "createdAt": null,
+    "name": "MetaFactory Supreme Hat (TEST)",
+    "description": "Top hat for MetaFactory DAO",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0001",
+        "image": "https://ipfs.io/ipfs/bafkreidzamhwdtfygakemurl6bfsw2tochlkc343xgrwb3zmz7gqtmorei",
+        "createdAt": null,
+        "name": "Gardener Hat",
+        "description": "Full time core contributors to MetaFactory",
+        "authorities": [
+          {
+            "label": "Gardener Telegram Access",
+            "link": "https://guild.xyz/metafactory"
+          }
+        ]
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0002",
+        "image": "https://ipfs.io/ipfs/bafkreig26qc62vibl7xn52owm33bfcyl4cdkmqxkxcfshigwcavw7cb5da",
+        "createdAt": null,
+        "name": "M3factory HeadBot",
+        "description": "Team lead for m3factory, MF's metaverse division",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0003",
+        "image": "https://ipfs.io/ipfs/bafkreibklfx5l73cr75fyv5eu2pr4o5itgu6u4wvkoo55xkh4slnu7uxci",
+        "createdAt": null,
+        "name": "Dev MasterBot",
+        "description": "Screenprinting, embroidery, cut and sew production + fulfillment",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004d00030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004d.0003.0001",
+            "image": "https://ipfs.io/ipfs/bafkreicfooixmk5nkwsyajzc6itmaeartvcg3y7tm3dgtupsxy7v6nby74",
+            "createdAt": null,
+            "name": "Dev JourneyBot",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004d00030001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000004d.0003.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreifdkfqrkvga4jhgbrub3sj2wg3qdkljh2c6pd75mi5izkl226pole",
+                "createdAt": null,
+                "name": "Dev ApprenticeBot",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0004",
+        "image": "https://ipfs.io/ipfs/bafkreicfey4br5sys5ojewuiw76xtpo4ppvsqgv4cwhjei2a4mgkesdjpi",
+        "createdAt": null,
+        "name": "Production MasterBot",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004d00040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004d.0004.0001",
+            "image": "https://ipfs.io/ipfs/bafkreieq4kcmh7qoyc3d4c3l2i6a4hlfbvizy3nla5pmhyvuo4nxhsawvi",
+            "createdAt": null,
+            "name": "Production JourneyBot",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004d00040001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000004d.0004.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreigeucnsnnentcdtrvzrnqkfowcjnagbeibe2v7eqfhzzsgpntffkq",
+                "createdAt": null,
+                "name": "Production ApprenticeBot",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0005",
+        "image": "https://ipfs.io/ipfs/bafkreihyyeq62mpfwun3dy5xtqkfaifjrbhk3sarrdor2qlvk2xhbefwau",
+        "createdAt": null,
+        "name": "Content MasterBot",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004d00050001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004d.0005.0001",
+            "image": "https://ipfs.io/ipfs/bafkreicekxtqtmz2yqzofocc2c3xcb2ttvkvsfa2rtejlufqlb4inwvdu4",
+            "createdAt": null,
+            "name": "Content JourneyBot",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004d00050001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000004d.0005.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreiairplaiwr4fulzfszhfc7wecdcywyshb3ilvz6rd7rps7mtaaypq",
+                "createdAt": null,
+                "name": "Content ApprenticeBot",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00060000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0006",
+        "image": "https://ipfs.io/ipfs/bafkreiad5x2rk7muzearrfocclskhpknhqlbaci7f443nrnhpmquolpn3u",
+        "createdAt": null,
+        "name": "LegendBot",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004d00060001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004d.0006.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiftmqzpejgqjmslx4667ikxwc6akaad5rl43zofnw4l4yppjyebqe",
+            "createdAt": null,
+            "name": "EpicBot",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004d00060001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000004d.0006.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreig26qc62vibl7xn52owm33bfcyl4cdkmqxkxcfshigwcavw7cb5da",
+                "createdAt": null,
+                "name": "RareBot",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00070000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0007",
+        "image": "https://ipfs.io/ipfs/bafkreih4tdtcvybqeixtyvronkqy3ixqbrigl2n7vo7gezjvksoihyjk34",
+        "createdAt": null,
+        "name": "Creator MasterBot",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004d00070001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004d.0007.0001",
+            "image": "https://ipfs.io/ipfs/bafkreidzamhwdtfygakemurl6bfsw2tochlkc343xgrwb3zmz7gqtmorei",
+            "createdAt": null,
+            "name": "Creator JourneyBot",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004d00070001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000004d.0007.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreidbbo7zyiqz2k4ratlfabrcf4l2arah7gtknuave5qdvzq6zpfkf4",
+                "createdAt": null,
+                "name": "Creator ApprenticeBot",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004d00080000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000004d.0008",
+        "image": "https://ipfs.io/ipfs/bafkreiczub7oouzuz6r4qfbig6qogdji6vysw6e54yss2zoelbhod4n56m",
+        "createdAt": null,
+        "name": "Utility MasterBot",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004d00080001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000004d.0008.0001",
+            "image": "https://ipfs.io/ipfs/bafkreieimcmz7bl454xhb2jq44vw3fgi7dgt6ep2iulnthqtocf7cdlbe4",
+            "createdAt": null,
+            "name": "Utility JourneyBot",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004d00080001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000004d.0008.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreifujszjzkyu4o3sieqt6hxcsnrveatqgkypb4uhelg7oxyvs6hqcq",
+                "createdAt": null,
+                "name": "Utility ApprenticeBot",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

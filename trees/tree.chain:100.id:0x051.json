@@ -1,0 +1,304 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000005100000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000051",
+    "image": "https://ipfs.io/ipfs/bafkreigfys2ory7drokjvq2rmdkrfek6je74wkmawmohsxqw4o56fyryqe",
+    "createdAt": null,
+    "name": "ELI5 DAO Test Superadmin",
+    "description": "The superadmin for ELI5 DAO's test hat tree on Gnosis Chain"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000005100010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000051.0001",
+        "image": "https://ipfs.io/ipfs/bafkreihyqaiajsdj3eschsfh3ikganomqkp3d2uiwsnknw452xwlywsnze",
+        "createdAt": null,
+        "name": "ELI5 DAO Test Admin Hat",
+        "description": "Test admin hat for ELI5 DAO",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Coconuts",
+            "description": "People who like coconouts",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Cocobeans",
+                "description": "This hat is for people who decide how many beans will go inside of a coconut. It's a decision that always takes three people.",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005100010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000051.0001.0001.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "New Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Coconuts",
+            "description": "People who like coconouts",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeiblozbth4pbv4crm3x2h3dagaj6zp5sl4cuob5cgjolum3ka32wvy",
+            "createdAt": null,
+            "name": "The Slurty Travel Brigade 🧳",
+            "description": "Decide where Slurty will go next as they travel the world 🌎",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0004",
+            "image": "https://ipfs.io/ipfs/bafybeies5wa3ipie3elsx2ciblv4boazhtl24el7i4jiockoqf2rwvtmdi",
+            "createdAt": null,
+            "name": "Shrimp Hat",
+            "description": "Exclusive access to the great mind known as KryptoShrimp",
+            "authorities": [
+              {
+                "label": "Infinite Powers",
+                "link": "https://www.eli5dao.com"
+              }
+            ]
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010004000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0004.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "JokeRace Winnings",
+                "description": "Whoever wins this is AWESOME!",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0005",
+            "image": "https://ipfs.io/ipfs/bafkreicwjw53fvyge7zoptha2j6wa45a5qlwrkc5j4mql7uoynha5m6irq",
+            "createdAt": null,
+            "name": "Clinamenic Test Signer",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0006",
+            "image": "https://ipfs.io/ipfs/bafkreih7mqlakzalwgiaw2eyg4luj6hsg62b7jkqj6nuq4sajkvxij2xea",
+            "createdAt": null,
+            "name": "Blu Bear",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010006000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0006.0001",
+                "image": "https://ipfs.io/ipfs/bafkreibtfcewmjtfzkobdj27xlhiufsh6mkdf454iq7whjhjzgsmgrwpli",
+                "createdAt": null,
+                "name": "Sea Dog",
+                "description": "Set the puppies free!",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0007",
+            "image": "https://ipfs.io/ipfs/bafybeigf7gse3d3jifsvqblztasax4cohztd4xhoyqubok72h2zgemow6i",
+            "createdAt": null,
+            "name": "Besties",
+            "description": "a Hat for the besties",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010008000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0008",
+            "image": "",
+            "createdAt": null,
+            "name": "New Hat",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010008000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0008.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "New Hat",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010009000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0009",
+            "image": "",
+            "createdAt": null,
+            "name": "This is not a hat",
+            "description": "the same as besties but times 2",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000510001000a000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.000a",
+            "image": "",
+            "createdAt": null,
+            "name": "New Hat",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000510001000b000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.000b",
+            "image": "https://ipfs.io/ipfs/bafybeiakgxb467odzaucny5lbu2ayyneaxodolmvkyzrwc5oix7z3xc2k4",
+            "createdAt": null,
+            "name": "Slurty's Clubhouse",
+            "description": "This hat gives you access to the secret channel in the Slurty's Clubhouse server",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000510001000c000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.000c",
+            "image": "",
+            "createdAt": null,
+            "name": "test",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000510001000d000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.000d",
+            "image": "https://ipfs.io/ipfs/bafybeig32rutyx6xeeytxjqjurr6ov24b5vqxtdsoxsdktwymq3uyvy7bu",
+            "createdAt": null,
+            "name": "Funny Fingered Gnome Club",
+            "description": "A club for Gnomes with funny fingers and those who support their cause.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000510001000e000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.000e",
+            "image": "",
+            "createdAt": null,
+            "name": "test",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000510001000f000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.000f",
+            "image": "https://ipfs.io/ipfs/bafybeig32rutyx6xeeytxjqjurr6ov24b5vqxtdsoxsdktwymq3uyvy7bu",
+            "createdAt": null,
+            "name": "Funny Fingered Gnome Club",
+            "description": "A club for Gnomes with funny fingers and those who support their cause.",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

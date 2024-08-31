@@ -1,0 +1,1473 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000005c00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000005c",
+    "image": "",
+    "createdAt": null,
+    "name": "RG",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000005c00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000005c.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Adventure Guide",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeieo2ej77pyttsv5nislzhcog2aa4ionpzrmpr6ppzbnse6ffdiqxe",
+            "createdAt": null,
+            "name": "Member",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeiaojrbuj7mq2226vzqnj3gopzellu4qglachrygikclpiw2b7r3wu",
+            "createdAt": null,
+            "name": "Builders",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafkreifaumec7am3ihu2nxt7glo2phgmakcfkykbue2kert4m7egwqbq5m",
+                "createdAt": null,
+                "name": "Wizards (Smart Contracts)",
+                "description": "Group",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Wizard Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Wizard",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Wizard Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0002",
+                "image": "https://ipfs.io/ipfs/bafkreierbb77l5u5u2zzfhxhgdqlv5cs72734rdaokusbfedui6wzl4yuq",
+                "createdAt": null,
+                "name": "Warriors (Frontend Dev)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Warrior Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Warrior",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0002.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Warrior Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0003",
+                "image": "https://ipfs.io/ipfs/bafkreig2tz5zkye44p5ap7vgozglhcajo5ylpyopwx3blwzelxl2xdkjzu",
+                "createdAt": null,
+                "name": "Monks (Project Managers)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0003.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Monk Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000300020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0003.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Monk",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000300030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0003.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Monk Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000400000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0004",
+                "image": "https://ipfs.io/ipfs/bafkreigdbyq6tly46tpbqigowayigbqglnmsephckdvaxnsdhajmto7s7a",
+                "createdAt": null,
+                "name": "Paladins (Backend Dev)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000400010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0004.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Paladin Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000400020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0004.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Paladin",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000400030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0004.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Paladin Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000500000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0005",
+                "image": "https://ipfs.io/ipfs/bafkreicnqhmrzs6kcdcygfav6a6aa7yveo7vv5iy2vxijwvfdbjy2w7dii",
+                "createdAt": null,
+                "name": "Druids (Data Analyst)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000500010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0005.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Druid Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000500020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0005.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Druid",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000500030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0005.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Druid Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000600000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0006",
+                "image": "https://ipfs.io/ipfs/bafkreibytqm7idndjpvoowbc543akk2hmfwuxyvjk35tiwfz5b2jv3a5gy",
+                "createdAt": null,
+                "name": "Necromancers (Devops)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000600010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0006.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Necromancer",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010002000700000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0002.0007",
+                "image": "https://ipfs.io/ipfs/bafkreih4cezdti4tzbznnvrnctvoilxv7kqxhwbuzxmtzhmxohu3fa4qfq",
+                "createdAt": null,
+                "name": "Mystic Alchemists (Token Engineer)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010002000700010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0002.0007.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Alchemist",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeicsrl4wznvuy7iwxfao2isvwdphirspqrobn4mgfefooh42qdxhqy",
+            "createdAt": null,
+            "name": "Sales & Accounts",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafkreihop2sdcr7tsj43nshmmest4b5stca6jdccrfcfhdxu4zgtqroyca",
+                "createdAt": null,
+                "name": "Hunters (BD & Sales)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010003000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0003.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Hunter Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010003000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0003.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Hunter",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010003000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0003.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Hunter Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0003.0002",
+                "image": "https://ipfs.io/ipfs/bafkreiffpqtf3tfstqmz4zyp3mne4qrl5x6zhxuwi4xaucww7q635cekyi",
+                "createdAt": null,
+                "name": "Clerics (Accounts)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010003000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0003.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Cleric Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010003000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0003.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Cleric",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010003000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0003.0002.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Cleric Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0004",
+            "image": "https://ipfs.io/ipfs/bafybeibxnysiftzlyfgidqcq5jyno63ly3ui2iblehogkknb6vi5tlkjru",
+            "createdAt": null,
+            "name": "Marketing",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010004000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0004.0001",
+                "image": "https://ipfs.io/ipfs/bafkreidwo55flyw6h7ybkvpnejfwi7gsstkjtpmlmemcpskcvdk3lxwzse",
+                "createdAt": null,
+                "name": "Archers (Design)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Archer Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Archer",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Archer Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000100040000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0001.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Brand Steward",
+                    "description": "Orchestrator of pixels and conductor of copy providing direction for the brand and design",
+                    "authorities": [
+                      {
+                        "label": "Direct Guild brand & ecosystem presence",
+                        "description": "",
+                        "link": "https://raidguild.org",
+                        "imageUrl": "",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Manage Guild design system Figma and related design files",
+                        "description": "",
+                        "link": "https://figma.com",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Iterate on design system",
+                        "description": "Coordinate with Guild members to have updated design system iterations implemented in the dev tooling",
+                        "link": "https://raid-guild.github.io/design-system/",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Brand budget (HSG)",
+                        "description": "Quarterly budget for coordinating resources to update the design system (design & dev) resources",
+                        "link": "https://app.safe.global",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010004000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0004.0002",
+                "image": "https://ipfs.io/ipfs/bafkreihxcdhmk4bdf4zk4p2kljceqjxdlyv7crcnzholvtr4nf7bw3db4m",
+                "createdAt": null,
+                "name": "Scribes (Content & Copy)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Scribe Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Scribe",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0002.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Scribe Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000200040000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0002.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Keeper of the Handbook",
+                    "description": "Resourcer extraordinaire and bearer of brevity providing the path for folks navigating the dark forest",
+                    "authorities": [
+                      {
+                        "label": "Admin for Handbook repo",
+                        "description": "",
+                        "link": "https://github.com/raid-guild/handbook",
+                        "imageUrl": "ipfs://bafkreihfodu37nun2ucss4ajoa3jksbycvrqbhucjry3fy43v35hs6mkby",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Access to deployed instances",
+                        "description": "Vercel access to deployed (staging) handbook",
+                        "link": "https://vercel.com",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Collaborate with members for leverage",
+                        "description": "Delegate writing on handbook topics outside of personal purview",
+                        "link": "https://dm.raidguild.org/members",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Handbook budget (2k / quarter)",
+                        "description": "Quarterly budget for allocating resources to updating and improving the handbook",
+                        "link": "https://app.safe.global",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010004000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0004.0003",
+                "image": "https://ipfs.io/ipfs/bafkreih43gdddwmyfoessr5dsyr6crnn6iwvvw3p3mdyscllk3saa6jl3u",
+                "createdAt": null,
+                "name": "Rangers (UX/User Testing)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0003.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Ranger Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000300020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0003.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Ranger",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000300030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0003.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Ranger Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010004000400000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0004.0004",
+                "image": "https://ipfs.io/ipfs/bafkreifjs2ebbwmh6wdtng5bofsd35hs76mmg5ij37aigdfi6fbazp5qr4",
+                "createdAt": null,
+                "name": "Bards (Social)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000400010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0004.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Bard Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000400020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0004.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Bard",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000400030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0004.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Bard Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010004000400040000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0004.0004.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Street Team",
+                    "description": "The OG Hype team. Posting across all our publication outlets\n\n",
+                    "authorities": [
+                      {
+                        "label": "Web2 Sharing",
+                        "description": "Access to credentials for posting on web2 social platforms",
+                        "link": "https://twitter.com",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Web3 Sharing",
+                        "description": "Access to signing power for posting on web3 social platforms",
+                        "link": "https://herocast.xyz",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Media budget (Fluctuating)",
+                        "description": "Regular budget for creating experiences to be shared",
+                        "link": "https://giphy.com",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010004000500000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0004.0005",
+                "image": "",
+                "createdAt": null,
+                "name": "Events/IRL",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0005",
+            "image": "https://ipfs.io/ipfs/bafybeib34ekijo4dxadjzl653dozttgq4nrvpzvbyxtdgqqfpxow5xlueq",
+            "createdAt": null,
+            "name": "Operations",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010005000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0005.0001",
+                "image": "https://ipfs.io/ipfs/bafkreifdvhpwpzmyvoec3kncbuwuiphmr5sflouxmtkj4lrg3w4ificzk4",
+                "createdAt": null,
+                "name": "Healers (Operations)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Healer Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Healer",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Healer Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000100040000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0001.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Ganggang",
+                    "description": "Coordinatoooooors of quality & delivery. Helping ensure the guild is delivering at the pace and standards desired.",
+                    "authorities": [
+                      {
+                        "label": "Signal successful projects",
+                        "description": "Signal on completed projects on behalf of the Guild",
+                        "link": "https://github.com/raid-guild/rips",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Release escrow funds",
+                        "description": "Release funds for escrows assigned as client (RIPs mostly)\n- managed via HSG",
+                        "link": "https://app.smartinvoice.xyz",
+                        "gate": ""
+                      },
+                      {
+                        "label": "[Temp] Admin of this tree",
+                        "description": "Temporary: Admin over all hats in this tree via wearing #92.1\n\nGives us a shortcut to removing wearers or making other changes in instances of malicious intent. Intended to be removed, re-assess June 2024.",
+                        "link": "https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000100050000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0001.0005",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Infrastructure Maestro",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010005000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0005.0002",
+                "image": "https://ipfs.io/ipfs/bafkreifvv5ermkcfxj3iplfakbx7s4nyw4jq5yhztium3hzr4nqkctec5i",
+                "createdAt": null,
+                "name": "Tavern Keepers (Community)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Tavern Keeper Elder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Tavern Keeper",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0002.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Tavern Keeper Cohort",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000200040000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0002.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Mini-admin",
+                    "description": "High-level administrators for Raid Guild Discord",
+                    "authorities": [
+                      {
+                        "label": "Mini-admin role via Collab.land",
+                        "description": "",
+                        "link": "https://discord.com",
+                        "imageUrl": "ipfs://bafkreicfhbqbzcef4udoxljeg3kl5uhnprfduthfiuulj3aqb36csomk6y",
+                        "gate": "https://collab.land"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010005000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0005.0003",
+                "image": "",
+                "createdAt": null,
+                "name": "Sync Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0003.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Jester",
+                    "description": "Carries the tune of synchronous adventures through the dark forest",
+                    "authorities": [
+                      {
+                        "label": "Shepherd conversations",
+                        "description": "Direct conversations toward meaningful resolutions or next steps",
+                        "link": "https://discord.com",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Linger on topics only just long enough",
+                        "description": "",
+                        "link": "https://discord.com",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Navigate difficult topics",
+                        "description": "Carefully navigate difficult topics with concern for the humans on the other side",
+                        "link": "https://charmverse.io",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000300020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0003.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Reporter (frmrly Scribe)",
+                    "description": "Gatherer of props & insights, disseminator of interesting opportunities and upcoming events ",
+                    "authorities": [
+                      {
+                        "label": "Access to write and share Charmverse notes",
+                        "description": "",
+                        "link": "https://charmverse.io",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000300030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0003.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Sync Steward",
+                    "description": "Coordinates the time between syncs to ensure reliable time spent together",
+                    "authorities": [
+                      {
+                        "label": "Driver of agenda for regular cadence gatherings",
+                        "description": "Coordinate with Reporter(s) to manifest the agenda document(s)",
+                        "link": "https://charmverse.io",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Moloch hunting",
+                        "description": "Hunt for moloch sightings in projects, raids and adventures",
+                        "link": "https://discord.com",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Sync budget (3k / quarter)",
+                        "description": "Quarterly budget to allocate for synchronous coordination activities\n- managed via HSG",
+                        "link": "https://app.safe.global",
+                        "imageUrl": "",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010005000400000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0005.0004",
+                "image": "https://ipfs.io/ipfs/bafkreigdxzajlyok4iwdnmrbyaibe4arklcu3mwgfjbjqntboqtl3zu534",
+                "createdAt": null,
+                "name": "Angry Dwarfs (Treasury)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000400010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0004.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Angry Dwarf",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000400020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0004.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Recordkeeper",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010005000500000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0005.0005",
+                "image": "https://ipfs.io/ipfs/bafkreicybpenvizz33pexwloy4kn3fr33zhe23sejixghhhtdkkkdnmsxi",
+                "createdAt": null,
+                "name": "Rogues (Legal)",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010005000500010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0005.0005.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Rogue",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0006",
+            "image": "https://ipfs.io/ipfs/bafybeiap46e6uc2knmwo4kmeioyvfdpwjkcmz4e2mall64ex6p2qbcgm7e",
+            "createdAt": null,
+            "name": "Special Projects",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010006000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0006.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Project Coordinator",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0007",
+            "image": "https://ipfs.io/ipfs/bafybeiduz24lrwl4xvsnbupfgepgohijmyjjv5buuutxbz6jb3sufsvw6y",
+            "createdAt": null,
+            "name": "Cohort",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010007000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0007.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Cohort Coordinator",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010007000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0007.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Cohort Contributor",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010007000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0007.0003",
+                "image": "",
+                "createdAt": null,
+                "name": "Mentor",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010007000400000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0007.0004",
+                "image": "",
+                "createdAt": null,
+                "name": "Championing",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000400010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0004.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Champion",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000400020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0004.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Apprentice",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000400030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0004.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Championing Coordinator",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005c00010007000500000000000000000000000000000000000000000000",
+                "prettyId": "0x0000005c.0001.0007.0005",
+                "image": "",
+                "createdAt": null,
+                "name": "Classes",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 0",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 1",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 2",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500040000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 3",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500050000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0005",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 4",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500060000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0006",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 5",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000005c00010007000500070000000000000000000000000000000000000000",
+                    "prettyId": "0x0000005c.0001.0007.0005.0007",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Season 6",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005c00010008000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000005c.0001.0008",
+            "image": "https://ipfs.io/ipfs/bafkreif4eaqxepgcspc3gckbz6mt4bohxkvaub3exlw7tz3xsjb77dlvqi",
+            "createdAt": null,
+            "name": "Village Person",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

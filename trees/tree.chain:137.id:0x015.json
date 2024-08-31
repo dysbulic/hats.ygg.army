@@ -1,0 +1,62 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000015",
+    "image": "https://ipfs.io/ipfs/bafkreiazdtaj44g4pv6funxtbzyfwcvv4wvyta2qju3adfohc24woft65i",
+    "createdAt": null,
+    "name": "MetricsDAO",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Lead Badger"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001500010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000015.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Director"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001500010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000015.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Contributor",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Lead Badger"
+      }
+    }
+  ]
+}

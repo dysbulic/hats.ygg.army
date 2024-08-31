@@ -1,0 +1,25 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000900000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000009",
+    "image": "",
+    "createdAt": null,
+    "name": "Second tree"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000900010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000009.0001",
+        "image": "https://ipfs.io/ipfs/bafybeickqbmcauwx74kxugymhoz4v627ydtfyucl7zukp462zwjauwlxha",
+        "createdAt": null,
+        "name": "New hat",
+        "description": "with details"
+      }
+    }
+  ]
+}

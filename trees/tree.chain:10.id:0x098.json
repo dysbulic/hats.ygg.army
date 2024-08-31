@@ -1,0 +1,191 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000009800000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000098",
+    "image": "",
+    "createdAt": null,
+    "name": "company",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009800010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000098.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "manager",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy consent",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009800020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000098.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "manager",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0002.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy consent",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009800030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000098.0003",
+        "image": "",
+        "createdAt": null,
+        "name": "manager",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0003.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0003.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy consent",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009800040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000098.0004",
+        "image": "",
+        "createdAt": null,
+        "name": "manager",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0004.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009800040002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000098.0004.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "proxy consent",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009800050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000098.0005",
+        "image": "",
+        "createdAt": null,
+        "name": "members",
+        "description": "",
+        "authorities": []
+      }
+    }
+  ]
+}

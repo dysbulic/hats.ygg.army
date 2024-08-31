@@ -1,0 +1,69 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x000000a700000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x000000a7",
+    "image": "https://ipfs.io/ipfs/bafybeiak6ulj5y2nmj4pm27hbjus4dqozgpxddwxatgcoebmvdkimh6ytq",
+    "createdAt": null,
+    "name": "DAO Coalition",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x000000a700010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x000000a7.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Agent",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a700010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a7.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Member (Gitcoin Passport)",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a700010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a7.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Member (Agreement)",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a700010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a7.0001.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Voter",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

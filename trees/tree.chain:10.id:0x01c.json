@@ -1,0 +1,81 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001c00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000001c",
+    "image": "https://ipfs.io/ipfs/bafybeieu2fb6ysoasix5xks7jcrl6ybjiijq2vopwlckxnnlzyldzt2kpm",
+    "createdAt": null,
+    "name": "Top Hat (10/12 demo)",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001c00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001c.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Member Hat",
+        "description": "",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001c00020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001c.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Treasury Signer",
+        "description": "",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001c00030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001c.0003",
+        "image": "",
+        "createdAt": null,
+        "name": "Treasury Hat",
+        "description": "",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001c00040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001c.0004",
+        "image": "",
+        "createdAt": null,
+        "name": "Hatter (Automated Admin)",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001c00040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001c.0004.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Steward",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001800000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000018",
+    "image": "https://ipfs.io/ipfs/bafkreihsni2egpyl4c7hxvzg32ciwvaevvtu3smx27jai76qq5ysuikbi4",
+    "createdAt": null,
+    "name": "PublicHaus",
+    "description": "DAO level baalcap for DAOHausV3 governance on MolochV3 DAO\n\nDAO https://admin.daohaus.fun/#/molochv3/0xa/0xf5d6b637a9185707f52d40d452956ca49018247a\n\nHats Controller Safe (DAO controlled)\n0xb1027c597e83009aadfc8e0b24db6ba31b1e3c6d",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001800010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000018.0001",
+        "image": "https://ipfs.io/ipfs/bafybeifiqmwcn5w3zyjfvnzxaybzjhisrnakuzelqyoufhp6w6gyulihza",
+        "createdAt": null,
+        "name": "Champion Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeict2qlp3cscpvxoktjxfk4uw3vf37ipjyeltwk56mxvoznee5irsy",
+            "createdAt": null,
+            "name": "Champions",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeibj6wy6dpux6m22uwxkrtcpsws2jx3ceesfqdtefcihhggvyudsbm",
+                "createdAt": null,
+                "name": "Champion Tree",
+                "description": "More ephemeral sub roles and daos that are more easily spun up and managed by champions.",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001800020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000018.0002",
+        "image": "https://ipfs.io/ipfs/bafybeibba6gc7fuzuqf55hzztiahqxu4dy2dbcza76g25hgr6xspxq53hu",
+        "createdAt": null,
+        "name": "Roles",
+        "description": "Roles directly under the DAO. Can only be changed through proposal and share holder (Champion) consensus. ",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0001",
+            "image": "https://ipfs.io/ipfs/bafybeigiznyon3g435w2hobfliy35olacyetj3ewl4d32ejvnc2mybz6ky",
+            "createdAt": null,
+            "name": "Contractooors",
+            "description": "Manages DAO owned contracts. This is for doing upgrades and managing on chain registries",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0002",
+            "image": "https://ipfs.io/ipfs/bafybeiaix432ey3ol57qtrdhh4b6kaqj4lkstke3b5alrosjps4mtfxj6u",
+            "createdAt": null,
+            "name": "XComs",
+            "description": "Insures Communications between different roles. Is Admin on twitter and other external comms accounts",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0003",
+            "image": "https://ipfs.io/ipfs/bafybeiawuavl5fkonzxc66ix6emntjuzhzuw7tdww2nuegojvms5koh3y4",
+            "createdAt": null,
+            "name": "Elected Reward Committee",
+            "description": "Seasonal Election through random sortition of Champions. Manages distro of seasonal retro rewards.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0004",
+            "image": "https://ipfs.io/ipfs/bafybeifxbf4hbsbsrfwcynpnpvmbaikut2b2hwcrumhdhf4hf5csx7mm6q",
+            "createdAt": null,
+            "name": "Core maintainoooor",
+            "description": "Admins on the HausDAO github repo",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0005",
+            "image": "https://ipfs.io/ipfs/bafybeie3b66ow7pksahgpovd4dpmd5dxwjqecgcoiinsxyjemguvau335q",
+            "createdAt": null,
+            "name": "Platformoooors",
+            "description": "platformooors stream\nhttps://app.superfluid.finance/stream/optimism/0x1acff11474b9c6d15966da7a08ed23438cde23d4-0x3607c07661d62f5db34a4b51f8c6531ba71d84a5-0x4ac8bd1bdae47beef2d1c6aa62229509b962aa0d-0.0",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0006",
+            "image": "https://ipfs.io/ipfs/bafybeihyoaidmfw47q6k7h3hsgzffhbujbgzzmg4rzsys2glwjomopwmve",
+            "createdAt": null,
+            "name": "Protocolooors",
+            "description": "Steward of the protocol budget stream\n\nprotocolooors stream\nhttps://app.superfluid.finance/stream/optimism/0x1acff11474b9c6d15966da7a08ed23438cde23d4-0x37ee401f4715a04b737955b0f1a67b1ab7aab806-0x4ac8bd1bdae47beef2d1c6aa62229509b962aa0d-0.0",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800020007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0002.0007",
+            "image": "https://ipfs.io/ipfs/bafybeihyoaidmfw47q6k7h3hsgzffhbujbgzzmg4rzsys2glwjomopwmve",
+            "createdAt": null,
+            "name": "OLD Protocoloooors",
+            "description": "No description",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001800030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000018.0003",
+        "image": "https://ipfs.io/ipfs/bafybeibgwxkqlglz6r7awzzk2djgnmejkogdffc65nwu5h4ixczel7rvje",
+        "createdAt": null,
+        "name": "OP Assets",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0003.0001",
+            "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+            "createdAt": null,
+            "name": "Contract Owner",
+            "description": "Safe for the Contractooors\n\nSafe at: https://app.safe.global/home?safe=oeth:0x5b6bb84cc103B8C64F28C8740a64fe3d404aEe62\n\nClaim At: https://optimistic.etherscan.io/address/0x4A427220878a8150409cd197c2D25ad2eB3CC2B3#writeContract\n\nDocs:\nhttps://docs.hatsprotocol.xyz/hats-integrations/hat-gated-authorities/safe-multisig-signing-authority#using-hats-signer-gate",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0003.0002",
+            "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+            "createdAt": null,
+            "name": "Rewards Committee",
+            "description": "Safe for Elected Rewards Committee\n\nSafe at: https://app.safe.global/home?safe=oeth:0x02Cd00B0Aec913c30577e4FCE3179aEd91D6C315\n\nClaim At: https://optimistic.etherscan.io/address/0x13760c5F9be4d42965d3C8b1aFfD712Ac419f06F#writeContract\n\nDocs:\nhttps://docs.hatsprotocol.xyz/hats-integrations/hat-gated-authorities/safe-multisig-signing-authority#using-hats-si\nhttps://optimistic.etherscan.io/address/0x13760c5F9be4d42965d3C8b1aFfD712Ac419f06F#writeContract",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800030003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0003.0003",
+            "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+            "createdAt": null,
+            "name": "ECO Fund",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800030004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0003.0004",
+            "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+            "createdAt": null,
+            "name": "Platformooors",
+            "description": "No description",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800030005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0003.0005",
+            "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+            "createdAt": null,
+            "name": "Protocolooors",
+            "description": "No description",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001800040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000018.0004",
+        "image": "https://ipfs.io/ipfs/bafybeidqatwlezls5g52guxyc2lxgc57vj57tmvk3ke6mliqunrpogxbe4",
+        "createdAt": null,
+        "name": "Cross Chain Assets",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0004.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Mainnet Ethereum",
+            "description": "Main",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "DAO",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001800040001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000018.0004.0001.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+                    "createdAt": null,
+                    "name": "ECO fund",
+                    "description": "mainnet: 0x4a9a27d614a74ee5524909ca27bdbcbb7ed3b315\n\nOwner of:\nfactory: \"0x3E0eAdE343Ddc556a6Cf0f858e4f685ba303ce71\",\nvaultFactory: \"0xb04111e7b4576164145EF97EB81fd43DA0F2D675\",\nadvTokenFactory: \"0x84561C97156a128662B62952890469214FDC87bf\",",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001800040001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000018.0004.0001.0001.0002",
+                    "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+                    "createdAt": null,
+                    "name": "GRT Indexer fund",
+                    "description": "Safe for GRT to be used in Indexer deploys",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800040002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0004.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Arbitrum",
+            "description": "https://app.safe.global/home?safe=arb1:0x08678A8d65D8d81bD13db617211F1E9CE176B2fB",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "ECO fund",
+                "description": "Owner of:\nfactory: \"0xb08Cc8C343cF6dC20d8cf51Fb2D6C436c6390dAa\",\nvaultFactory: \"0xC39E8D4DE75c6aC025a0C07dCd8Aeb0728C5DBF1\",\nadvTokenFactory: \"0x8a4A9E36106Ee290811B89e06e2faFE913507965\",",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0002.0002",
+                "image": "https://ipfs.io/ipfs/bafkreihhtggnzrlwhz4nod6zovcxozqsz7elmp3dxg7l36b43uegmbhpka",
+                "createdAt": null,
+                "name": "GRT Indexer ",
+                "description": "https://app.safe.global/home?safe=arb1:0x08678A8d65D8d81bD13db617211F1E9CE176B2fB\n\nthis is the new safe that will manage the account on abritrum - same signers as the mainnet one.",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800040003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0004.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Gnosis Chain",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0003.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "ECO Fund",
+                "description": "Owner of:\nfactory: \"0x7e988A9db2F8597735fc68D21060Daed948a3e8C\",\nvaultFactory: \"0x594E630efbe8dbd810c168e3878817a4094bB312\",\nadvTokenFactory: \"0x8a4A9E36106Ee290811B89e06e2faFE913507965\",",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800040004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0004.0004",
+            "image": "",
+            "createdAt": null,
+            "name": "Polygon",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040004000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0004.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "ECO Fund",
+                "description": "Owner of:\nfactory: \"0x7e988A9db2F8597735fc68D21060Daed948a3e8C\",\nvaultFactory: \"0x594E630efbe8dbd810c168e3878817a4094bB312\",\nadvTokenFactory: \"0x8a4A9E36106Ee290811B89e06e2faFE913507965\"",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800040005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0004.0005",
+            "image": "",
+            "createdAt": null,
+            "name": "Sepolia",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040005000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0005.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "ECO Fund",
+                "description": "Owner of:\nfactory: \"0xB2B3909661552942AE1115E9Fc99dF0BC93d71d0\",\nvaultFactory: \"0x763f5c2E59f997A6cC48Bf1228aBf61325244702\",\nadvTokenFactory: \"0xD69e5B8F6FA0E5d94B93848700655A78DF24e387\",",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001800040006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000018.0004.0006",
+            "image": "",
+            "createdAt": null,
+            "name": "Base",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001800040006000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000018.0004.0006.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "ECO Fund",
+                "description": "factory: \"0x22e0382194AC1e9929E023bBC2fD2BA6b778E098\",\nvaultFactory: \"0x2eF2fC8a18A914818169eFa183db480d31a90c5D\",\nadvTokenFactory: \"0x97Aaa5be8B38795245f1c38A883B44cccdfB3E11\",",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

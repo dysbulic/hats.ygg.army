@@ -1,0 +1,55 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000042",
+    "image": "https://ipfs.io/ipfs/bafkreigzvp2f4y6veojmo2xkxplwdgrpmrmutrh5xqximq7wnc6zag5ubq",
+    "createdAt": null,
+    "name": "CTG Green Tribe",
+    "description": "The Green Tribe from CryptoTheGame"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000042.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Automated Admin",
+        "description": "Placeholder for automations such as self-claiming, etc.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004200010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000042.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Green Tribe Alumni",
+            "description": "All active and former Green Tribe members",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004200010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000042.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Green Tribe Active Member",
+            "description": "Still alive!",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

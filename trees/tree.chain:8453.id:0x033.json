@@ -1,0 +1,58 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000003300000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000033",
+    "image": "https://ipfs.io/ipfs/bafkreicpkdmf525o6v4hxcemcfg7xh5wwdtsb6dcscxi7wr3m5zliwfuue",
+    "createdAt": null,
+    "name": "GigsGoGreen",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003300010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000033.0001",
+        "image": "https://ipfs.io/ipfs/bafkreicpkdmf525o6v4hxcemcfg7xh5wwdtsb6dcscxi7wr3m5zliwfuue",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003300010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000033.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreicpkdmf525o6v4hxcemcfg7xh5wwdtsb6dcscxi7wr3m5zliwfuue",
+            "createdAt": null,
+            "name": "Funding TEAMs",
+            "description": "TEAM (Together Everyone Achieves More). We will use this for representing various funding teams for ♻️ #GigsGoGreen.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003300010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000033.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreicpkdmf525o6v4hxcemcfg7xh5wwdtsb6dcscxi7wr3m5zliwfuue",
+                "createdAt": null,
+                "name": "HeroX | Solar Prize Round 8",
+                "description": "https://3win.social/herox-solar-prize-round-8",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

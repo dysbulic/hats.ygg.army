@@ -1,0 +1,320 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000600000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000006",
+    "image": "",
+    "createdAt": null,
+    "name": "Convening Record Label",
+    "description": "Worn by CRL DAO - 1 Token 1 Vote",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000600010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000006.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Band Configurator",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Promotion",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Manager",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Legal",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Marketing",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Promoter",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0002.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Distributor",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": false,
+                "id": "0x0000000600010002000300000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0002.0003",
+                "image": "",
+                "createdAt": null,
+                "error": "No data."
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Studio",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": false,
+                "id": "0x0000000600010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0003.0001",
+                "image": "",
+                "createdAt": null,
+                "error": "No data."
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": false,
+                "id": "0x0000000600010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0003.0002",
+                "image": "",
+                "createdAt": null,
+                "error": "No data."
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0004",
+            "image": "",
+            "createdAt": null,
+            "name": "Legal",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0005",
+            "image": "",
+            "createdAt": null,
+            "name": "Artist Management",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010005000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0005.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Engineering",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010005000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0005.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Mastering",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600010005000300000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0001.0005.0003",
+                "image": "",
+                "createdAt": null,
+                "name": "Session Musicians",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0006",
+            "image": "",
+            "createdAt": null,
+            "name": "Artist Management",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": false,
+            "id": "0x0000000600010007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0007",
+            "image": "",
+            "createdAt": null,
+            "error": "No data."
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000600020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000006.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Label Configurator",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Degenerators",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600020001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0002.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Band Multisig",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000600020001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000006.0002.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Band Member",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0002.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Vitalika",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

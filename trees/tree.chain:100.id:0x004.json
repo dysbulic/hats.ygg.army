@@ -1,0 +1,418 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000400000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000004",
+    "image": "https://i.seadn.io/gcs/files/8b84a2ee696adab270f5de88c4d8a45f.jpg",
+    "createdAt": null,
+    "name": "tophat 4"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000400010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000004.0001",
+        "image": "https://i.seadn.io/gcs/files/26dc89a936dac96ac41765354095d5ed.png",
+        "createdAt": null,
+        "name": "hat 4.1"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000400010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000004.0001.0001",
+            "image": "https://i.seadn.io/gcs/files/0b153344fa4bc769d33c4561341346b5.png?auto=format&w=750",
+            "createdAt": null,
+            "name": "batch v2 #1"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000400010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000004.0001.0001.0001",
+                "image": "https://i.seadn.io/gcs/files/9848c6e3e845dee371151d3a274eb95a.png?auto=format&w=750",
+                "createdAt": null,
+                "name": "batch v2 #2"
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000400010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000004.0001.0001.0001.0001",
+                    "image": "https://i.seadn.io/gcs/files/9848c6e3e845dee371151d3a274eb95a.png?auto=format&w=750",
+                    "createdAt": null,
+                    "name": "testtest"
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000400010001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000004.0001.0001.0001.0002",
+                    "image": "https://i.seadn.io/gcs/files/951a6fa32ba648ee23dff0a71626f435.png?auto=format&w=750",
+                    "createdAt": null,
+                    "name": "batch v3 #1"
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000000400010001000100020001000000000000000000000000000000000000",
+                        "prettyId": "0x00000004.0001.0001.0001.0002.0001",
+                        "image": "https://i.seadn.io/gcs/files/ccbdd9e0bf6fb096f96f28c72012f975.png?auto=format&w=750",
+                        "createdAt": null,
+                        "name": "batch v3 #2"
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000000400010001000100020002000000000000000000000000000000000000",
+                        "prettyId": "0x00000004.0001.0001.0001.0002.0002",
+                        "image": "https://i.seadn.io/gcs/files/c60357437fce4445bc7fd2cc8d2f59fb.png?auto=format&w=750",
+                        "createdAt": null,
+                        "name": "batch v3 #3"
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000000400010001000100020002000100000000000000000000000000000000",
+                            "prettyId": "0x00000004.0001.0001.0001.0002.0002.0001",
+                            "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+                            "createdAt": null,
+                            "name": "testing hats again"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000400010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000004.0001.0001.0002",
+                "image": "https://i.seadn.io/gae/b-cDd9Rr0cGWqkZPKRmtBDXIe0nAY1G88doRhkbxdi5k4cccoJRlGEDLJNLLqq1y_qF48HA4hRs6o6x7O0v-LhW4rq_N8gbIW5OgWSo?auto=format&w=750",
+                "createdAt": null,
+                "name": "testing 2!!"
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000400010001000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000004.0001.0001.0002.0001",
+                    "image": "https://i.seadn.io/gae/ifck60Lp54aiSUnEWSsRvjWYlorBzr50Du-I51xb7QRzoUAugNg8-QGnZ0WmnMh429GIb-ciIvSVc8-jYEZaPzKGknXC_CaquytfyQ?auto=format&w=750",
+                    "createdAt": null,
+                    "name": "testin g 3!!@"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000400010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000004.0001.0002",
+            "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+            "createdAt": null,
+            "name": "234234"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000400010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000004.0001.0002.0001",
+                "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+                "createdAt": null,
+                "name": "1231"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000400020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000004.0002",
+        "image": "https://i.seadn.io/gcs/files/26dc89a936dac96ac41765354095d5ed.png",
+        "createdAt": null,
+        "name": "batch hat 1"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000400020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000004.0002.0001",
+            "image": "https://i.seadn.io/gcs/files/8b84a2ee696adab270f5de88c4d8a45f.jpg",
+            "createdAt": null,
+            "name": "batch hat 3"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000400020001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000004.0002.0001.0001",
+                "image": "https://i.seadn.io/gcs/files/e64143794c9c239a0cfc707c9489d64d.png?auto=format&w=750",
+                "createdAt": null,
+                "name": "batch hat 4"
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000400020001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000004.0002.0001.0002",
+                "image": "https://i.seadn.io/gcs/files/262652d87cf997c3ec2dcb01b2ee4e26.png?auto=format&w=750",
+                "createdAt": null,
+                "name": "batch hat 5"
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000400020001000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000004.0002.0001.0002.0001",
+                    "image": "https://i.seadn.io/gcs/files/b02d3d85542c57120283ec3d8f8934aa.png?auto=format&w=750",
+                    "createdAt": null,
+                    "name": "batch hat 6"
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000400020001000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000004.0002.0001.0002.0002",
+                    "image": "https://i.seadn.io/gcs/files/18213fef7f12bd2c64b3f16ea0d1c3ca.png?auto=format&w=750",
+                    "createdAt": null,
+                    "name": "batch hat 7"
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000000400020001000200020001000000000000000000000000000000000000",
+                        "prettyId": "0x00000004.0002.0001.0002.0002.0001",
+                        "image": "https://i.seadn.io/gcs/files/3e2b03f870a5aeca3a6428a757337cec.png?auto=format&w=750",
+                        "createdAt": null,
+                        "name": "batch hat 8"
+                      },
+                      "children": [
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000000400020001000200020001000100000000000000000000000000000000",
+                            "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001",
+                            "image": "https://i.seadn.io/gcs/files/31ba88a8463646167f19676374b0468b.png?auto=format&w=750",
+                            "createdAt": null,
+                            "name": "batch hat 9"
+                          },
+                          "children": [
+                            {
+                              "node": {
+                                "loaded": true,
+                                "valid": true,
+                                "id": "0x0000000400020001000200020001000100010000000000000000000000000000",
+                                "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001.0001",
+                                "image": "https://i.seadn.io/gcs/files/4d2b1c4c1da031618a190674374de292.png?auto=format&w=750",
+                                "createdAt": null,
+                                "name": "batch hat 10"
+                              },
+                              "children": [
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000000400020001000200020001000100010001000000000000000000000000",
+                                    "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001.0001.0001",
+                                    "image": "https://i.seadn.io/gcs/files/cf784da0bb3adb7b741e02fa94bbdf87.png?auto=format&w=750",
+                                    "createdAt": null,
+                                    "name": "batch hat 11"
+                                  },
+                                  "children": [
+                                    {
+                                      "node": {
+                                        "loaded": true,
+                                        "valid": true,
+                                        "id": "0x0000000400020001000200020001000100010001000100000000000000000000",
+                                        "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001.0001.0001.0001",
+                                        "image": "https://i.seadn.io/gcs/files/f3271f63ae53d5a6332bcd7bf548a894.png?auto=format&w=750",
+                                        "createdAt": null,
+                                        "name": "batch hat 12"
+                                      }
+                                    },
+                                    {
+                                      "node": {
+                                        "loaded": true,
+                                        "valid": true,
+                                        "id": "0x0000000400020001000200020001000100010001000200000000000000000000",
+                                        "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001.0001.0001.0002",
+                                        "image": "https://i.seadn.io/gcs/files/b7f56b536627e3a2ef613c06be28d6ab.png?auto=format&w=750",
+                                        "createdAt": null,
+                                        "name": "batch hat 13"
+                                      },
+                                      "children": [
+                                        {
+                                          "node": {
+                                            "loaded": true,
+                                            "valid": true,
+                                            "id": "0x0000000400020001000200020001000100010001000200010000000000000000",
+                                            "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001.0001.0001.0002.0001",
+                                            "image": "https://i.seadn.io/gcs/files/cf3d42a7d82f7c1f2db0da9a623771e0.png?auto=format&w=750",
+                                            "createdAt": null,
+                                            "name": "batch hat 14"
+                                          },
+                                          "children": [
+                                            {
+                                              "node": {
+                                                "loaded": true,
+                                                "valid": true,
+                                                "id": "0x0000000400020001000200020001000100010001000200010001000000000000",
+                                                "prettyId": "0x00000004.0002.0001.0002.0002.0001.0001.0001.0001.0002.0001.0001",
+                                                "image": "https://i.seadn.io/gcs/files/948c13f828ecf7cb95935cdb66eea36e.png?auto=format&w=750",
+                                                "createdAt": null,
+                                                "name": "batch hat 15"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000400030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000004.0003",
+        "image": "https://i.seadn.io/gcs/files/3dadc65381f25b5e0e6d76759fb49525.jpg",
+        "createdAt": null,
+        "name": "batch hat 2"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000400030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000004.0003.0001",
+            "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+            "createdAt": null,
+            "name": "123"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000400030001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000004.0003.0001.0001",
+                "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+                "createdAt": null,
+                "name": "234"
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000400030001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000004.0003.0001.0001.0001",
+                    "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+                    "createdAt": null,
+                    "name": "534"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000400040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000004.0004",
+        "image": "",
+        "createdAt": null,
+        "name": null
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000400040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000004.0004.0001",
+            "image": "https://i.seadn.io/gcs/files/4409ac9a19d58a2744cb47ed1d0ba32d.png?auto=format&w=750",
+            "createdAt": null,
+            "name": "123"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000400050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000004.0005",
+        "image": "",
+        "createdAt": null,
+        "name": null
+      }
+    }
+  ]
+}

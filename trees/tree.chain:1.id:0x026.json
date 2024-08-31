@@ -1,0 +1,12 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000002600000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000026",
+    "image": "https://ipfs.io/ipfs/bafybeihs4rqusyrbge2ogwpkvsjstrp37m4babca7sgjx7rxnosgwr3e6m",
+    "createdAt": null,
+    "name": "Heal EDS Super Admin",
+    "description": "This is a superadmin account for the Heal EDS DAO"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000007800000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000078",
+    "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+    "createdAt": null,
+    "name": "Trusted Seed",
+    "description": "Trusted Seed is a value-driven community advancing regen economies. It is a Swiss Association that supports early-stage regenerative economies culturally and financially. \n\nCreated in 2019, it has been a reputable network of trusted actors who apply wisdom, expertise, and capital to early-stage crypto communities committed to creating regenerative micro-economies for public goods through token engineering and DAO governance."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007800010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000078.0001",
+        "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+        "createdAt": null,
+        "name": "Board Member",
+        "description": "",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007800020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000078.0002",
+        "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+        "createdAt": null,
+        "name": "Gardener",
+        "description": "",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007800030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000078.0003",
+        "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+        "createdAt": null,
+        "name": "Member",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007800030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000078.0003.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+            "createdAt": null,
+            "name": "Mentor",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000007800040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000078.0004",
+        "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+        "createdAt": null,
+        "name": "Mentorship Program",
+        "description": "The Trusted Seed Mentorship Program is a dynamic platform designed to foster one-on-one mentorships, promoting a collaborative learning environment. Through this initiative, mentors help mentees develop specific skills and knowledge, contributing to the advancement of regenerative economies and impactful DAO governance.\n\nOur mentorship program uniquely combines the expertise of token engineers and climate activists within the innovative framework of the Celo blockchain, ensuring that participants not only enhance climate action initiatives through token engineering principles but also learn how Celo’s decentralized governance capabilities can provide the necessary technological support for effective implementation.\n\nBy integrating these domains, we create a dynamic learning and development environment that focuses on developing practical, scalable solutions for environmental sustainability.\n\nThe core of our program is a personalized matchmaking process that pairs you with the perfect mentor or mentee based on your shared expertise, interests, and goals.\n\nLearn more about the program here: https://trustedseed.org/participate/mentorship-program",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007800040001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000078.0004.0001",
+            "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+            "createdAt": null,
+            "name": "Mentor",
+            "description": "Experienced professionals in token engineering, climate science, or Celo ecosystem development volunteer to share their expertise.",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000007800040002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000078.0004.0002",
+            "image": "https://ipfs.io/ipfs/bafkreiculrcik6hg2o3yexm2e5ak6zxay5t2jvwa2zmy3u73zpvzqz2roe",
+            "createdAt": null,
+            "name": "Mentee",
+            "description": "Web3 enthusiasts, token engineers, and climate builders with a passion for creating positive impact through volunteer collaboration.",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

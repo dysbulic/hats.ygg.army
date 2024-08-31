@@ -1,0 +1,75 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000100000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000001",
+    "image": "https://ipfs.io/ipfs/QmdZuTjLwEA9ciZRFiBH9qerUAab72bFdi3KrzXH92w6B7",
+    "createdAt": null,
+    "name": "Test of a Tree for PunderoRed"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000100010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000001.0001",
+        "image": "https://ipfs.io/ipfs/bafkreifdog22fadoiuoyxymhp3bmrz443ae56i3lwas6fl7rl2wz44qaei",
+        "createdAt": null,
+        "name": "PunteroRed's Chief Marketing Officer (CMO)",
+        "description": "As PunteroRed's Chief Marketing Officer (CMO), you will have the unique opportunity to shape our brand image in the DAO and crypto space, driving growth and engagement across our platforms. You'll craft and execute dynamic marketing strategies, create compelling content, and use data-driven insights to refine our outreach continuously. In this role, collaboration with internal stakeholders and staying ahead of market trends will be essential. We're looking for a marketing maverick to amplify our presence and ensure PunteroRed is at the forefront of our community's minds."
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000100010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000001.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreih47prpf67dwhtiis6g6szbn7tqkfwwqdqrsi67tclojaze7brtju",
+            "createdAt": null,
+            "name": "Do You Speak Meme? Join Us as Our Meme Overlord",
+            "description": "Calling all meme-lords! Ever thought of turning your passion for dank memes and internet culture into a full-time gig? We've got just the role for you! As PunteroRed's Meme Manager, your mission, should you choose to accept it, is to unleash a barrage of hilarious, on-point, and crypto-savvy memes that make the internet gods proud. You'll help us turn trending topics into meme magic, keeping our community entertained and hooked. If your meme game is so strong that even Doge would bow to you, this is your chance to shine. Strap in for a wild ride on the crypto meme express – all aboard the PunteroRed meme train!"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000100010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000001.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreic3rfny6psukau64fue3f4443grhl66mso2kbjvaeoeyienpoh3pa",
+            "createdAt": null,
+            "name": "PunteroRed's Rumor Wrangler",
+            "description": "Are you a word wizard who's fluent in meme-speak and seasoned in the language of the blockchain? PunteroRed is on the hunt for a PunteroRed's Rumor Wrangler who can juggle fiery press and social inquiries like a circus pro and craft compelling narratives that turn heads faster than a bullish crypto market. So jump into our quirky bandwagon and make the crypto space even more exciting!"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000100020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000001.0002",
+        "image": "https://ipfs.io/ipfs/bafkreicjymow6rh2fvn33aetja5il5gc5obhjs5xzrzqvmma7mcoacahce",
+        "createdAt": null,
+        "name": "👩‍💻 Chief Technology Whisperer (aka CTO)",
+        "description": "🔍 Where: Somewhere in the Metaverse (Remote)\n\n🎯 Target: Navigate the wild west of blockchain technology without letting our ship sink.\n\n💼 The Lowdown:\n\nAs our Chief Technology Whisperer, you will be the Gandalf of our fellowship, guiding us through the lands of Ethereum, NFTs, DAOs, and smart contracts.\n\nYour crystal ball (or, we guess, your vast knowledge of tech trends) will help shape PunteroRed's future in the ever-evolving realm of blockchain tech.\n\nYou will build a fellowship of your own: a dream team of coding wizards ready to create the DAO technology of tomorrow.\n\nResponsibilities:\n\nTech Guru 🧙‍♂️: Master of blockchain technology, smart contracts, and, of course, all things Ethereum. Share your knowledge and lead us into the light.\n\nTeam Conductor 🎼: Assemble your orchestra of tech virtuosos and guide them in harmony to create the symphony of our platform.\n\nTime Lord ⏱️: Make sure our tech symphony hits the right notes at the right time and within the set budget.\n\nShield Bearer 🛡️: Protect our sacred user data and organization’s info like a knight in shining armor.\n\nStoryteller 📚: Tell the tale of PunteroRed’s tech strategy to everyone, from the townsfolk to the king (aka partners, management, investors, and team members).\n\nInnovator 🚀: Keep us on the cutting edge, always pushing the envelope and disrupting the status quo.\n\nRequirements:\n\nMad Skills: Know your way around blockchain technology, decentralized systems, and web3 tech like you know your way around your own house.\nLeadership: Possess the charisma to inspire a horde of developers into coding excellence.\nCommunication: Able to explain complex tech stuff to us mere mortals. We promise we won't fall asleep.\nCreativity: Thinking outside the box. Heck, what box?\nDisclaimer: If you can time-travel or have any form of superpowers, that's a plus. 🦸‍♂️",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000100030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000001.0003",
+        "image": "",
+        "createdAt": null,
+        "name": "CFO"
+      }
+    }
+  ]
+}

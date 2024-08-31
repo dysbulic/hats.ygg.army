@@ -203,13 +203,11 @@ export const getTree = (
         .split('.')
         .map((x) => Number(`0x${x}`))
       )
-      console.debug({ ids })
       if(ids) {
         const rootId = ids.shift()
         let currId = ids.shift()
         let current = base
         while(currId != null) {
-          console.debug({ currId })
           current.children ??= []
           current = current.children[currId - 1] ??= (
             {} as Tree<Hat | BadHat>

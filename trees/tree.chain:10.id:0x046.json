@@ -1,0 +1,283 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004600000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000046",
+    "image": "",
+    "createdAt": null,
+    "name": "Azos Core",
+    "description": "The Core DAO of Azos"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004600010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000046.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Science SubDAO",
+        "description": "All things regenerative finance and environment related."
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Chief Science Officer",
+            "description": "Responsibilities\nManage Environmental R&D\nImpact Investor Relations\nBrand Development\nData Backing of Collateral"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004600020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000046.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Tech SubDAO",
+        "description": "All things technology."
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Chief Technology Officer",
+            "description": "Responsibilities\nTechnology Strategy and Development \nDefine Tech Strategy \nOversee Development of Projects\nEvaluate Emerging Technologies"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0002.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Web3 Developer",
+            "description": "Responsibilities\nSmart Contract Development and Coding"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600020003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0002.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Smart Contract Developer",
+            "description": "Responsibilities\nSmart Contract Development and Coding"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600020004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0002.0004",
+            "image": "",
+            "createdAt": null,
+            "name": "Front End Developer ",
+            "description": "Create Responsive Interfaces Based on Designs"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600020005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0002.0005",
+            "image": "",
+            "createdAt": null,
+            "name": "Head of Developer Operations",
+            "description": "Responsibilities \nInfrastructure and Developer Operations Management\nBuild and Manage Infrastructure \nImplement Developer Operations Best Practices\nEnsure System Reliability "
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004600030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000046.0003",
+        "image": "",
+        "createdAt": null,
+        "name": "Advisors",
+        "description": "Advisors of Azos core team"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0003.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Regenerative Investor Lead",
+            "description": "Ensure maximization of regeneration"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0003.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Decentralized Investor Lead",
+            "description": "Responsibilities\nEnsure maximization of decentralization"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600030003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0003.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Strategic Advisor",
+            "description": "Responsibilities\nStrategic guidance  and expertise\nProvide expert advice\nShare industry insights\nAssist in decision making"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004600040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000046.0004",
+        "image": "",
+        "createdAt": null,
+        "name": "Chief Executive Officer"
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004600050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000046.0005",
+        "image": "",
+        "createdAt": null,
+        "name": "Org Strategy SubDAO",
+        "description": "Public appearance and strategy of the DAO. "
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600050001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0005.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Chief Organization Officer",
+            "description": "Responsibilities\nOperations and organizational efficiency\nManage day to day operations\nOptimize processes\nensure efficient resource allocation"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600050002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0005.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Chief Compliance Officer",
+            "description": "Overseeing and managing regulatory compliance issues"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600050003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0005.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Chief Financial Officer",
+            "description": "Responsibilities\nFinancial strategy and management\nDevelop financial strategies\nBudgeting and forecasting\nFinancial risk management"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600050004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0005.0004",
+            "image": "",
+            "createdAt": null,
+            "name": "Head of Legal",
+            "description": "Responsibilities\nEnsure legal compliance\nEnsure legal protection of DAO members\nEnsure legal protection of DAO entity"
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004600060000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000046.0006",
+        "image": "",
+        "createdAt": null,
+        "name": "Community Engagement DAO"
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600060001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0006.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Head of Marketing"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600060002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0006.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Head of Community Development"
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004600060003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000046.0006.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Customer Service"
+          }
+        }
+      ]
+    }
+  ]
+}

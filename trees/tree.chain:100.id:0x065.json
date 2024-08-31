@@ -1,0 +1,100 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000006500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000065",
+    "image": "https://ipfs.io/ipfs/bafkreiagc5ffhnm6c3mymobrf25m2dtqyn3ril5svmpcpv36cdmrfvnlwq",
+    "createdAt": null,
+    "name": "VC",
+    "description": "An interactive Hats demo that implements the mechanisms for how a new Pope is elected",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000065.0001",
+        "image": "https://ipfs.io/ipfs/bafkreidvcr7add4mlmdoc5n6wfssuyr35d4gewtru3xg66m76vqz4dtxje",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "Handles automations, primarily hat claiming",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006500010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000065.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreidhj6fboknwcmxqghhkfkdrsrluilpaft6xnhx5hkyltwpkdmujcq",
+            "createdAt": null,
+            "name": "Papal Conclave",
+            "description": "Votes to elect a new Pope",
+            "authorities": [
+              {
+                "label": "Choose the next Pope",
+                "description": "",
+                "link": "https://vatican.com/",
+                "gate": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006500010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000065.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreifionwg36va2wtfocjgwiai2rg63u7hggohpsmolh57jrpb63inou",
+                "createdAt": null,
+                "name": "Pope",
+                "description": "",
+                "authorities": [
+                  {
+                    "label": "Control the Catholic Church",
+                    "description": "",
+                    "link": "https://www.god.com",
+                    "gate": ""
+                  }
+                ]
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006500010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000065.0001.0001.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeigozr3l23ic23sanjll2xea3dcrz4vv7qc5mjtiiltfnsoueczay4",
+                    "createdAt": null,
+                    "name": "Cardinal",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006500010001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000065.0001.0001.0001.0002",
+                    "image": "https://ipfs.io/ipfs/bafkreih2zul4gfq7w6p2s4o5kusobww6pd6j2al3ihxlweqn2rn7ob7myq",
+                    "createdAt": null,
+                    "name": "Voting Cardinal",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

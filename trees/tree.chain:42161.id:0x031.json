@@ -1,0 +1,262 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000003100000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000031",
+    "image": "https://ipfs.io/ipfs/bafkreiasdd6kxl5h2fqcjk6g3yjzlosvgbkucff7i4pbwyfvvm5726cgka",
+    "createdAt": null,
+    "name": "SI<3>'s Cat Tree",
+    "description": "SI<3> Ecosystem's Cosmic Cat Tree"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003100010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000031.0001",
+        "image": "https://ipfs.io/ipfs/bafkreifk3ut3ac2jzr6t6anakxeb6guhl7ex6n5prm3eoukjc4sqxwc3mi",
+        "createdAt": null,
+        "name": "SI<3> Configurator",
+        "description": "Administrator ",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003100010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000031.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeicei5yagy2x25mush4ahtqfwdqoqnt2aoe5zjpmuvxw5axkkzzgwu",
+            "createdAt": null,
+            "name": "SI<3> DAO",
+            "description": "Community Infrastructure and Growth",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "SI<3> DAO Council",
+                "description": "DAO delegates by member type",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000003100010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000031.0001.0001.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "SI<3> Communities",
+                    "description": "Diversity-focused and led community leaders in the SI3 Ecosystem",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "SI<3> DAO Members",
+                "description": "DAO Member Types",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000003100010001000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000031.0001.0001.0002.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Krypto Kollab Leaders",
+                    "description": "Si Her Members and Founders (for collaborative growth and funding)",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000003100010001000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000031.0001.0001.0002.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Si Her Members",
+                    "description": "Si Her Co-Active Participants",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000003100010001000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x00000031.0001.0001.0002.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Si Her Growth Network Participants",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003100010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000031.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeids7vjsctz6oige5ogjom7jxu2atfmybzbanfiugxa6ryv3njcwry",
+            "createdAt": null,
+            "name": "SI<3> Foundation",
+            "description": "Grants and DeFi ",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "FIXX ",
+                "description": "Financial Inclusion and Financial Impact Program",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000003100010002000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000031.0001.0002.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "FIXX Partners",
+                    "description": "FIXX Program Participants",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000003100010002000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000031.0001.0002.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "FTXX Partners",
+                    "description": "Financial Transparency XX Chromosomes Participants",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003100010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000031.0001.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "SI<3> Corporation",
+            "description": "Operations and Infrastructure",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0003.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Legal (Peace Keepers) ",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0003.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Education (EducationDAO) ",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010003000300000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0003.0003",
+                "image": "",
+                "createdAt": null,
+                "name": "Financial Advisory",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010003000400000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0003.0004",
+                "image": "",
+                "createdAt": null,
+                "name": "SI<3> Labs",
+                "description": "Technical and product development",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000003100010003000500000000000000000000000000000000000000000000",
+                "prettyId": "0x00000031.0001.0003.0005",
+                "image": "",
+                "createdAt": null,
+                "name": "SI<3> Media (Confusion&Joy)",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

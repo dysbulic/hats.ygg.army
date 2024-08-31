@@ -1,0 +1,63 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000003a00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000003a",
+    "image": "https://ipfs.io/ipfs/bafkreidjtnsdpfyonx253adtxu4ktroo7w7c6ixcjgzb5imv4ts2aiauma",
+    "createdAt": null,
+    "name": "A Based Evening interactive demo",
+    "description": "An interactive demo for [A Based Evening](https://lu.ma/e/evt-Qv0FzLxSsS337Un?pk=g-EovCAA9AE48oLnb) hosted by [ETHChicago](https://ethchicago.xyz)."
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003a00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000003a.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003a00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000003a.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeididqcofpebevo2jwy6nlalmleboz45syjhzjy5g34xsw3kqu6abu",
+            "createdAt": null,
+            "name": "Room of Requirement",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000003a00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000003a.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeib4yfdlkjsa4f7th2l3edwsvfx7hkuzpc46zvs3hnfodtwo56tbeq",
+            "createdAt": null,
+            "name": "Marauder",
+            "description": "Marauders must coordinate to break into the Room of Requirement to steal the prize",
+            "authorities": [
+              {
+                "label": "Maurader's Comms Channel",
+                "description": "Access to a private Telegram group only for verified Marauders",
+                "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAyMTg0NDgyNzMy",
+                "imageUrl": "",
+                "gate": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

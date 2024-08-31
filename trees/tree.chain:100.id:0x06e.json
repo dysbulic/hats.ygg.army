@@ -1,0 +1,185 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000006e00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000006e",
+    "image": "https://ipfs.io/ipfs/bafybeigxiezy7rrl6glurdo4ns2d2jsu4xsnpz5lgxfechvybe6kfdja44",
+    "createdAt": null,
+    "name": "Crypto Leftists",
+    "description": "This tree is unused",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006e00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000006e.0001",
+        "image": "https://ipfs.io/ipfs/bafybeifhcvhltn42pn65zxzbzzs5dmhiiriovujqnv2t2f6hzl57d65gxy",
+        "createdAt": null,
+        "name": "Hats Tree Admin",
+        "description": "Administrators of the Crypto Leftists hats tree.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006e00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000006e.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeie5sentevo5ukdu6n3f3gs5u54araiemrjovjnzb6wogd7mmtxkca",
+            "createdAt": null,
+            "name": "Community",
+            "description": "Basic roles in the Crypto Leftists community.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006e00010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006e.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeicltwfw73niztef22plj2ycfau2fwygxpi7tubpxijtbcsahrdcme",
+                "createdAt": null,
+                "name": "Community Member",
+                "description": "Members of the Crypto Leftists community",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006e00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000006e.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeih6rxo63fweku4hpumnb3seqofttth42lch3bdllvtkc3t4otmk3q",
+            "createdAt": null,
+            "name": "Contributors",
+            "description": " Contributors to the Crypto Leftists community.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006e00010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006e.0001.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafybeiajyzepks6kdn6yzklnok3isgbq4wbezp76uxgp6iji36hfsl2sma",
+                "createdAt": null,
+                "name": "Community Organizing",
+                "description": "General organizing activity within the Crypto Leftist community",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006e00010002000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000006e.0001.0002.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeibanvrzf6boc7smhoclqbczsje2ypw7rvtwprbuu674numxjaqziu",
+                    "createdAt": null,
+                    "name": "Community Steward",
+                    "description": "Stewards of the Crypto Leftists community.",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006e00010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006e.0001.0002.0002",
+                "image": "https://ipfs.io/ipfs/bafybeibooahu363dhi4t2ytngry5op7lxzjaguoiwicbudocufucyorpqm",
+                "createdAt": null,
+                "name": "Contributor Experience",
+                "description": "Labor organizing activity within the Crypto Leftists community.",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006e00010002000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000006e.0001.0002.0002.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeib374q4rqittp5tfdgbxr5uzcw5l7fobqfr4bvuhgjcez2b33appq",
+                    "createdAt": null,
+                    "name": "Shop Steward",
+                    "description": "Stewards of the Crypto Leftists workforce.",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006e00010002000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006e.0001.0002.0003",
+                "image": "https://ipfs.io/ipfs/bafybeiaren6dgue6f43svwi5l3zn7scsqsvmulycn7cjknssfgeeiwcjbi",
+                "createdAt": null,
+                "name": "Agitation & Propaganda",
+                "description": "Agitprop activity within the Crypto Leftists community",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006e00010002000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000006e.0001.0002.0003.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeih7jqw4x4gyx3jdwvattmbgx5pwg5ef4fepgbcgx25bd2xjmr6agq",
+                    "createdAt": null,
+                    "name": "Agitprop Steward",
+                    "description": "Stewards of Crypto Leftists' propaganda",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006e00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000006e.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeihdjznhdcwj2g7mvmfigttjffpassegydw6okmsq5p645l2latq3u",
+            "createdAt": null,
+            "name": "Projects",
+            "description": "Projects within the Crypto Leftists community",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006e00010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000006e.0001.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafybeihgdfeblzx6wuoju52xze4xdoeqajbl3yzkrhi5t46vzham3tqa5u",
+                "createdAt": null,
+                "name": "Project Admin",
+                "description": "Administrator for projects within the crypto leftists community.",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

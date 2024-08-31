@@ -1,0 +1,43 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000700000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000007",
+    "image": "https://ipfs.io/ipfs/bafkreihc74wbes7siatlvnf6ebsiibsrfwaocqfkgatd5hjejhlivwa3lq",
+    "createdAt": null,
+    "name": "DataGrant Program Top Hat",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000700010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000007.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Claims ADMIN",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000700010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000007.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Council Member Hat",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

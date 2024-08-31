@@ -1,0 +1,93 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000015",
+    "image": "https://ipfs.io/ipfs/bafybeieg4mse4aib4cn2kfdwizaatro2x3rc7yg564ppdan3hioxeflcxa",
+    "createdAt": null,
+    "name": "Equipe do Morro da Redenção",
+    "description": "Comunidade local responsável por manejar o SAF",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0001",
+        "image": "https://ipfs.io/ipfs/bafybeid7yohymwt42lzospzld5p64bzc4riyxx7sxvggqkycl4lm5jucqi",
+        "createdAt": null,
+        "name": "Piloto do Tratorito",
+        "description": "Responsável pelo cuidado com o tratorito (Tarcisinho)",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0002",
+        "image": "https://ipfs.io/ipfs/bafkreih7beim7zhymkkctub3sdicafc4t72usv4sxp5r23pfkxpcsf6neq",
+        "createdAt": null,
+        "name": "Piloto da compostagem",
+        "description": "- Preparar os insumos para a compostagem\n- Revirar a compostagem nas etapas pré plantio (Léo",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0003",
+        "image": "https://ipfs.io/ipfs/bafkreig6ljqj2ypk3nvjdnvphrkvxns4fafoxghp4q5lckn7nuf6ojwxai",
+        "createdAt": null,
+        "name": "Piloto da roçadeira",
+        "description": "roçar a área periodicamente (Léo)",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0004",
+        "image": "https://ipfs.io/ipfs/bafkreid3anzprvt2iflqdzjlc7j3rz5bzsmwcn2wvzb3xc5g4cbtdoso6q",
+        "createdAt": null,
+        "name": "Equipe de Apoio",
+        "description": "Equipe responsável pelo acolhimento, hospedagem e alimentação (Tati e Dona Augusta)",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500050000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0005",
+        "image": "",
+        "createdAt": null,
+        "name": "Voluntários",
+        "description": "Participantes dos mutirões de plantio (Luis André, Vania, Vini e Renato)",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001500060000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000015.0006",
+        "image": "https://ipfs.io/ipfs/bafybeidhzrbpedujg2sg52u2aom5vhdqlevt5bmcm2tsxk6nb7me5nrosy",
+        "createdAt": null,
+        "name": "Mentor",
+        "description": "- Criar o projeto do SAF e orientar participantes\n- Participar nas ações sazonais\n- Fazer a ponte com a AgroforestDAO",
+        "authorities": []
+      }
+    }
+  ]
+}

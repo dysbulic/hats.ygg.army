@@ -1,0 +1,102 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004800000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000048",
+    "image": "https://ipfs.io/ipfs/bafkreicy6iz67k4nutvxs7gtviuxt255k6w2ofxouxi54wrfm5thecg6x4",
+    "createdAt": null,
+    "name": "Decentral Intelligence Agency",
+    "description": "Our mission, if we choose to accept it, is one of meta-coordination; rise above our personal incentives to collectively gather, synthesize, and distribute intelligence and best practices around DAOs for the public good.",
+    "authorities": [
+      {
+        "label": "Create, mint, edit, and revoke DIA contributor Hats",
+        "link": ""
+      }
+    ]
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004800010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000048.0001",
+        "image": "https://ipfs.io/ipfs/bafkreibxll446aoh4b3ioy2hwvkztz3c37l45pempa3utarwandytl4mza",
+        "createdAt": null,
+        "name": "Agent",
+        "description": "Hat intended for new, passive, and occasional contributors. You will receive notifications of meetings and other coordination events.",
+        "authorities": [
+          {
+            "label": "Agent Role in DIA Discord",
+            "link": "https://discord.com/channels/855583004914876416/857647102653759549/857649942972727296"
+          },
+          {
+            "label": "Welcome to attend DIA Briefing and DIA Rendezvous meetings",
+            "link": ""
+          }
+        ]
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004800020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000048.0002",
+        "image": "https://ipfs.io/ipfs/bafkreigcf5whaev5o3fzijkfoxk5pnfvdknd2zo4nms4huhh7gfb5hqe4a",
+        "createdAt": null,
+        "name": "Director",
+        "description": "Hat intended for active, consistent contributors. You may request Director role from other directors in the #roles channel in the DIA Discord. Alongside your request, please include your previous contributions and what you intend to contribute in the future.",
+        "authorities": [
+          {
+            "label": "Director Role in the DIA Discord - full administrative permissions",
+            "link": ""
+          },
+          {
+            "label": "Invite and approve new requests to become Director",
+            "link": ""
+          }
+        ]
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004800020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000048.0002.0001",
+            "image": "https://ipfs.io/ipfs/bafybeig6c6bwk3gs5qafbylvf52s6om4tnnku72rao6o7kej6ndkkoesve",
+            "createdAt": null,
+            "name": "Curator",
+            "description": "The core mechanism of The DIA is to ingest, synthesize, and signal-boost high-value intel about DAOs. We do this via the Curation Engine. Curators are responsible for contributing to the Curation Engine (in the DIA Discord).",
+            "authorities": [
+              {
+                "label": "Curator Role in DIA Discord — access to post and curate in Curation channels",
+                "link": ""
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004800030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000048.0003",
+        "image": "https://ipfs.io/ipfs/bafybeigok2udstktompkqomqvd7pck7hwgv53o3tam2bk7z2br4b7twmku",
+        "createdAt": null,
+        "name": "Secret Service",
+        "description": "The invisible guardians of the DIA.",
+        "authorities": [
+          {
+            "label": "Discord administration, moderation, and protection of core secrets.",
+            "link": ""
+          }
+        ]
+      }
+    }
+  ]
+}

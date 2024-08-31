@@ -1,0 +1,35 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000005",
+    "image": "https://ipfs.io/ipfs/QmR8k1t7qVpjV45sb56nH6P6tLmN4BXCogj6B3ERYBjsex",
+    "createdAt": null,
+    "name": "Elemental DAO (EthGlobal Tokyo)"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000005.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "DAO Member Hat"
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000500020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000005.0002",
+        "image": "https://ipfs.io/ipfs/QmZhYy4eD4TKCcd49PpY8R8nxWMnwqTv2oSMNztPdjVwZg",
+        "createdAt": null,
+        "name": "Firetender Hat"
+      }
+    }
+  ]
+}

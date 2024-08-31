@@ -1,0 +1,83 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000600000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000006",
+    "image": "https://ipfs.io/ipfs/bafkreicmz3cdgxc5edtwa73g3vwazrux47u5c7wi2pndokn64upfw6efje",
+    "createdAt": null,
+    "name": "Treasure DAO",
+    "description": "Treasure is the decentralized gaming ecosystem bringing games and players together through MAGIC",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000600010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000006.0001",
+        "image": "https://ipfs.io/ipfs/bafkreidu2cxczex6q3fkzlxml32c7fxsbxxnzfqphymdl37wis2hb5hoje",
+        "createdAt": null,
+        "name": "Automated Admin",
+        "description": "Placeholder for future contracts that automate minting and modification of child hats",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeiblpcpx67ajhdvtdqw5vdd4kecrrrm7lxxiqjd3lsheva3ygwamzu",
+            "createdAt": null,
+            "name": "ARC",
+            "description": "The Arbitrum Representative Council (ARC) represents the Treasure DAO community within the Arbitrum ecosystem",
+            "authorities": [
+              {
+                "label": "Vote on Arbitrum Core proposals",
+                "description": "Vote on Arbitrum Core proposals with Treasure DAO’s $ARB voting power",
+                "link": "https://www.tally.xyz/gov/arbitrum",
+                "gate": ""
+              },
+              {
+                "label": "Vote on Arbitrum Treasury proposals",
+                "description": "Vote on Arbitrum Treasury proposals with Treasure DAO’s $ARB voting power",
+                "link": "https://www.tally.xyz/gov/arbitrum",
+                "gate": ""
+              },
+              {
+                "label": "Vote in Arbitrum DAO Snapshot space",
+                "description": "Vote on offchain signaling proposals with Treasure DAO’s $ARB voting power",
+                "link": "https://snapshot.org/#/arbitrumfoundation.eth",
+                "imageUrl": "ipfs://bafkreig4thuaetxg5j65wd7eqkhfaasdjh3wweqfkyuik3htrxkgsvitqm",
+                "gate": ""
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000600010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000006.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeifpsvjxki3hrxurprzwavhwrn3r6n6j7hjddaolk47wtmzabedwy4",
+            "createdAt": null,
+            "name": "ARC Liaison",
+            "description": "ARC liaisons are selected from active community members within the Treasure and Arbitrum ecosystem. They support the decentralized decision-making within Treasure DAO and lead Treasure DAO's engagement with Arbitrum governance.",
+            "authorities": [
+              {
+                "label": "Signing authority on the ARC multisig",
+                "description": "",
+                "link": "",
+                "gate": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000009b00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000009b",
+    "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+    "createdAt": null,
+    "name": "OpenCivics Consortium Steward Multisig",
+    "description": "Trial hat tree for the OpenCivics Consortium\n\n\nSignerGate Multisig address: \n0x4B506830A8b62C227df95cC97C7fb4D155bb9325\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0x133af87596b58a9d5075a0a8743ebee037986455272cc374bce4962b2f59ea63#eventlog\n\n\nOLD/OBSOLETE\n\nInitial signergate multisig: 0x74bAAc3A1a3cC44f273D662AfA60dA395af41743\n\nSignerGate deployment Tx link: https://optimistic.etherscan.io/tx/0x7fdc2066163d029b8925ccefaaff6b42875ed2411a306a96d4c6314b6cde06ed#eventlog",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000009b00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000009b.0001",
+        "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+        "createdAt": null,
+        "name": "OpenCivics Consortium Steward",
+        "description": "Trial hat for OpenCivicsConsortium Stewards",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Consortium Citizen",
+            "description": "Trial hat for the OpenCivics Academy Program multisig\n\nSignerGate Multisig address: \n0x9a363c4B72345eBC34b09915DCb38199F8d2c72a\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0xc56233be97632d0b83b550329f978f077d50c7b5ede726ea856ff573bd291c7b#eventlog\n",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Grants Program Multisig",
+            "description": "Trial hat for the OpenCivics Grants Program multisig\n\nSignerGate Multisig address: \n0x7Db9B8F871fb4Ddc76eee193B98644423299B013\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0x1de2b0c90fee88b0e35a520f621db2f2c0acd12a9ae9a3a4dba76ab44d84939b#eventlog\n\nOLD/OBSOLETE\n\nSignerGate Multisig address: 0x88F7CEe34D5239d688B0A4314b48C6Af4B8f4d56\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0xeeca3babd104814e1c0b26c55d9e264e17c332bce99de6809a00d546b9fd0f26#eventlog",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000009b00010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000009b.0001.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+                "createdAt": null,
+                "name": "OpenCivics Grants Program Manager",
+                "description": "Test hat for managers of the OpenCivics Grants Program",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Academy Program Multisig",
+            "description": "Trial hat for the OpenCivics Academy Program multisig\n\nSignerGate Multisig address: \n0x9a363c4B72345eBC34b09915DCb38199F8d2c72a\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0xc56233be97632d0b83b550329f978f077d50c7b5ede726ea856ff573bd291c7b#eventlog\n",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000009b00010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000009b.0001.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+                "createdAt": null,
+                "name": "OpenCivics Academy Program Manager",
+                "description": "Test hat for managers of the OpenCivics Academy Program",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0004",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Gatherings Program Multisig",
+            "description": "Trial hat for the OpenCivics Gatherings Program multisig\n\nSignerGate Multisig address: \n0xABdbEa91EBa5d97eA0F56fA7837Dce84302d1577\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0x3b669f6b5e50e15df0ec253d265ba6dc6417f202e86da4f7835c9cea34c6d5c6#eventlog\n",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000009b00010004000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000009b.0001.0004.0001",
+                "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+                "createdAt": null,
+                "name": "OpenCivics Gatherings Program Manager",
+                "description": "Trial hat for managers of the OpenCivics Gatherings Program",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0005",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Alliances Program Multisig",
+            "description": "Trial hat for the OpenCivics Alliances program\n\nSignerGate Multisig address: \n0x5bcB38db12CEa977Ff9353A4F6085dB5ADc0945C\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0x691a8c98d8beec538c2229ba51b18d86b33439c9c379aee4a44b2fdfcf80a8dd#eventlog\n",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000009b00010005000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000009b.0001.0005.0001",
+                "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+                "createdAt": null,
+                "name": "OpenCivics Alliances Program Manager",
+                "description": "Trial hat for managers of the OpenCivics Alliances Program",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0006",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Initiatives Program Multisig",
+            "description": "Trial hat for the OpenCivics Initiatives Program multisig\n\nSignerGate Multisig address: \n0x40D2A3c320E12A1453CF23BB07a7A0ea08aB7121\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0xc0c666da2d5b8529c6b08bbfaafedce2297766674e3a10a3b5150cc87a80e11d#eventlog",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000009b00010006000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000009b.0001.0006.0001",
+                "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+                "createdAt": null,
+                "name": "OpenCivics Initiatives Program Manager",
+                "description": "Trial hat for managers of the OpenCivics Initiatives Program",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000009b00010007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000009b.0001.0007",
+            "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+            "createdAt": null,
+            "name": "OpenCivics Governance Program Multisig",
+            "description": "Trial hat for the OpenCivics Governance Program multisig\n\nSignerGate Multisig address: \n0x215de7aa8eD364cB17d6819ef7aF904DACC90360\n\nSignergate deployment Tx link:\nhttps://optimistic.etherscan.io/tx/0x7fec6c187fd95adf4618ea5950cc98e52b1b736fd96598def6bcd066e238a5e0#eventlog\n",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000009b00010007000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000009b.0001.0007.0001",
+                "image": "https://ipfs.io/ipfs/bafkreighx4htoobzfjutcbelicgk5zhefqr2gyxx5weti6ieaklewxnrhe",
+                "createdAt": null,
+                "name": "OpenCivics Governance Program Manager",
+                "description": "Trial hat for managers of the OpenCivics Governance Program",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

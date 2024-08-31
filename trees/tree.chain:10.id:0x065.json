@@ -1,0 +1,237 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000006500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000065",
+    "image": "https://ipfs.io/ipfs/bafkreicmx4pyjk4uvke6epaymhrjtgtvspbi2bvleldbikuw6j7uatdnn4",
+    "createdAt": null,
+    "name": "XEON Protocol",
+    "description": "XEON Protocol Optimism manager",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000065.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Social Admin",
+        "description": "Placeholder for possible future integrations.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006500010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000065.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafkreidmze5pan4b5cpwvklfz3mkvnx5h5xz34abf6hccoov7lkhpg47uq",
+            "createdAt": null,
+            "name": "Farcaster Admin",
+            "description": "Farcaster administrator",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006500010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000065.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Caster",
+                "description": "This role can send casts on behalf of the XEON Protocol shared account",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006500020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000065.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "Organization",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006500020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000065.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Core Team",
+            "description": "Xeon Team\n\nProtocol and core treasury are managed by the team through a multi-sig on Ethereum xeon-protocol.eth (0x98B8d3c0fA0959a31fe0aBb9C7d90963976bc988)\n\nMarketing budget is managed by the team through marketing.xeon-protocol.eth (0xA911E44675E69FfdeCe95FdA754d64eC8a273349)",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006500020001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000065.0002.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeibajytusgcpuvin4ptaflgllgx4rebleulq7c6uwsnm23lybauy6m",
+                "createdAt": null,
+                "name": "CEO & Co-Founder",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006500020001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000065.0002.0001.0002",
+                "image": "https://ipfs.io/ipfs/bafkreieifswl6dgeojb4x6ubwnbj3yg3rvi3next2uhvc6ayecneend3ya",
+                "createdAt": null,
+                "name": "Co-Founder",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006500020001000300000000000000000000000000000000000000000000",
+                "prettyId": "0x00000065.0002.0001.0003",
+                "image": "https://ipfs.io/ipfs/bafkreih7pptw3i57v6g6ghbm3ofzy7ke6sgm5tryuzst62jbsoefceqeri",
+                "createdAt": null,
+                "name": "CTO",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006500030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000065.0003",
+        "image": "",
+        "createdAt": null,
+        "name": "Deployments",
+        "description": "XEON Protocol multi-chain assets.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006500030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000065.0003.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Ethereum Mainnet",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006500030001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000065.0003.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Core Team",
+                "description": "Xeon Core Team - multi-sig: eth:0x98B8d3c0fA0959a31fe0aBb9C7d90963976bc988",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006500030001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000065.0003.0001.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "CEO & Founder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006500030001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000065.0003.0001.0001.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Co-Founder",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006500030001000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x00000065.0003.0001.0001.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "CTO",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000006500030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000065.0003.0002",
+            "image": "https://ipfs.io/ipfs/bafkreibp52jbypztxnsayw2rxte6yvhgkbqipvpvozojsvqpwof457lmmi",
+            "createdAt": null,
+            "name": "Testnet (Base Sepolia)",
+            "description": "Team Multi-Sig:\n\"84532\": {\n        \"0xc6375950C08edAB57e0f2f51f91427b66bf80462\": {\n          \"owners\": [\n            {\n              \"value\": \"0x56557c3266d11541c2D939BF6C05BFD29e881e55\",\n              \"name\": \"Deployer\"\n            },\n            {\n              \"value\": \"0x7e2F9dd040cF7B41a1AF9e4A24A0EDB04093dDa1\",\n              \"name\": \"Jon\"\n            },\n            {\n              \"value\": \"0x5Fb8EfD425C3eBB85C0773CE33820abC28d1b858\",\n              \"name\": \"ByteZero\"\n            },\n            {\n              \"value\": \"0x2fD05265880d01149E38400c54eb5A7f9f13a904\",\n              \"name\": \"Sun\"\n            },\n            {\n              \"value\": \"0xEBa8726042100fd2B5898eAfd6f9ea74557FdEc4\",\n              \"name\": \"Paul\"\n            }\n          ],\n          \"threshold\": 1\n        }\n      }",
+            "authorities": []
+          }
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000006500040000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000065.0004",
+        "image": "https://ipfs.io/ipfs/bafkreih5xaobafx2lirhxdtw42mpouobgrt7mbjugs7hyebzn3u3jqmcvq",
+        "createdAt": null,
+        "name": "XEON Token",
+        "description": "The protocol token of Xeon Ecosystem. Official contract addresses for all networks that XEON is deployed on can be found in the address records of token.xeon-protocol.eth\n\nEthereum: 0x8d65a2eaBDE4B31cbD7E43F27E47559d1CCec86c",
+        "authorities": []
+      }
+    }
+  ]
+}

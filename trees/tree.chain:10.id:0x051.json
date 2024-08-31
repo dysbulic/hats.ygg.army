@@ -1,0 +1,303 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000005100000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000051",
+    "image": "https://ipfs.io/ipfs/bafkreicaxy7giytd6ip6xin7goyzkvie6mdsd7stsel3b6kvht76orfq2u",
+    "createdAt": null,
+    "name": "Superchain Season 1 ",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000005100010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000051.0001",
+        "image": "https://ipfs.io/ipfs/bafkreicaxy7giytd6ip6xin7goyzkvie6mdsd7stsel3b6kvht76orfq2u",
+        "createdAt": null,
+        "name": "Blog Guild",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Blog Reviewer",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst ",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": false,
+            "id": "0x0000005100010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0001.0002",
+            "image": "",
+            "createdAt": null,
+            "error": "No data."
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0001.0002.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000005100020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000051.0002",
+        "image": "https://ipfs.io/ipfs/bafkreicaxy7giytd6ip6xin7goyzkvie6mdsd7stsel3b6kvht76orfq2u",
+        "createdAt": null,
+        "name": "Report Guild",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0002.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Report reviewer",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100020001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0002.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100020001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0002.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0002.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Report reviewer",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100020002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0002.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100020002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0002.0002.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000005100030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000051.0003",
+        "image": "https://ipfs.io/ipfs/bafkreicaxy7giytd6ip6xin7goyzkvie6mdsd7stsel3b6kvht76orfq2u",
+        "createdAt": null,
+        "name": "Video Guild",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0003.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Report Reviewer",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100030001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0003.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100030001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0003.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000005100030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000051.0003.0002",
+            "image": "",
+            "createdAt": null,
+            "name": "Report Reviewer",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100030002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0003.0002.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000005100030002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000051.0003.0002.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "Analyst",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

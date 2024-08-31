@@ -1,0 +1,660 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000001e00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000001e",
+    "image": "https://ipfs.io/ipfs/bafkreibwxo335qet4ldnsqqbkykdsh43m4doqfds2gysykqz5xgxodwzum",
+    "createdAt": null,
+    "name": "SuperBenefit",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001e00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001e.0001",
+        "image": "https://ipfs.io/ipfs/bafkreihpg5flvvur4dvslx7rbyb26azwsewviznaf6nza2ceklokbujr6i",
+        "createdAt": null,
+        "name": "SuperBenefit Operations",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeignadbo5otgomsevdku5vac3fybywaflg4pfjllsiw6zrqfhi6qhi",
+            "createdAt": null,
+            "name": "Windfall Protocol Cell",
+            "description": "Windfall Protocol Cell at SuperBenefit",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                "createdAt": null,
+                "name": "Inactive Hat",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0001.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                    "createdAt": null,
+                    "name": "Inactive Hat",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000001e00010001000100010001000000000000000000000000000000000000",
+                        "prettyId": "0x0000001e.0001.0001.0001.0001.0001",
+                        "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                        "createdAt": null,
+                        "name": "Inactive Hat",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000001e00010001000100010002000000000000000000000000000000000000",
+                        "prettyId": "0x0000001e.0001.0001.0001.0001.0002",
+                        "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                        "createdAt": null,
+                        "name": "Inactive Hat",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000001e00010001000100010003000000000000000000000000000000000000",
+                        "prettyId": "0x0000001e.0001.0001.0001.0001.0003",
+                        "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                        "createdAt": null,
+                        "name": "Inactive Hat",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0001.0001.0002",
+                    "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                    "createdAt": null,
+                    "name": "Inactive Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010001000100030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0001.0001.0003",
+                    "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                    "createdAt": null,
+                    "name": "Inactive Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0001.0002",
+                "image": "https://ipfs.io/ipfs/bafybeibewbl4a5gyvvqt7zsbar4f6kpw4n5kc3etojcmjnmleozlmuj7ru",
+                "createdAt": null,
+                "name": "Community Member - Windfall Protocol",
+                "description": "Members of the Windfall Protocol Community",
+                "authorities": [
+                  {
+                    "label": "Chat Access",
+                    "description": "Permission to access Windfall Protocol Community chat spaces",
+                    "link": "https://discord.com/invite/6mDepqjgh2",
+                    "gate": "https://cc.collab.land/dashboard/874697948838101092/tgrs/1161918127290990663"
+                  },
+                  {
+                    "label": "Rewards Eligibility",
+                    "description": "Permission to receive $ENERGY rewards and digital collectibles",
+                    "link": "",
+                    "gate": "https://sourcecred.superbenefit.org/#/accounts"
+                  }
+                ]
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010001000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0001.0002.0001",
+                    "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                    "createdAt": null,
+                    "name": "Inactive Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010001000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0001.0002.0002",
+                    "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                    "createdAt": null,
+                    "name": "Inactive Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010001000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0001.0002.0003",
+                    "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+                    "createdAt": null,
+                    "name": "Inactive Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010001000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0001.0003",
+                "image": "https://ipfs.io/ipfs/bafybeihohjxser6tkwe5oyuw6kvq3imckmocmgaqqdiq456245yatygzsm",
+                "createdAt": null,
+                "name": "Windfall Protocol Research Group",
+                "description": "",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010001000400000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0001.0004",
+                "image": "https://ipfs.io/ipfs/bafybeibxo5ilqmglrd56i6jmklbonurca4on33lwzpicenf37eb2qxkrm4",
+                "createdAt": null,
+                "name": "Web3 Core Team - Windfall Protocol",
+                "description": "",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafkreifespuzcfc2czank2kdzixqxycl6ui2tltvxptg6v63qyompnqeya",
+            "createdAt": null,
+            "name": "DAO Primitives Cell",
+            "description": "DAO Primitives cell at SuperBenefit",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafybeiedf7e272htqm5qgddxujyssckgn26pfll7lv6igxfxwe74lqi6de",
+                "createdAt": null,
+                "name": "Core Team - DAO Primitives",
+                "description": "Core team members of the DAO Primitives cell at SuperBenefit",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010002000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0002.0001.0001",
+                    "image": "#",
+                    "createdAt": null,
+                    "name": "Core Team Test Hat",
+                    "description": "This hat is for testing purposes",
+                    "authorities": []
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0002.0002",
+                "image": "https://ipfs.io/ipfs/bafybeigqf4zfzx2r7ryhkx3i5nurwplfwek5oaxthf4tpoh76sga33nfra",
+                "createdAt": null,
+                "name": "Contributor - DAO Primitives",
+                "description": "Contributors to the DAO Primitives cell at SuperBenefit",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeicpsjtrqit5q7ec3g7olc545fbkvkdwcpcx3ytedqmlmxn7svcily",
+            "createdAt": null,
+            "name": "Reimagining Power Cell",
+            "description": "Reimagining Power Cell at SuperBenefit",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafkreidllrwwod2dv45dgtbltrh5ksulelo5oy5imvggrya46bkgi75luu",
+                "createdAt": null,
+                "name": "Core Team - Reimagining Power",
+                "description": "Core team members of the Reimagining Power cell at SuperBenefit",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00010003000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0001.0003.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeig7j77d57hte36e7yfxwrxhwqqhppcq3imhulpypgfajvw4uro3sm",
+                    "createdAt": null,
+                    "name": "Operations & Strategy Steward",
+                    "description": "Stewards of strategic and operational coordination within the Reimagining Power Core Team at SuperBenefit.\n\nWearers of this hat collaborate to develop strategy and coordinate operations on behalf of the core team. ",
+                    "authorities": [
+                      {
+                        "label": "Operational Decision-Making",
+                        "description": "- OS Stewards can make tactical operational decisions and manage day-to-day activities on behalf of the core team.\n  - High-level goals, commitments, and delegations are reserved for the core team.\n- Stewards can develop and implement operational strategies to deliver project outputs.\n  - Stewards can make low-level resource management decisions.\n- Stewards can create operational roles and delegate their own authorities, responsibilities, and resources to them.\n  - Delegation of core team authorities and high-level resource allocation decisions remain the prerogative of the core team, maintaining oversight and strategic control.",
+                        "link": "https://app.charmverse.io/superbenefit/operations-strategy-stewardship-rpp-draft-9677883486348926",
+                        "imageUrl": "",
+                        "gate": ""
+                      },
+                      {
+                        "label": "Delegated Spending Authority",
+                        "description": "- Stewards are authorized to spend a limited amount of funds from the RPP Treasury for project expenses.\n  - Discretionary Budget: Collectively, up to $2,500 USDC, in total for the duration of the project.\n- Stewards are empowered to draw personal compensation from the RPP rewards safe.\n  - Compensation Limit: Individually, up to $300 USDC per week for labor.",
+                        "link": "https://app.onchainden.com/safes/oeth:0x57534e7D013bF5b2a8b4f458C8a58Ff5e001f341",
+                        "imageUrl": "",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0003.0002",
+                "image": "https://ipfs.io/ipfs/bafybeicmkui74jcuahu6dctqcpxhcztlkp4uaxp3ximwngam5en6rkcnzi",
+                "createdAt": null,
+                "name": "Contributor - Reimagining Power",
+                "description": "Contributors to the Reimagining Power cell at SuperBenefit",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010003000300000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0003.0003",
+                "image": "https://ipfs.io/ipfs/bafybeihwjvteyuif6dll4hqg6bfjxrrjlhyjnoqvjj5zuvr6tdjnayg3n4",
+                "createdAt": null,
+                "name": "Stakeholder - Reimagining Power",
+                "description": "Stakeholders of partner organizations in the Reimagining Power cell at SuperBenefit.",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00010003000400000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0001.0003.0004",
+                "image": "",
+                "createdAt": null,
+                "name": "RP Rewards Safe",
+                "description": "Smart account for distributing rewards to RP contributors.\n\n(This hat doesn't represent a role. It's included here to help people find the rewards safe address.)",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001e00020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001e.0002",
+        "image": "https://ipfs.io/ipfs/bafkreie4f5cheoym6cqpr3h4oa2lvz2nhkhdg5ndlvwsom7rwodfcac6ji",
+        "createdAt": null,
+        "name": "SuperBenefit Administration",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00020001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0002.0001",
+            "image": "https://ipfs.io/ipfs/bafkreidmno5ocl75mzu22wjjmgvwrmwcxa4xthn6gmhkopy4c2ouohg4wi",
+            "createdAt": null,
+            "name": "Community Experience",
+            "description": "Administration of the Community Experience domain at SuperBenefit.\n\nThis hat represents a group, and can't be worn. It's currently used as a placeholder.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00020001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0002.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreiexg7hvqnyj7r5ic5k2zpx3nxewcqhfojk5vvfu7ru3dg7bcglrjy",
+                "createdAt": null,
+                "name": "Community Platform Admin",
+                "description": "Administrators of community platforms at SuperBenefit",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00020001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0002.0001.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafkreidmno5ocl75mzu22wjjmgvwrmwcxa4xthn6gmhkopy4c2ouohg4wi",
+                    "createdAt": null,
+                    "name": "Community Experience Workstream",
+                    "description": "Roles within the Community Experience workstream at SuperBenefit",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000001e00020001000100010001000000000000000000000000000000000000",
+                        "prettyId": "0x0000001e.0002.0001.0001.0001.0001",
+                        "image": "https://ipfs.io/ipfs/bafybeicinulkii4chw3kgewfipmkpgjhi5uubengfj33gustgrfy4xieca",
+                        "createdAt": null,
+                        "name": "Community Weaver",
+                        "description": "Community managers for the Community Experience workstream at SuperBenefit.",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000001e00020001000100010002000000000000000000000000000000000000",
+                        "prettyId": "0x0000001e.0002.0001.0001.0001.0002",
+                        "image": "https://ipfs.io/ipfs/bafybeialjg26pmynf3sk6pbzuar44pyu5qhykxoeikkzsrg6cwp5epr5mm",
+                        "createdAt": null,
+                        "name": "Media Manager",
+                        "description": "Social media managers for the Community Experience workstream at SuperBenefit.",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000001e00020001000100010003000000000000000000000000000000000000",
+                        "prettyId": "0x0000001e.0002.0001.0001.0001.0003",
+                        "image": "https://ipfs.io/ipfs/bafybeicreo52pqhs4xiqwl55h6hxjfi5kj4ujoxkiq7widlhocnutqeqmm",
+                        "createdAt": null,
+                        "name": "CX Contributor",
+                        "description": "Contributors to the Community Experience workstream at SuperBenefit.",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000001e00020001000100020000000000000000000000000000000000000000",
+                    "prettyId": "0x0000001e.0002.0001.0001.0002",
+                    "image": "https://ipfs.io/ipfs/bafybeifvdok5xeqgbosl2nc4kniwyf4xrrmqtk7sclpyfh7rpryhm47ejy",
+                    "createdAt": null,
+                    "name": "CX Steward",
+                    "description": "Stewards of the Community Experience workstream at SuperBenefit",
+                    "authorities": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00020002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0002.0002",
+            "image": "https://ipfs.io/ipfs/bafybeib6x4ssjwo57daq327zri7rhkeskfbadbosqoo6a7y2gwjdkupvqq",
+            "createdAt": null,
+            "name": "Knowledge Stewardship",
+            "description": "Administration of the Community Experience domain at SuperBenefit.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00020002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0002.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafybeiatbueg45nwqnasfzzrjckflpqs772gtpsdpcd5fbsefhsdlezmra",
+                "createdAt": null,
+                "name": "Knowledge Platform Admin",
+                "description": "Administrators of knowledge platforms at SuperBenefit",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00020003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0002.0003",
+            "image": "https://ipfs.io/ipfs/bafybeicqo3gpncxpn5gmzv5emlgb3bzl7i4vqw2a2src2r5qblfgpp7hnm",
+            "createdAt": null,
+            "name": "Value Flows",
+            "description": "Administrators of the Value Flows domain at SuperBenefit.",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000001e00020003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000001e.0002.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafybeia7iyoudsjphrjxufmklb2foz5vbrvvrteotuwp5d5bs3eiqvgaqu",
+                "createdAt": null,
+                "name": "Treasury Platform Admin",
+                "description": "Administrators of the Value Flows domain at SuperBenefit.",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000001e00030000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000001e.0003",
+        "image": "https://ipfs.io/ipfs/bafkreide3ooqepjfaiplhp4ylpxhcy5obzxyc6g4yvuigv7b2imkw42a3i",
+        "createdAt": null,
+        "name": "SuperBenefit Community",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0001",
+            "image": "https://ipfs.io/ipfs/bafkreif5ug4tufgdetb3fytg6z2a55ywyxivf57k5wa32mvpmky7hcjdve",
+            "createdAt": null,
+            "name": "SuperBenefit Contributor",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0002",
+            "image": "https://ipfs.io/ipfs/bafkreic7pfqzrdrlbo2j5vebhp5kyo27orbqrttwxvls46zfvc2qchthp4",
+            "createdAt": null,
+            "name": "SuperBenefit Steward",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0003",
+            "image": "https://ipfs.io/ipfs/bafkreiberzlo4z4gdycrkowoxvwl7xlkmmabsj6dpxebusm4gjpetxsifi",
+            "createdAt": null,
+            "name": "SuperBenefit Supporter",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030004000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0004",
+            "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+            "createdAt": null,
+            "name": "Unused Hat",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0005",
+            "image": "https://ipfs.io/ipfs/bafkreiafsk4g27wemhlh7nsjvhescd5sdlzqd7r7uqmxcjdnadnfp5f7je",
+            "createdAt": null,
+            "name": "SuperBenefit Community Member",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030006000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0006",
+            "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+            "createdAt": null,
+            "name": "Inactive Hat",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000001e00030007000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000001e.0003.0007",
+            "image": "https://ipfs.io/ipfs/bafkreierani7koiqwwx7xopwo6k27m2paoprr2rmkhwotbvcnnokbmqlwy",
+            "createdAt": null,
+            "name": "Inactive Hat",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

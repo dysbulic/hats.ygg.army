@@ -1,0 +1,41 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000003d00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x0000003d",
+    "image": "",
+    "createdAt": null,
+    "name": "--error--",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003d00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000003d.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "--error--",
+        "description": "directory",
+        "authorities": []
+      }
+    },
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000003d00020000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x0000003d.0002",
+        "image": "",
+        "createdAt": null,
+        "name": "--error--",
+        "description": "",
+        "authorities": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000000300000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000003",
+    "image": "https://ipfs.io/ipfs/bafybeif7ahzj4tpjglisecg5fqi4a7p5wp7ke2xbr6wg5pefa5l3zt5ulq/",
+    "createdAt": null,
+    "name": "DemoDAO",
+    "description": "",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000000300010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000003.0001",
+        "image": "https://ipfs.io/ipfs/bafybeigrwicgjieznn2cgmaxrroaubggnrjmngsvn3pbsb7civix5ulltq/Screenshot%202023-03-28%20at%2011.49.26%20PM.png",
+        "createdAt": null,
+        "name": "Demo Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000300010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000003.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeicdgckropvxsmy53d43cnf3z7v2cxoyfpbblwqxovfvpb7ycbz7qu/",
+            "createdAt": null,
+            "name": "Protocol Workstream (multisig)"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeicydzy35jlvpksfwgbnfeerjlov4mefemsb3w3wprv3kuplbrj4bi/",
+                "createdAt": null,
+                "name": "Protocol Contributor"
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0001.0002",
+                "image": "https://ipfs.io/ipfs/bafybeice252jpvpkpbez4vrgh6la6jlkrbykqfymb2douunjeed3mycogu/",
+                "createdAt": null,
+                "name": "Protocol Engineer"
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000300010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000003.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeigdidymahflpol4gt5r2ubwpnizmxwo2averutkdkysmnygossvkq/",
+            "createdAt": null,
+            "name": "Product Workstream (multisig)"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010002000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0002.0001",
+                "image": "https://ipfs.io/ipfs/bafybeiavmib5xkdb6sqb7zmorav5gwjqz4xz6igcqp3qxuvvkl2iom4cwu/",
+                "createdAt": null,
+                "name": "Product Contributor"
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010002000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0002.0002",
+                "image": "https://ipfs.io/ipfs/bafybeifukurau4xj6kv64vwa74hunvpbcik2jkhvvoqdck3xfkwgd7vvre",
+                "createdAt": null,
+                "name": "Product Workstream Facilitator (demo hat)"
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000300010002000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000003.0001.0002.0002.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeieqzxgpteyqq44tzhcsqgkumivelpjyt6ekde5ut6vtfa2simfvre/",
+                    "createdAt": null,
+                    "name": "Product Designer (accountabilities: product workstream multisig)"
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000300010002000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x00000003.0001.0002.0002.0002",
+                    "image": "https://ipfs.io/ipfs/bafybeibw6lpmugwodiay5kz7zfpfhsvvlutg4jzw6tlnofmyipkci36q2e/",
+                    "createdAt": null,
+                    "name": "Product Developer (accountabilities: product workstream multisig)"
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000000300010002000200020001000000000000000000000000000000000000",
+                        "prettyId": "0x00000003.0001.0002.0002.0002.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Test"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000300010002000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x00000003.0001.0002.0002.0003",
+                    "image": "https://ipfs.io/ipfs/bafybeiffvrgtx2qc7j2z74ucle7acmd2fggzru2o2sg2eogqy7v73npdty/",
+                    "createdAt": null,
+                    "name": "Social Media Admin — Product (accountabilities: product workstream multisig)"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000000300010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000003.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeibdhnb6qh4jglhsnabfgmnunplcnpeenrzsy7ezfippnqfbjatw4a/",
+            "createdAt": null,
+            "name": "Community Workstream (multisig)"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafybeifefy2xxuywvsubp3qzipw62vwbope7jfbwuduwu76vq7mpgkuusy/",
+                "createdAt": null,
+                "name": "DAO Operator (eligibility determined by election of community members)"
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000000300010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000003.0001.0003.0002",
+                "image": "https://ipfs.io/ipfs/bafybeigrwicgjieznn2cgmaxrroaubggnrjmngsvn3pbsb7civix5ulltq/Screenshot%202023-03-28%20at%2011.49.06%20PM.png",
+                "createdAt": null,
+                "name": "ClaimsHatter: DemoDAO Community Member claim-hat contract",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000000300010003000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x00000003.0001.0003.0002.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeib6fa73t23agnj25kvcbmbtuk2p5mi6yym47afk3xy6tw2dpxxm6e/",
+                    "createdAt": null,
+                    "name": "Community Member (claimed via ClaimsHatter)",
+                    "description": "",
+                    "authorities": [
+                      {
+                        "label": "Tester Hats Protocol 🧢",
+                        "description": "Test test test",
+                        "link": "https://discord.gg/BckVffkaxC",
+                        "gate": "https://guild.xyz/hats-protocol"
+                      },
+                      {
+                        "label": "Hats Protocol Demo",
+                        "description": "This is a demo space for using Hats Protocol in snapshot",
+                        "link": "https://snapshot.org/#/demo.hatsprotocol.eth",
+                        "gate": "https://snapshot.org/#/demo.hatsprotocol.eth"
+                      },
+                      {
+                        "label": "New tester",
+                        "description": "",
+                        "link": "https://testing.com",
+                        "gate": ""
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
