@@ -14,8 +14,6 @@ const [{ data: tree }] = await getCollection(
   )
 )
 
-console.debug({ tree })
-
 export const getStaticPaths = async () => (
   (await Promise.all(
     (await getCollection('trees')).map((tree) => {

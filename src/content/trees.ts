@@ -205,6 +205,12 @@ export const getTree = (
       )
       if(ids) {
         const rootId = ids.shift()
+        if(rootId !== treeId) {
+          console.warn(
+            `Hat (${hat.prettyId}) with root id ${rootId}`
+            + ` found in tree with id ${treeId}.`
+          )
+        }
         let currId = ids.shift()
         let current = base
         while(currId != null) {
