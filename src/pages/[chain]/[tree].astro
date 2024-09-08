@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content'
 import Layout from '../../layouts/Layout.astro'
 import { chains } from '../../content/chains'
 import type { Elem } from '../../content/config'
+import { isoDate } from '../../utils'
 
 const chainId = Number(Astro.params.chain) as keyof typeof chains
 const treeId = Astro.params.tree
@@ -31,7 +32,7 @@ export const getStaticPaths = async () => (
 <Layout title={`${chains[chainId]} Hats Explorer: ${treeId}`}`>
   <h1>
     <a href="../">←</a>
-    Tree {treeId} on {chains[chainId]}:
+    Tree {treeId} on {chains[chainId]} as of {isoDate()}:
     {tree.node.name}
   </h1>
   {(() => {

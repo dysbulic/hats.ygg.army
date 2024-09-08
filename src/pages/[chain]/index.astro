@@ -1,9 +1,10 @@
 ---
+import { getCollection } from 'astro:content'
 import Layout from '../../layouts/Layout.astro'
 import { chains } from '../../content/chains'
 import Entry from '../../components/Entry.astro'
-import { getCollection } from 'astro:content'
 import type { Hat, BadHat } from '../../content/trees'
+import { isoDate } from '../../utils'
 
 const chainId = (
   Number(Astro.params.chain) as keyof typeof chains
@@ -23,6 +24,7 @@ export function getStaticPaths() {
     <h1>
       <a href="../">←</a>
       Hats For Chain: {chains[chainId]} ({chainId})
+      as of {isoDate()}
     </h1>
 
     <ol>
