@@ -4,7 +4,7 @@ import { chains } from '../content/chains'
 ---
 <Layout title="Hats Explorer">
 	<main>
-		<h1>Pick A Chain To See Its Hats</h1>
+		<h1>Pick A Chain To See Its Hats:</h1>
 		<ul>
 			{Object.entries(chains).map(([number, name]) => (
 				<li><a href={`/${number}/`}>{name}</a></li>
