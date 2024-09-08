@@ -2,13 +2,14 @@
 import type { BadHat, Hat } from '../content/trees';
 
 interface Props {
-	hat: Hat | BadHat;
+	hat: Hat | BadHat
+	index: number
 }
 
-const { hat } = Astro.props;
+const { hat, index } = Astro.props;
 ---
 <h2>
-	{hat.id && `Tree 0x${Number(hat.id).toString(16).toUpperCase()}:`}
+	{hat.id && `Tree 0x${index.toString(16).padStart(3, '0').toUpperCase()}:`}
 	{hat.image && (
 		<img src={hat.image} alt={hat.name}/><span>:</span>
 	)}

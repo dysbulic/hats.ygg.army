@@ -1,28 +1,57 @@
 ---
+import { getCollection } from 'astro:content'
+import Layout from '../../layouts/Layout.astro'
 import { chains } from '../../content/chains'
-import { getTopHats } from '../../content/trees'
+import type { Elem } from '../../content/config'
 
 const chainId = Number(Astro.params.chain) as keyof typeof chains
-const treeId = Number(Astro.params.tree)
+const treeId = Astro.params.tree
+
+const [{ data: tree }] = await getCollection(
+  'trees',
+  (tree) => tree.id.startsWith(
+    `chain:${chainId}/tree.${treeId.padStart(3, '0')}`
+  )
+)
+
+console.debug({ tree })
 
 export const getStaticPaths = async () => (
   (await Promise.all(
-    Object.keys(chains).map(async (chain) => {
-      const chainId = Number(chain)
-      return (
-        (await getTopHats({ chainId }))
-        .map(
-          (tree) => (tree.valid && (
-            { params: { chain: chainId, tree: tree.id } }
-          ))
-        )
-        .filter(Boolean)
+    (await getCollection('trees')).map((tree) => {
+      const [, chainId, treeId] = (
+        tree.id.match(/chain:(\d+)\/tree\.(\d+)/) ?? []
       )
+      const params = (
+        { params: { chain: chainId, tree: treeId.replace(/^0+/g, '') } }
+      )
+      return params
     })
   )).flat()
 )
 ---
-<h1>
-  <a href="../">←</a>
-  Tree {treeId} on {chains[chainId]}
-</h1>
+<Layout title={`${chains[chainId]} Hats Explorer: ${treeId}`}`>
+  <h1>
+    <a href="../">←</a>
+    Tree {treeId} on {chains[chainId]}:
+    {tree.node.name}
+  </h1>
+  {(() => {
+    const print = (root: Elem) => (
+      <li>
+        <h2>{root.node.name}</h2>
+        {root.node.image && <img src={root.node.image} alt={root.node.name}/>}
+        {root.children && (
+          <ul>{root.children.map(print)}</ul>
+        )}
+      </li>
+    )
+    return <ul>{print(tree)}</ul>
+  })()}
+</Layout>
+
+<style>
+  img {
+    max-height: 5rem;
+  }
+</style>

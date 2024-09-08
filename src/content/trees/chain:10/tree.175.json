@@ -1,0 +1,105 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x000000af00000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x000000af",
+    "image": "https://ipfs.io/ipfs/bafybeif6hom3ur25mn7qmo4e3pwci5kkrtduyq3f7cqpvyjwqa5wboen6u",
+    "createdAt": null,
+    "name": "Optimism Fractal",
+    "description": "Optimism Fractal is a community dedicated to fostering collaboration, awarding public good creators, and optimizing governance on the Optimism Superchain. Learn more and join our weekly events at OptimismFractal.com",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x000000af00010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x000000af.0001",
+        "image": "https://ipfs.io/ipfs/bafybeiha5qmpt637s7w4pgr2vhhjamcr2xbfxwrj3h2lhlqyygv5hcsxvy",
+        "createdAt": null,
+        "name": "Autonomous Agent",
+        "description": "This is an autonomous agent that assigns Optimism Fractal Hats.",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000af00010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000af.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeih73ugmzeot7areobnk7tlmsrc6cyvqaumslx3te4ujrttktxwqwu",
+            "createdAt": null,
+            "name": "Respect Game Leader",
+            "description": "Go Optimism! You can claim the leader hat after earning over 50 Respect and signing the agreement showing that you have learned how to run Fractalgram, which is the telegram app that we use to play the Respect Game during weekly events. Each breakout room needs at least one leader who can do this, so it's an essential role in the community and we appreciate your service!",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000af00010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x000000af.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeigp27yn3vypq52276bt2waww2u4syvlrfvswzgl6mtxpzm5fyqs4e",
+                "createdAt": null,
+                "name": "Rising Star",
+                "description": "Gm optimist! You've earned significant Respect from the community and are on your way to leading the future of the internet. Once you earn 50 Respect and learn fractalgram, you can host a breakout room where we play the Respect Game at Optimism Fractal events. Way to go! 🙌🏽",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000af00010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x000000af.0001.0001.0002",
+                "image": "https://ipfs.io/ipfs/bafybeids2ik63qhqeaqypat7qbfwy2w4boey4ckie3bluxjf6z2xktagei",
+                "createdAt": null,
+                "name": "Fractalgram Certification",
+                "description": "This Hat shows that you've read the article about the fractalgram app that we use to play the Respect Game at weekly events. It only takes a few minutes to learn and is an important skill, which helps provide great experiences for all participants and helps Optimism Fractal grow.",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000af00010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000af.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeiazqznywqpacqzmc7knmsfrci6gtckwif5wq7ucxxybawrwl7pety",
+            "createdAt": null,
+            "name": "Rookie",
+            "description": "Congratulations, you've played the Respect Game and earned Respect at an Optimism Fractal event! This gives you access to the Optimism Fractal charmverse site and a new networking page for builders. Keep playing at weekly events to earn more Respect, level up in the community, and unlock new powers! ",
+            "authorities": [
+              {
+                "label": "CharmVerse",
+                "description": "",
+                "link": "https://app.charmverse.io/optimismfractal",
+                "imageUrl": "",
+                "gate": ""
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000af00010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000af.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeifrbdctg4hmwxzap3jshcx4yklkzcjs2bva76il7ro62fkhexvtyu",
+            "createdAt": null,
+            "name": "Mystery Hat",
+            "description": "Ahh, a mysterious onchain artifact! What hidden powers will it convey?",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

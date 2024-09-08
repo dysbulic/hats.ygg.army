@@ -1,0 +1,124 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x0000004200000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x00000042",
+    "image": "https://ipfs.io/ipfs/bafybeifwr2yv3sgtyn7tqrdkbxij6fzqhrn7j2tfkf556gcjixfmg2umtm",
+    "createdAt": null,
+    "name": "Colorado Blockchain",
+    "description": "Colorado Blockchain (COblockchain.org). Unifying Colorado crypto. Pre-Launching in 2024-Q3.\n\n① Colorado Blockchain Foundation (501c3)\n② Colorado Blockchain in Action (501c4)\n③ Colorado Blockchain DAO"
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x0000004200010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x00000042.0001",
+        "image": "https://ipfs.io/ipfs/bafybeifwr2yv3sgtyn7tqrdkbxij6fzqhrn7j2tfkf556gcjixfmg2umtm",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004200010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000042.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeievx2raat2j62ormzh3y526cjb4brkolyni5mexp3ttfqwway4efe",
+            "createdAt": null,
+            "name": "Foundation (501c3)",
+            "description": "Colorado Blockchain Foundation (501c3)",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004200010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000042.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafybeievx2raat2j62ormzh3y526cjb4brkolyni5mexp3ttfqwway4efe",
+                "createdAt": null,
+                "name": "Board of Stewards",
+                "description": "Colorado Blockchain Foundation (501c3): Board of Stewards",
+                "authorities": []
+              }
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004200010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000042.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeian3oze7t7rxlzl45k2ndmhxrt7px76cg3twqcb3fyy7l6xhkiaey",
+            "createdAt": null,
+            "name": "Action (501c4)",
+            "description": "Colorado Blockchain Action (501c4). NOTE: We will be seeking IRS 501(c)(4) status in 2024-Q4",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000004200010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x00000042.0001.0003",
+            "image": "https://ipfs.io/ipfs/bafybeiewowkfqteulsufn5xd6xbcfs3ter226ptck7hunnvysnpvmpcqem",
+            "createdAt": null,
+            "name": "DAO",
+            "description": "Colorado Blockchain DAO. Launching 2024-Q4",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004200010003000100000000000000000000000000000000000000000000",
+                "prettyId": "0x00000042.0001.0003.0001",
+                "image": "https://ipfs.io/ipfs/bafybeifttxlrgmbnq3af7llldf73drzzreygvfxzmt4slvfvry7ji2wl3q",
+                "createdAt": null,
+                "name": "Explorers",
+                "description": "Colorado Blockchain Explorers.  FREE for life!!",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004200010003000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000042.0001.0003.0002",
+                "image": "https://ipfs.io/ipfs/bafkreie6da4rridnwjseumhyccfw7k5e77fy4j73aq2vmobsggcb6kn4mq",
+                "createdAt": null,
+                "name": "Members",
+                "description": "Colorado Blockchain Members.  We believe in onchain technology and support it here in Colorado!!",
+                "authorities": []
+              }
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000004200010003000300000000000000000000000000000000000000000000",
+                "prettyId": "0x00000042.0001.0003.0003",
+                "image": "https://ipfs.io/ipfs/bafybeibn2etibqqjzdiub4sjt5ht2e24ldg4k75rvlwx4vzoxveiwtlezm",
+                "createdAt": null,
+                "name": "Ambassadors",
+                "description": "Colorado Blockchain Ambassadors.  We champion onchain technology in Colorado!!",
+                "authorities": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

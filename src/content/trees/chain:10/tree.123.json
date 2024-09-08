@@ -44,7 +44,7 @@
                 "prettyId": "0x0000007b.0001.0001.0001",
                 "image": "https://ipfs.io/ipfs/bafybeihgdfeblzx6wuoju52xze4xdoeqajbl3yzkrhi5t46vzham3tqa5u",
                 "createdAt": null,
-                "name": "Caster",
+                "name": "Authorized Caster",
                 "description": "Casters for the @cryptoleft account on Farcaster.",
                 "authorities": []
               }
@@ -57,8 +57,8 @@
                 "prettyId": "0x0000007b.0001.0001.0002",
                 "image": "https://ipfs.io/ipfs/bafybeibcecce5kolpb7jhg4dqpkladjnbzakkjvavwcialvrz3npyljoia",
                 "createdAt": null,
-                "name": "Automod",
-                "description": "Autonomous moderator for the /cryptoleft channel on Farcaster.",
+                "name": "Shared Account Owner",
+                "description": "Autonomous owner for the @cryptoleft account on Farcaster.",
                 "authorities": []
               }
             }

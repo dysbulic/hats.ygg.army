@@ -7,8 +7,7 @@ import { getTopHats } from '../src/content/trees'
 import fs from 'node:fs'
 
 const __dirname = new URL('.', import.meta.url).pathname
-const outdir = path.join(__dirname, '..', 'trees')
-
+const outdir = path.join(__dirname, '..', 'src', 'content', 'trees')
 await fs.promises.mkdir(outdir, { recursive: true })
 
 for(const [id, name] of Object.entries(chains)) {
@@ -23,12 +22,19 @@ for(const [id, name] of Object.entries(chains)) {
       if(!tree) {
         console.error(`Failed to load ${name}:${root.id}.`)
       } else {
-        const id = `0x${root.treeId.toString(16).padStart(3, '0')}`
-        const filename = `tree.chain:${chainId}.id:${id}.json`
-        console.debug(`Saving to ${filename}.`)
+        
+        const id = root.treeId.toString().padStart(3, '0')
+        await fs.promises.mkdir(
+          path.join(outdir, `chain:${chainId}`),
+          { recursive: true },
+        )
+        const filename = (
+          path.join(`chain:${chainId}`, `tree.${id}.json`)
+        )
+        console.debug(`Saving to \`${filename}\`.`)
         await fs.promises.writeFile(
           path.join(outdir, filename),
-          JSON.stringify(tree, null, 2)
+          JSON.stringify(tree, null, 2),
         )
       }
     }

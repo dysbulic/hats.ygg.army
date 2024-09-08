@@ -30,10 +30,10 @@
             "valid": true,
             "id": "0x0000006600010001000000000000000000000000000000000000000000000000",
             "prettyId": "0x00000066.0001.0001",
-            "image": "",
+            "image": "https://ipfs.io/ipfs/bafybeidxjil3t6u7bcopo4t3lq3flcdulinz7mt5seocfrfwjudn2t3pyq",
             "createdAt": null,
             "name": "$LGD",
-            "description": "",
+            "description": "This is a hat to be worn and governed by the Let's GROW DAO, a 1 person 1 vote Moloch DAO.\n\n$LGD is the token ticker of the DAO governance token, where the Core Team is a minority.\n\nTo understand the Let's GROW Ecosystem, visit the URL Below.\nhttps://garden.letsgrow.network/branches-working-groups-6070137545782321",
             "authorities": []
           },
           "children": [
@@ -46,7 +46,7 @@
                 "image": "",
                 "createdAt": null,
                 "name": "$GROW",
-                "description": "",
+                "description": "Reputational token of the Let's GROW Ecosystem; it is a free to transfer ERC20 token that is minted on-request via the DAO, and it is earned based on merits by contributing value to the Let's GROW Ecosystem.",
                 "authorities": []
               },
               "children": [
@@ -85,8 +85,16 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
-                            "authorities": []
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
+                            "authorities": [
+                              {
+                                "label": "GROW Officer Role",
+                                "description": "This authority unlocks the GROW Officer role at our Charmverse Workspace",
+                                "link": "https://garden.letsgrow.network/",
+                                "imageUrl": "",
+                                "gate": "https://garden.letsgrow.network/"
+                              }
+                            ]
                           }
                         },
                         {
@@ -97,7 +105,20 @@
                             "prettyId": "0x00000066.0001.0001.0001.0001.0001.0002",
                             "image": "",
                             "createdAt": null,
-                            "name": "WG Contributors",
+                            "name": "Partnerships WG",
+                            "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100010001000300000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0001.0001.0003",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "",
                             "description": "",
                             "authorities": []
                           }
@@ -113,7 +134,7 @@
                         "image": "",
                         "createdAt": null,
                         "name": "Marketing",
-                        "description": "",
+                        "description": "Marketing is part art and part science, when you combine the two magic happens",
                         "authorities": []
                       },
                       "children": [
@@ -126,7 +147,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                             "authorities": []
                           }
                         },
@@ -138,7 +159,7 @@
                             "prettyId": "0x00000066.0001.0001.0001.0001.0002.0002",
                             "image": "",
                             "createdAt": null,
-                            "name": "WG Contributors",
+                            "name": "Marketing WG",
                             "description": "",
                             "authorities": []
                           }
@@ -167,7 +188,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                             "authorities": []
                           }
                         },
@@ -179,7 +200,7 @@
                             "prettyId": "0x00000066.0001.0001.0001.0001.0003.0002",
                             "image": "",
                             "createdAt": null,
-                            "name": "WG Contributors",
+                            "name": "The GROW Voice",
                             "description": "",
                             "authorities": []
                           }
@@ -220,7 +241,7 @@
                             "prettyId": "0x00000066.0001.0001.0001.0001.0004.0002",
                             "image": "",
                             "createdAt": null,
-                            "name": "WG Contributors",
+                            "name": "Grants WG",
                             "description": "",
                             "authorities": []
                           }
@@ -251,7 +272,7 @@
                         "image": "",
                         "createdAt": null,
                         "name": "Regenaissance",
-                        "description": "",
+                        "description": "Organizing IRL events requires a comprehensive framework that addresses various aspects such as planning, logistics, legal considerations, marketing, and safety. ",
                         "authorities": []
                       },
                       "children": [
@@ -264,7 +285,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                             "authorities": []
                           }
                         },
@@ -276,7 +297,7 @@
                             "prettyId": "0x00000066.0001.0001.0001.0002.0001.0002",
                             "image": "",
                             "createdAt": null,
-                            "name": "WG Contributors",
+                            "name": "IRL Events WG",
                             "description": "",
                             "authorities": []
                           }
@@ -292,7 +313,7 @@
                         "image": "",
                         "createdAt": null,
                         "name": "GROW Live 🎙️",
-                        "description": "",
+                        "description": "If you are interested in any form of human collaborative effort towards a common good, this is the place to be and make connections ✌️",
                         "authorities": []
                       },
                       "children": [
@@ -305,7 +326,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "Live Host",
-                            "description": "",
+                            "description": "Community Members that help power the 24/7 decentralized broadcast.\n\nCheck out Host Directory at https://www.letsgrow.network/hosts",
                             "authorities": []
                           }
                         },
@@ -315,10 +336,10 @@
                             "valid": true,
                             "id": "0x0000006600010001000100020002000200000000000000000000000000000000",
                             "prettyId": "0x00000066.0001.0001.0001.0002.0002.0002",
-                            "image": "",
+                            "image": "https://ipfs.io/ipfs/bafkreihr4fhelqqsblip72g4pttomyb5kii44iuy223xlg2ckh3kqucvpi",
                             "createdAt": null,
                             "name": "Stewards",
-                            "description": "",
+                            "description": "Community Members in charge of keeping up the 24/7 Twitter Spaces online by being in the Let's GROW Host Role sending out co-host invites and transition every 2 hours into a new steward.\n\nThis is the group of people responsible for Twitter Space's record of 65+ hours during Gitcoin GG21",
                             "authorities": []
                           }
                         },
@@ -330,7 +351,7 @@
                             "prettyId": "0x00000066.0001.0001.0001.0002.0002.0003",
                             "image": "",
                             "createdAt": null,
-                            "name": "WG Contributors",
+                            "name": "GROW Live WG",
                             "description": "",
                             "authorities": []
                           }
@@ -344,7 +365,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                             "authorities": []
                           }
                         }
@@ -371,11 +392,19 @@
                         "valid": true,
                         "id": "0x0000006600010001000100030001000000000000000000000000000000000000",
                         "prettyId": "0x00000066.0001.0001.0001.0003.0001",
-                        "image": "",
+                        "image": "https://ipfs.io/ipfs/bafkreiey2qwnvmbbozjpktc6k3xz3ctwb46kd2isshsgxbdsli2gh7uf2i",
                         "createdAt": null,
                         "name": "Community Contributors",
-                        "description": "",
-                        "authorities": []
+                        "description": "People that participate in activities and have earned GROW tokens as rewards.",
+                        "authorities": [
+                          {
+                            "label": "Community Contributor Role",
+                            "description": "This authority unlocks the Community Contributor role in our Charmverse Workspace",
+                            "link": "https://garden.letsgrow.network/",
+                            "imageUrl": "",
+                            "gate": "https://garden.letsgrow.network/join?domain=lets-grow-dao"
+                          }
+                        ]
                       }
                     },
                     {
@@ -400,7 +429,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                             "authorities": []
                           }
                         },
@@ -414,6 +443,19 @@
                             "createdAt": null,
                             "name": "WG Contributors",
                             "description": "",
+                            "authorities": []
+                          }
+                        },
+                        {
+                          "node": {
+                            "loaded": true,
+                            "valid": true,
+                            "id": "0x0000006600010001000100030002000300000000000000000000000000000000",
+                            "prettyId": "0x00000066.0001.0001.0001.0003.0002.0003",
+                            "image": "",
+                            "createdAt": null,
+                            "name": "Passed Onboarding Flow",
+                            "description": "Wearers of this Hat has passed the Onboarding Flow held by the Community Onboarding Working Group",
                             "authorities": []
                           }
                         }
@@ -441,7 +483,7 @@
                             "image": "",
                             "createdAt": null,
                             "name": "GROW Officer",
-                            "description": "",
+                            "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                             "authorities": []
                           }
                         },
@@ -459,6 +501,27 @@
                           }
                         }
                       ]
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x0000006600010001000100030004000000000000000000000000000000000000",
+                        "prettyId": "0x00000066.0001.0001.0001.0003.0004",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Community Member",
+                        "description": "Members with Access to Let's GROW Community Layer, because they minted the Let's GROW Manifesto",
+                        "authorities": [
+                          {
+                            "label": "Community Member Role",
+                            "description": "Community Members have access to the bounties section and information hub and can create proposals for DAO Members to review and consider.",
+                            "link": "https://garden.letsgrow.network/",
+                            "imageUrl": "",
+                            "gate": "https://garden.letsgrow.network/join?domain=lets-grow-dao"
+                          }
+                        ]
+                      }
                     }
                   ]
                 },
@@ -499,7 +562,50 @@
                             "name": "Financial",
                             "description": "This is the traditional form of capital, encompassing money and other liquid assets that can be used to exchange goods and services. It includes cash, stocks, bonds, and other financial instruments.",
                             "authorities": []
-                          }
+                          },
+                          "children": [
+                            {
+                              "node": {
+                                "loaded": true,
+                                "valid": true,
+                                "id": "0x0000006600010001000100040001000100010000000000000000000000000000",
+                                "prettyId": "0x00000066.0001.0001.0001.0004.0001.0001.0001",
+                                "image": "",
+                                "createdAt": null,
+                                "name": "Token Engineering",
+                                "description": "",
+                                "authorities": []
+                              },
+                              "children": [
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000006600010001000100040001000100010001000000000000000000000000",
+                                    "prettyId": "0x00000066.0001.0001.0001.0004.0001.0001.0001.0001",
+                                    "image": "",
+                                    "createdAt": null,
+                                    "name": "GROW Officer",
+                                    "description": "",
+                                    "authorities": []
+                                  }
+                                },
+                                {
+                                  "node": {
+                                    "loaded": true,
+                                    "valid": true,
+                                    "id": "0x0000006600010001000100040001000100010002000000000000000000000000",
+                                    "prettyId": "0x00000066.0001.0001.0001.0004.0001.0001.0001.0002",
+                                    "image": "",
+                                    "createdAt": null,
+                                    "name": "WG Contributors",
+                                    "description": "",
+                                    "authorities": []
+                                  }
+                                }
+                              ]
+                            }
+                          ]
                         },
                         {
                           "node": {
@@ -523,7 +629,7 @@
                                 "image": "",
                                 "createdAt": null,
                                 "name": "Art",
-                                "description": "",
+                                "description": "Art plays a critical role when it comes to movements.\n\nIt acts as a mirror reflecting societal values, challenges, and aspirations, thereby fostering dialogue and action.\n\nArt is a tool for communities to lead, its function is not just as an expressive medium but as a leadership tool.\n\nThrough art, communities can visualize their potential futures, heal, and mobilize for change, making it an essential component in movements aimed at regeneration and renewal.",
                                 "authorities": []
                               },
                               "children": [
@@ -536,7 +642,7 @@
                                     "image": "",
                                     "createdAt": null,
                                     "name": "GROW Officer",
-                                    "description": "",
+                                    "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                                     "authorities": []
                                   }
                                 },
@@ -579,7 +685,7 @@
                                 "image": "",
                                 "createdAt": null,
                                 "name": "Merchandise",
-                                "description": "",
+                                "description": "Purpose of this working group is to create Merchandise for Let's GROW DAO to have giveaways, and raise funds for the various DAO initiatives.\n\nAll Merch must align with the core principles of Let's GROW DAO.  I.E.  Sustainable or even Regenerative products by design.",
                                 "authorities": []
                               },
                               "children": [
@@ -592,7 +698,7 @@
                                     "image": "",
                                     "createdAt": null,
                                     "name": "GROW Officer",
-                                    "description": "",
+                                    "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
                                     "authorities": []
                                   }
                                 },
@@ -688,14 +794,48 @@
                     "valid": true,
                     "id": "0x0000006600010001000100050000000000000000000000000000000000000000",
                     "prettyId": "0x00000066.0001.0001.0001.0005",
-                    "image": "",
+                    "image": "https://ipfs.io/ipfs/bafkreieq4qp4qycngw45xn4waggmc5gsstv2hqu3jjl2h3dv3oa22uwxd4",
                     "createdAt": null,
-                    "name": "Compliance Branch",
+                    "name": "Compliance Officers",
                     "description": "Led by the GROWPolice.eth multisig, this branch is in charge of making sure the Let's GROW Manifesto is being upheld by the community.",
                     "authorities": []
                   }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000006600010001000100060000000000000000000000000000000000000000",
+                    "prettyId": "0x00000066.0001.0001.0001.0006",
+                    "image": "https://ipfs.io/ipfs/bafkreid7mkxbeego7c3gdx7epnkygonou4ycd4dv3be3t7cahyr3rzble4",
+                    "createdAt": null,
+                    "name": "GROW Officers",
+                    "description": "The G.O. is responsible for the workflow of the group they lead.  They can do anything inside their sphere of influence leading up to the proposal in Charmverse for the larger community to review and approve.  Must be a DAO voting member.",
+                    "authorities": [
+                      {
+                        "label": "GROW Officer Role",
+                        "description": "Unlocks the GROW Officer role at The Garden, Let's GROW DAO Community Hub powered by Charmverse",
+                        "link": "https://garden.letsgrow.network",
+                        "imageUrl": "",
+                        "gate": "https://garden.letsgrow.network/join?domain=lets-grow-dao"
+                      }
+                    ]
+                  }
                 }
               ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000006600010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x00000066.0001.0001.0002",
+                "image": "",
+                "createdAt": null,
+                "name": "GROW Partners",
+                "description": "Partners of Let's GROW voted in by the DAO Members",
+                "authorities": []
+              }
             }
           ]
         }

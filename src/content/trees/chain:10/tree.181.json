@@ -1,0 +1,65 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x000000b500000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x000000b5",
+    "image": "https://ipfs.io/ipfs/bafkreif6go7ksrl3zcs7e3i32lqk34qllhyci4urxqcge4ylgzjwjftceu",
+    "createdAt": null,
+    "name": "Attractor.space",
+    "description": ""
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x000000b500010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x000000b5.0001",
+        "image": "",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000b500010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000b5.0001.0001",
+            "image": "",
+            "createdAt": null,
+            "name": "Contributor",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000b500010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x000000b5.0001.0001.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "Community Member",
+                "description": "",
+                "authorities": [
+                  {
+                    "label": "Limited access to our Charmverse",
+                    "description": "",
+                    "link": "https://app.charmverse.io/attractor-space",
+                    "imageUrl": "",
+                    "gate": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

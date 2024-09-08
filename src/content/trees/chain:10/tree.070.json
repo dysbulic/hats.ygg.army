@@ -51,13 +51,12 @@
         {
           "node": {
             "loaded": true,
-            "valid": true,
+            "valid": false,
             "id": "0x0000004600020001000000000000000000000000000000000000000000000000",
             "prettyId": "0x00000046.0002.0001",
             "image": "",
             "createdAt": null,
-            "name": "Chief Technology Officer",
-            "description": "Responsibilities\nTechnology Strategy and Development \nDefine Tech Strategy \nOversee Development of Projects\nEvaluate Emerging Technologies"
+            "error": "No data."
           }
         },
         {
@@ -269,12 +268,12 @@
         {
           "node": {
             "loaded": true,
-            "valid": true,
+            "valid": false,
             "id": "0x0000004600060003000000000000000000000000000000000000000000000000",
             "prettyId": "0x00000046.0006.0003",
             "image": "",
             "createdAt": null,
-            "name": "Customer Service"
+            "error": "No data."
           }
         }
       ]

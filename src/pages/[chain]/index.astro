@@ -1,13 +1,16 @@
 ---
-import Layout from "../../layouts/Layout.astro"
+import Layout from '../../layouts/Layout.astro'
 import { chains } from '../../content/chains'
-import { getTopHats } from "../../content/trees"
-import Entry from "../../components/Entry.astro"
+import Entry from '../../components/Entry.astro'
+import { getCollection } from 'astro:content'
+import type { Hat, BadHat } from '../../content/trees'
 
 const chainId = (
   Number(Astro.params.chain) as keyof typeof chains
 )
-const trees = await getTopHats({ chainId })
+const trees = await getCollection('trees', (tree) => (
+  tree.id.startsWith(`chain:${chainId}/`)
+))
 
 export function getStaticPaths() {
   return Object.keys(chains).map(
@@ -23,15 +26,11 @@ export function getStaticPaths() {
     </h1>
 
     <ol>
-      {trees?.map((top) => (
+      {trees?.map(({ data: { node: top } }, index) => (
         <li>
-          {top.id ? (
-            <a href={`/${chainId}/${top.id}/`}>
-              <Entry hat={top}/>
-            </a>
-          ) : (
-            <Entry hat={top}/>
-          )}
+          <a href={`/${chainId}/${index + 1}/`}>
+            <Entry hat={top as Hat | BadHat} index={index + 1}/>
+          </a>
           {top.description && <p>{top.description}</p>}
         </li>
       ))}

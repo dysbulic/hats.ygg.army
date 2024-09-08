@@ -182,6 +182,46 @@
               ]
             }
           ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x0000002a00010005000000000000000000000000000000000000000000000000",
+            "prettyId": "0x0000002a.0001.0005",
+            "image": "",
+            "createdAt": null,
+            "name": "The Inspired 24 Admin",
+            "description": "The Inspired 24 is an organization of like minded, space positive people working together to promote the access 2 space 4 all!"
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x0000002a00010005000100000000000000000000000000000000000000000000",
+                "prettyId": "0x0000002a.0001.0005.0001",
+                "image": "",
+                "createdAt": null,
+                "name": "The Inspired 24 Manager",
+                "description": "The Inspired 24 is an organization of like minded, space positive people working together to promote the access 2 space 4 all!"
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x0000002a00010005000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x0000002a.0001.0005.0001.0001",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "The Inspired 24 Member",
+                    "description": "The Inspired 24 is an organization of like minded, space positive people working together to promote the access 2 space 4 all!"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

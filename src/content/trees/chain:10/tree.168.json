@@ -1,0 +1,347 @@
+{
+  "node": {
+    "loaded": true,
+    "valid": true,
+    "id": "0x000000a800000000000000000000000000000000000000000000000000000000",
+    "prettyId": "0x000000a8",
+    "image": "https://ipfs.io/ipfs/bafkreidbacxxhoat66ax63ml5w2jrsvy6omxubdqwqpqidc7z4wttbnnwe",
+    "createdAt": null,
+    "name": "Hamza Labs",
+    "description": "Hamza is a decentralized E-commerce Marketplace. ",
+    "authorities": []
+  },
+  "children": [
+    {
+      "node": {
+        "loaded": true,
+        "valid": true,
+        "id": "0x000000a800010000000000000000000000000000000000000000000000000000",
+        "prettyId": "0x000000a8.0001",
+        "image": "https://ipfs.io/ipfs/bafkreidbacxxhoat66ax63ml5w2jrsvy6omxubdqwqpqidc7z4wttbnnwe",
+        "createdAt": null,
+        "name": "Autonomous Admin",
+        "description": "",
+        "authorities": []
+      },
+      "children": [
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a800010001000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a8.0001.0001",
+            "image": "https://ipfs.io/ipfs/bafybeihcyxozi6gtl5or2rsobb6gxfri7kphxahy3xcqoum6lqnyojvrhu",
+            "createdAt": null,
+            "name": "Hamza Governance Multi-Sig",
+            "description": "",
+            "authorities": []
+          },
+          "children": [
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000a800010001000100000000000000000000000000000000000000000000",
+                "prettyId": "0x000000a8.0001.0001.0001",
+                "image": "https://ipfs.io/ipfs/bafkreifbs3ujojmamlemtvbcnogl5tn2lw66ocjgxmpbkd4ippuy3owivi",
+                "createdAt": null,
+                "name": "Product Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000100010000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0001.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeid5ity2z6svbupioshizs5yzvtq3rdackirod2sap6x5z7mri574m",
+                    "createdAt": null,
+                    "name": "Lead Dev",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000100010001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0001.0001.0001",
+                        "image": "https://ipfs.io/ipfs/bafybeibuo7xyp77hhwbenywihxdys6u5kgbrkf7frtudcuq2sq6kxbgnii",
+                        "createdAt": null,
+                        "name": "Full-Time Dev",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000100010002000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0001.0001.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Open Source Contributor",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000a800010001000200000000000000000000000000000000000000000000",
+                "prettyId": "0x000000a8.0001.0001.0002",
+                "image": "https://ipfs.io/ipfs/bafybeig6mpz7c4lc35cgkgtc5kha53twg64gmkk6dkp4rtnrd4vfljzatq",
+                "createdAt": null,
+                "name": "Operations Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000200010000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0002.0001",
+                    "image": "https://ipfs.io/ipfs/bafybeidox2jozkjtzn6hsqsw3evojpl6kncwhb2ga4cssopbvjvoudnieq",
+                    "createdAt": null,
+                    "name": "Legally Compliant Hat",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000200020000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0002.0002",
+                    "image": "https://ipfs.io/ipfs/bafybeiaycuqv5ommxukxji72o547ctqrzcfyy3hntc2doo4ervlzyz7vz4",
+                    "createdAt": null,
+                    "name": "Finance Director Hat",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000200020001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0002.0002.0001",
+                        "image": "https://ipfs.io/ipfs/bafybeifc3hv2d3wgp4gzgvwxcsljroja2kn75d6m6tijjgxp52x7qvjxpq",
+                        "createdAt": null,
+                        "name": "Finance Auditor",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000200030000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0002.0003",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Escrow Team",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000200030001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0002.0003.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Escrow Clearance",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000200030002000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0002.0003.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Dispute Judge",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000200040000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0002.0004",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Customer Success",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000200040001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0002.0004.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Shipping Managers",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000200040002000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0002.0004.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Verified Seller",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node": {
+                "loaded": true,
+                "valid": true,
+                "id": "0x000000a800010001000300000000000000000000000000000000000000000000",
+                "prettyId": "0x000000a8.0001.0001.0003",
+                "image": "https://ipfs.io/ipfs/bafkreigpcdnyg2lzlznmtgfpoayjb7uft4jbszcfcrsmgs3f6dmtjqu7gm",
+                "createdAt": null,
+                "name": "Growth Team",
+                "description": "",
+                "authorities": []
+              },
+              "children": [
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000300010000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0003.0001",
+                    "image": "https://ipfs.io/ipfs/bafkreifaxajoww3wybs27v7we5bihar3w7nxp7txa47x2jpftnrr75mo6i",
+                    "createdAt": null,
+                    "name": "Farcaster",
+                    "description": "",
+                    "authorities": []
+                  }
+                },
+                {
+                  "node": {
+                    "loaded": true,
+                    "valid": true,
+                    "id": "0x000000a800010001000300020000000000000000000000000000000000000000",
+                    "prettyId": "0x000000a8.0001.0001.0003.0002",
+                    "image": "",
+                    "createdAt": null,
+                    "name": "Community Manager",
+                    "description": "",
+                    "authorities": []
+                  },
+                  "children": [
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000300020001000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0003.0002.0001",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Discord Mod",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000300020002000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0003.0002.0002",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Social Boosters",
+                        "description": "",
+                        "authorities": []
+                      }
+                    },
+                    {
+                      "node": {
+                        "loaded": true,
+                        "valid": true,
+                        "id": "0x000000a800010001000300020003000000000000000000000000000000000000",
+                        "prettyId": "0x000000a8.0001.0001.0003.0002.0003",
+                        "image": "",
+                        "createdAt": null,
+                        "name": "Affiliates",
+                        "description": "",
+                        "authorities": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a800010002000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a8.0001.0002",
+            "image": "https://ipfs.io/ipfs/bafybeifelzmp2z763pdo6lqbbko65favxluqbbqmwlievkbsoqvyj33nz4",
+            "createdAt": null,
+            "name": "Hamza Shadow Council",
+            "description": "",
+            "authorities": []
+          }
+        },
+        {
+          "node": {
+            "loaded": true,
+            "valid": true,
+            "id": "0x000000a800010003000000000000000000000000000000000000000000000000",
+            "prettyId": "0x000000a8.0001.0003",
+            "image": "",
+            "createdAt": null,
+            "name": "Foundation Agreement Signers",
+            "description": "",
+            "authorities": []
+          }
+        }
+      ]
+    }
+  ]
+}

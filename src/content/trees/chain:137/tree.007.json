@@ -34,23 +34,23 @@
         {
           "node": {
             "loaded": true,
-            "valid": false,
+            "valid": true,
             "id": "0x0000000700010002000000000000000000000000000000000000000000000000",
             "prettyId": "0x00000007.0001.0002",
             "image": "",
             "createdAt": null,
-            "error": "No data."
+            "name": "Assistant Operator"
           }
         },
         {
           "node": {
             "loaded": true,
-            "valid": true,
+            "valid": false,
             "id": "0x0000000700010003000000000000000000000000000000000000000000000000",
             "prettyId": "0x00000007.0001.0003",
             "image": "",
             "createdAt": null,
-            "name": "Member"
+            "error": "No data."
           }
         }
       ]
@@ -58,23 +58,23 @@
     {
       "node": {
         "loaded": true,
-        "valid": true,
+        "valid": false,
         "id": "0x0000000700020000000000000000000000000000000000000000000000000000",
         "prettyId": "0x00000007.0002",
         "image": "",
         "createdAt": null,
-        "name": "LexGuild"
+        "error": "No data."
       },
       "children": [
         {
           "node": {
             "loaded": true,
-            "valid": false,
+            "valid": true,
             "id": "0x0000000700020001000000000000000000000000000000000000000000000000",
             "prettyId": "0x00000007.0002.0001",
             "image": "",
             "createdAt": null,
-            "error": "No data."
+            "name": "KaliDAO"
           },
           "children": [
             {
